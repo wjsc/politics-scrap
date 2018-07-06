@@ -1,0 +1,2400 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://directorio.directoriolegislativo.org/sites/default/files/favicondirectorio_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/93132" />
+<link rel="canonical" href="/node/93132" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<title>Daniel Fernando Filmus | Directorio de Legisladores</title>
+<style>
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+</style>
+<style>
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+</style>
+<style>
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
+<style>
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+</style>
+
+<!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
+<script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"Crp7bofjsC-XJogvmk5k0ss52sDs-9y6rWfk9FRULqo","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93132 node-type-legislador">
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<div class="container logo">
+<img src="http://directorio.directoriolegislativo.org/sites/default/files/fdlogo.png" alt="Home" width="115" />
+</div>
+<div class="container container_del_header">
+<header id="navbar" role="banner" class="navbar container navbar-default">
+<div class="container">
+<div class="navbar-header">
+<div class="nav">
+<ul class="pull-left nav-left">
+<li class="nav-button ">
+<a href="http://directorio.directoriolegislativo.org">
+Home
+</a>
+</li>
+<li class="nav-button ">
+<a href="http://directorio.directoriolegislativo.org/node/66256">
+Quiénes somos
+</a>
+</li>
+<li class="nav-button ">
+<a href="http://alertas.directoriolegislativo.org/">
+Noticias
+</a>
+
+<div style="clear:both"></div>
+</ul>
+<form id="buscadornoticias" action="http://directorio.directoriolegislativo.org/fichas-de-legisladores" method="GET">
+<div class="pull-right nav-right">
+<div class="icon-search"></div>
+<input name="title" id="title" type="text" class="search " placeholder="BUSCAR...">
+<span class="btn login">
+<a href="http://directorio.directoriolegislativo.org/user" class="simplemodal-login">INGRESAR</a>
+</span>
+<a href="http://www.directoriolegislativo.org/suscribite/" class="suscribe">
+SUSCRIBITE
+</a>
+</div>
+</form>
+<div style="clear:both"></div>
+</div>
+</div>
+</header>
+<div class="main-container container">
+<header role="banner" id="page-header">
+</header> 
+<div class="row">
+<section class="col-sm-12">
+<a id="main-content"></a>
+<h1 class="page-header">Daniel Fernando Filmus</h1>
+<div class="region region-content">
+<section id="block-system-main" class="block block-system clearfix">
+<style>
+  .mail a {
+    font-weight: normal !important;
+  }
+  .info-project .nav-tabs{
+    border-bottom: 1px solid #e1e1e1;
+  }
+  .info{
+    padding-bottom: 10px !important;
+  }
+  .projects{
+    color: #1c1c1c !important;
+  }
+</style>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="content-profile">
+<div class="row">
+<ul class="col-lg-12 categories">
+<li class="category"><a href="http://alertas.directoriolegislativo.org/">Inicio</a></li>
+<div class="arrow-right"></div>
+<li href="javascript:void(0)" class="category"><a href="http://directorio.directoriolegislativo.org/fichas-de-legisladores">Directorio de Legisladores</a></li>
+<div class="arrow-right"></div>
+<li class="category active"><a href="javascript:void(0)">Daniel Fernando Filmus</a></li>
+<div style="clear:both"></div>
+</ul>
+<div class="col-md-3 bloque_izquierda">
+<div class="contenedor_bloque_celeste">
+<div class="personal-info">
+<div class="photo">
+<img src="http://directorio.directoriolegislativo.org/sites/default/files/styles/normal/public/Filmus%2C%20Daniel.jpg?itok=L43iIlbJ" width="100%" alt="">
+</div>
+<div class="title" style="margin-bottom: 17px !important; color: #333;">Datos personales</div>
+<ul class="info">
+<li class="born">
+<div class="text-info">Fecha de Nacimiento</div>
+03/06/1955 </li>
+<li class="city-born">
+<div class="text-info">Lugar de Nacimiento</div>
+Ciudad Autónoma de Buenos Aires, No Responde </li>
+<li class="personal-status">
+<div class="text-info">Estado Civil</div>
+Casado con Marisa Factorovich </li>
+<li class="sons">
+<div class="text-info">Hijos</div>
+2 (dos) </li>
+<li class="academy">
+<div class="text-info">Títulos académicos</div>
+<div class="titles">
+<ul class="estudio_alineado">
+<li>
+Docente </li>
+<li>
+Maestría (Universidad Fluminense (Brasil), 1989)
+</li>
+<li>
+Lic. en Sociología (U.B.A., 1977)
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-6 bloque_central">
+<div class="profile">
+<div class="name">
+Daniel Fernando Filmus </div>
+<div class="position">
+Senador Nacional </div>
+<div class="info-project">
+<div class="col-lg-6">
+<div class="info num-exp">
+<div class="text">Bloque</div>
+Frente para la Victoria - PJ </div>
+<div class="info status">
+<div class="text">Distrito</div>
+Ciudad Autónoma de Buenos Aires <!-- Legislador Object
+(
+    [undefined_values] => Array
+        (
+            [0] => no hay un partido asignado
+            [1] => no tiene
+            [2] => no hay datos
+        )
+
+    [no_data_string] => No Responde
+    [node] => stdClass Object
+        (
+            [vid] => 93132
+            [uid] => 0
+            [title] => Daniel Fernando Filmus
+            [log] => 
+            [status] => 1
+            [comment] => 2
+            [promote] => 1
+            [sticky] => 0
+            [nid] => 93132
+            [type] => legislador
+            [language] => und
+            [created] => 1464803417
+            [changed] => 1530019978
+            [tnid] => 0
+            [translate] => 0
+            [revision_timestamp] => 1530019978
+            [revision_uid] => 0
+            [field_bloque_id_sa] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 003G000000xDHyFIAW
+                                    [format] => 
+                                    [safe_value] => 003G000000xDHyFIAW
+                                )
+
+                        )
+
+                )
+
+            [field_bloque_related] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => a0KG0000006vyhyMAA
+                                    [format] => 
+                                    [safe_value] => a0KG0000006vyhyMAA
+                                )
+
+                        )
+
+                )
+
+            [field_l_cobra_desarraigo] => Array
+                (
+                )
+
+            [field_l_contesto_la_ficha] => Array
+                (
+                )
+
+            [field_l_anio] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1983
+                                    [format] => 
+                                    [safe_value] => 1983
+                                )
+
+                        )
+
+                )
+
+            [field_l_anio_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1989
+                                    [format] => 
+                                    [safe_value] => 1989
+                                )
+
+                        )
+
+                )
+
+            [field_l_anio_3] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1977
+                                    [format] => 
+                                    [safe_value] => 1977
+                                )
+
+                        )
+
+                )
+
+            [field_l_asesor_de_prensa] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_asesor_de_prensa_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_bloque_comentarios] => Array
+                (
+                )
+
+            [field_l_bloque_estado] => Array
+                (
+                )
+
+            [field_l_fecha_alta] => Array
+                (
+                )
+
+            [field_l_fecha_baja] => Array
+                (
+                )
+
+            [field_l_camara] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_cantidad_de_hi] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 2 (dos)
+                                    [format] => 
+                                    [safe_value] => 2 (dos)
+                                )
+
+                        )
+
+                )
+
+            [field_l_cargo_del_c] => Array
+                (
+                )
+
+            [field_l_cargo_segun_s] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Senador Nacional
+                                    [format] => 
+                                    [safe_value] => Senador Nacional
+                                )
+
+                        )
+
+                )
+
+            [field_l_cargo_universal] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Senador Nacional
+                                    [format] => 
+                                    [safe_value] => Senador Nacional
+                                )
+
+                        )
+
+                )
+
+            [field_l_cel_del_a_de_p] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_cel_del_leg] => Array
+                (
+                )
+
+            [field_l_cel_del_sec] => Array
+                (
+                )
+
+            [field_l_cel_personal] => Array
+                (
+                )
+
+            [field_l_clasi_del_co] => Array
+                (
+                )
+
+            [field_l_clave_de_data] => Array
+                (
+                )
+
+            [field_l_cod_pos] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => C1033AAV
+                                    [format] => 
+                                    [safe_value] => C1033AAV
+                                )
+
+                        )
+
+                )
+
+            [field_l_com_a_las_pert] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 8
+                                    [format] => 
+                                    [safe_value] => 8
+                                )
+
+                        )
+
+                )
+
+            [field_l_corr_e_alte] => Array
+                (
+                )
+
+            [field_l_corr_de_se] => Array
+                (
+                )
+
+            [field_l_corr_de_as_pr] => Array
+                (
+                )
+
+            [field_l_corr_del_man] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => dfilums@hcdn.gob.ar
+                                    [format] => 
+                                    [safe_value] => dfilums@hcdn.gob.ar
+                                )
+
+                        )
+
+                )
+
+            [field_l_corr_el_pe] => Array
+                (
+                )
+
+            [field_l_cre_por] => Array
+                (
+                )
+
+            [field_l_c_de_t] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => @filmusdaniel
+                                    [format] => 
+                                    [safe_value] => @filmusdaniel
+                                )
+
+                        )
+
+                )
+
+            [field_l_departamento] => Array
+                (
+                )
+
+            [field_l_descripcion] => Array
+                (
+                )
+
+            [field_l_direccion] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Av. Rivadavia 1829
+                                    [format] => 
+                                    [safe_value] => Av. Rivadavia 1829
+                                )
+
+                        )
+
+                )
+
+            [field_l_direccion_2] => Array
+                (
+                )
+
+            [field_l_direccion_de_c] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => No tiene
+                                    [format] => 
+                                    [safe_value] => No tiene
+                                )
+
+                        )
+
+                )
+
+            [field_l_distrito] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => a06G000000EgcuaIAB
+                                    [format] => 
+                                    [safe_value] => a06G000000EgcuaIAB
+                                )
+
+                        )
+
+                )
+
+            [field_l_dni] => Array
+                (
+                )
+
+            [field_l_edad] => Array
+                (
+                )
+
+            [field_l_eje_t] => Array
+                (
+                )
+
+            [field_l_email_2] => Array
+                (
+                )
+
+            [field_l_email_per] => Array
+                (
+                )
+
+            [field_l_emp_a_car] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 4
+                                    [format] => 
+                                    [safe_value] => 4
+                                )
+
+                        )
+
+                )
+
+            [field_l_esp] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Cultura;Educación;Discapacidad;Ciencia y Tecnología;Medio Ambiente
+                                    [format] => 
+                                    [safe_value] => Cultura;Educación;Discapacidad;Ciencia y Tecnología;Medio Ambiente
+                                )
+
+                        )
+
+                )
+
+            [field_l_esp_de_ti_aca] => Array
+                (
+                )
+
+            [field_l_esp_de_ti_aca_2] => Array
+                (
+                )
+
+            [field_l_esp_de_ti_aca_3] => Array
+                (
+                )
+
+            [field_l_esp_de_ca_un] => Array
+                (
+                )
+
+            [field_l_est_civil] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Casado
+                                    [format] => 
+                                    [safe_value] => Casado
+                                )
+
+                        )
+
+                )
+
+            [field_l_est_cont_ge] => Array
+                (
+                )
+
+            [field_l_est_del_ing] => Array
+                (
+                )
+
+            [field_l_est_del_man] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Vigente
+                                    [format] => 
+                                    [safe_value] => Vigente
+                                )
+
+                        )
+
+                )
+
+            [field_l_fax] => Array
+                (
+                )
+
+            [field_l_f_eg] => Array
+                (
+                )
+
+            [field_l_f_in] => Array
+                (
+                )
+
+            [field_l_fecha_de_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1955-06-03
+                                    [format] => 
+                                    [safe_value] => 1955-06-03
+                                )
+
+                        )
+
+                )
+
+            [field_l_form_dire] => Array
+                (
+                )
+
+            [field_l_foto] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHyF&amp;feoid=00NG0000008HdXa&amp;refid=0EM1L000000UsLt" alt="Filmus, Daniel.jpg"></img></p>
+                                    [format] => 
+                                    [safe_value] => &lt;p&gt;&lt;img src=&quot;https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHyF&amp;amp;feoid=00NG0000008HdXa&amp;amp;refid=0EM1L000000UsLt&quot; alt=&quot;Filmus, Daniel.jpg&quot;&gt;&lt;/img&gt;&lt;/p&gt;
+                                )
+
+                        )
+
+                )
+
+            [field_l_in_fe_ba] => Array
+                (
+                )
+
+            [field_l_in_fe_in] => Array
+                (
+                )
+
+            [field_l_in_tran] => Array
+                (
+                )
+
+            [field_l_inst] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Centro de Cooperación Regional para la Educación de los Adultos en América Latina y el Caribe de México
+                                    [format] => 
+                                    [safe_value] => Centro de Cooperación Regional para la Educación de los Adultos en América Latina y el Caribe de México
+                                )
+
+                        )
+
+                )
+
+            [field_l_inst_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Universidad Fluminense (Brasil)
+                                    [format] => 
+                                    [safe_value] => Universidad Fluminense (Brasil)
+                                )
+
+                        )
+
+                )
+
+            [field_l_inst_3] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => U.B.A.
+                                    [format] => 
+                                    [safe_value] => U.B.A.
+                                )
+
+                        )
+
+                )
+
+            [field_l_int_esp_fdl] => Array
+                (
+                )
+
+            [field_l_link_dl_on] => Array
+                (
+                )
+
+            [field_l_lista] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_loc_de_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Ciudad Autónoma de Buenos Aires
+                                    [format] => 
+                                    [safe_value] => Ciudad Autónoma de Buenos Aires
+                                )
+
+                        )
+
+                )
+
+            [field_l_mandato] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_mc_subs] => Array
+                (
+                )
+
+            [field_l_niv_de_gob] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Nacional
+                                    [format] => 
+                                    [safe_value] => Nacional
+                                )
+
+                        )
+
+                )
+
+            [field_l_no_ll] => Array
+                (
+                )
+
+            [field_l_nombre] => Array
+                (
+                )
+
+            [field_l_nombre_cuenta] => Array
+                (
+                )
+
+            [field_l_nombre_conyuge] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Marisa Factorovich
+                                    [format] => 
+                                    [safe_value] => Marisa Factorovich
+                                )
+
+                        )
+
+                )
+
+            [field_l_n_r_c_e] => Array
+                (
+                )
+
+            [field_l_n_r_f] => Array
+                (
+                )
+
+            [field_l_num_con] => Array
+                (
+                )
+
+            [field_l_num_lis] => Array
+                (
+                )
+
+            [field_l_ofi] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => "B"
+                                    [format] => 
+                                    [safe_value] => &quot;B&quot;
+                                )
+
+                        )
+
+                )
+
+            [field_l_ori_del_can] => Array
+                (
+                )
+
+            [field_l_otros] => Array
+                (
+                )
+
+            [field_l_pag_web] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => www.danielfilmus.com.ar
+                                    [format] => 
+                                    [safe_value] => www.danielfilmus.com.ar
+                                )
+
+                        )
+
+                )
+
+            [field_l_pai_de_nac] => Array
+                (
+                )
+
+            [field_l_piso] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 5°
+                                    [format] => 
+                                    [safe_value] => 5°
+                                )
+
+                        )
+
+                )
+
+            [field_l_pro_del_con] => Array
+                (
+                )
+
+            [field_l_provincia] => Array
+                (
+                )
+
+            [field_l_provincia_leg_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Ciudad Autónoma de Buenos Aires
+                                    [format] => 
+                                    [safe_value] => Ciudad Autónoma de Buenos Aires
+                                )
+
+                        )
+
+                )
+
+            [field_l_provincia_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_pro_pre] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 0897-D-2018. Interrupción voluntaria del embarazo -IVE-. Regimen. Modificaciones al código penal. 1779-D-2018. Régimen previsional para personal científico técnico o de apoyo, de organismos nacionales de investigación científica, tecnológica, o en innovación y desarrollo. Régimen. derogación de las leyes 22929 y 23026.
+                                    [format] => 
+                                    [safe_value] => 0897-D-2018. Interrupción voluntaria del embarazo -IVE-. Regimen. Modificaciones al código penal. 1779-D-2018. Régimen previsional para personal científico técnico o de apoyo, de organismos nacionales de investigación científica, tecnológica, o en innovación y desarrollo. Régimen. derogación de las leyes 22929 y 23026.
+                                )
+
+                        )
+
+                )
+
+            [field_l_razo_de_ingr] => Array
+                (
+                )
+
+            [field_l_razo_de_inte] => Array
+                (
+                )
+
+            [field_l_sala_legi] => Array
+                (
+                )
+
+            [field_l_secc_depa] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_ayudante] => Array
+                (
+                )
+
+            [field_l_secretario_a] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_sexo] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Masculino
+                                    [format] => 
+                                    [safe_value] => Masculino
+                                )
+
+                        )
+
+                )
+
+            [field_l_survey] => Array
+                (
+                )
+
+            [field_l_telefono] => Array
+                (
+                )
+
+            [field_l_telefono_int] => Array
+                (
+                )
+
+            [field_l_telefono_del_s] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_telefono_d] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => (011) 4951-6918
+                                    [format] => 
+                                    [safe_value] => (011) 4951-6918
+                                )
+
+                        )
+
+                )
+
+            [field_l_telefono_en_di] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_regi_de_cont] => Array
+                (
+                )
+
+            [field_l_titulo] => Array
+                (
+                )
+
+            [field_l_titulo_acad] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Docente
+                                    [format] => 
+                                    [safe_value] => Docente
+                                )
+
+                        )
+
+                )
+
+            [field_l_titulo_acad_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Maestría
+                                    [format] => 
+                                    [safe_value] => Maestría
+                                )
+
+                        )
+
+                )
+
+            [field_l_titulo_acad_3] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Lic. en Sociología
+                                    [format] => 
+                                    [safe_value] => Lic. en Sociología
+                                )
+
+                        )
+
+                )
+
+            [field_l_ubi_en_la_lis] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_u_f_s_s] => Array
+                (
+                )
+
+            [field_l_u_f_s_s_2] => Array
+                (
+                )
+
+            [field_l_u_m_por] => Array
+                (
+                )
+
+            [field_l_partido] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 001G000000hb2DwIAI
+                                    [format] => 
+                                    [safe_value] => 001G000000hb2DwIAI
+                                )
+
+                        )
+
+                )
+
+            [field_foto2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [fid] => 113
+                                    [uid] => 184
+                                    [filename] => Filmus, Daniel.jpg
+                                    [uri] => public://Filmus, Daniel.jpg
+                                    [filemime] => image/jpeg
+                                    [filesize] => 74363
+                                    [status] => 1
+                                    [timestamp] => 1526916167
+                                    [rdf_mapping] => Array
+                                        (
+                                        )
+
+                                    [alt] => 
+                                    [title] => 
+                                    [width] => 240
+                                    [height] => 240
+                                )
+
+                        )
+
+                )
+
+            [field_bloque_final] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => No hay un bloque asignado
+                                    [format] => 
+                                    [safe_value] => No hay un bloque asignado
+                                )
+
+                        )
+
+                )
+
+            [field_distrtito_final] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => No hay un distrtito asignado
+                                    [format] => 
+                                    [safe_value] => No hay un distrtito asignado
+                                )
+
+                        )
+
+                )
+
+            [field_foto_3] => Array
+                (
+                )
+
+            [field_l_ciudad_legislatura] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Ciudad Autónoma de Buenos Aires
+                                    [format] => 
+                                    [safe_value] => Ciudad Autónoma de Buenos Aires
+                                )
+
+                        )
+
+                )
+
+            [rdf_mapping] => Array
+                (
+                    [rdftype] => Array
+                        (
+                            [0] => sioc:Item
+                            [1] => foaf:Document
+                        )
+
+                    [title] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => dc:title
+                                )
+
+                        )
+
+                    [created] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => dc:date
+                                    [1] => dc:created
+                                )
+
+                            [datatype] => xsd:dateTime
+                            [callback] => date_iso8601
+                        )
+
+                    [changed] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => dc:modified
+                                )
+
+                            [datatype] => xsd:dateTime
+                            [callback] => date_iso8601
+                        )
+
+                    [body] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => content:encoded
+                                )
+
+                        )
+
+                    [uid] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => sioc:has_creator
+                                )
+
+                            [type] => rel
+                        )
+
+                    [name] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => foaf:name
+                                )
+
+                        )
+
+                    [comment_count] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => sioc:num_replies
+                                )
+
+                            [datatype] => xsd:integer
+                        )
+
+                    [last_activity] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => sioc:last_activity_date
+                                )
+
+                            [datatype] => xsd:dateTime
+                            [callback] => date_iso8601
+                        )
+
+                )
+
+            [cid] => 0
+            [last_comment_timestamp] => 1464803417
+            [last_comment_name] => 
+            [last_comment_uid] => 0
+            [comment_count] => 0
+            [name] => 
+            [picture] => 0
+            [data] => 
+            [entity_view_prepared] => 1
+        )
+
+    [nombre_del_legislador] => Daniel Fernando Filmus
+    [sexo] => Masculino
+    [id_salesforce_legislador] => 003G000000xDHyFIAW
+    [asesor_de_prensa] => No Responde
+    [cantidad_de_hijos] => 2 (dos)
+    [cel_del_asesor_de_prensa] => No Responde
+    [comisiones_a_las_que_pertenece] => 8
+    [correo_del_mandato] => dfilums@hcdn.gob.ar
+    [twitter] => @filmusdaniel
+    [direccion] => No tiene
+    [empleados_a_cargo] => 4
+    [especializacion] => Cultura; Educación; Discapacidad; Ciencia y Tecnología; Medio Ambiente
+    [especializacion_titulo] => No Responde
+    [especializacion_titulo_2] => No Responde
+    [especializacion_titulo_3] => No Responde
+    [estado_civil] => Casado
+    [fecha_de_nacimiento] => 03/06/1955
+    [localidad_de_nacimiento] => Ciudad Autónoma de Buenos Aires
+    [mandato] => No Responde
+    [pagina_web] => www.danielfilmus.com.ar
+    [proyectos_presentados] => 0897-D-2018. Interrupción voluntaria del embarazo -IVE-. Regimen. Modificaciones al código penal. 1779-D-2018. Régimen previsional para personal científico técnico o de apoyo, de organismos nacionales de investigación científica, tecnológica, o en innovación y desarrollo. Régimen. derogación de las leyes 22929 y 23026.
+    [proyectos] => Array
+        (
+            [0] => 0897-D-2018. Interrupción voluntaria del embarazo -IVE-. Regimen. Modificaciones al código penal. 1779-D-2018. Régimen previsional para personal científico técnico o de apoyo, de organismos nacionales de investigación científica, tecnológica, o en innovación y desarrollo. Régimen. derogación de las leyes 22929 y 23026.
+        )
+
+    [proyectos_presentados_new] => <span class="grisimp">0897-D-2018.</span> Interrupción voluntaria del embarazo -IVE-. Regimen. Modificaciones al código penal. 1779-D-2018. Régimen previsional para personal científico técnico o de apoyo, de organismos nacionales de investigación científica, tecnológica, o en innovación y desarrollo. Régimen. derogación de las leyes 22929 y 23026.<br>
+    [val] => 0897-D-2018. Interrupción voluntaria del embarazo -IVE-. Regimen. Modificaciones al código penal. 1779-D-2018. Régimen previsional para personal científico técnico o de apoyo, de organismos nacionales de investigación científica, tecnológica, o en innovación y desarrollo. Régimen. derogación de las leyes 22929 y 23026.
+    [key] => 0
+    [secretario_a] => No Responde
+    [telefono_del_secretario] => No Responde
+    [telefono] => (011) 4951-6918
+    [field_l_telefono_en_di] => No Responde
+    [titulo_academico] => Docente
+    [titulo_academico_2] => Maestría
+    [titulo_academico_3] => Lic. en Sociología
+    [anio_titulo_1] => 1983
+    [anio_titulo_2] => 1989
+    [anio_titulo_3] => 1977
+    [institucion_titulo_1] => Centro de Cooperación Regional para la Educación de los Adultos en América Latina y el Caribe de México
+    [institucion_titulo_2] => Universidad Fluminense (Brasil)
+    [institucion_titulo_3] => U.B.A.
+    [ubicacion_en_la_lista] => No Responde
+    [provincia] => Ciudad Autónoma de Buenos Aires
+    [distrito] => Argentina
+    [id_del_partido] => 001G000000hb2DwIAI
+    [foto] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHyF&feoid=00NG0000008HdXa&refid=0EM1L000000UsLt" alt="Filmus, Daniel.jpg"></img></p>
+    [cargo_universal] => Senador Nacional
+    [cargo_segun_sexo] => Senador Nacional
+    [partido] => Al. Fte. Para La Victoria
+    [bloque] => Frente para la Victoria - PJ
+    [lista] => Array
+        (
+            [title] => No hay una lista asignada
+            [porcentaje_de_votos] => No hay una lista asignada
+            [cantidad_de_bancas] => No hay una lista asignada
+        )
+
+    [conyuge] => Marisa Factorovich
+    [provincia_nac] => No Responde
+    [comision] => Array
+        (
+            [0] => Array
+                (
+                    [nombre_de_la_comision] => Cultura
+                    [cargo] => Presidente
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre_de_la_comision] => Ciencia, Tecnología e Innovación productiva
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre_de_la_comision] => Discapacidad
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [3] => Array
+                (
+                    [nombre_de_la_comision] => Educación
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [4] => Array
+                (
+                    [nombre_de_la_comision] => Legislación Penal
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [5] => Array
+                (
+                    [nombre_de_la_comision] => Prevención de Adicciones y Control del Narcotráfico
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [6] => Array
+                (
+                    [nombre_de_la_comision] => Recursos Naturales y Conservacion del Ambiente Humano
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [7] => Array
+                (
+                    [nombre_de_la_comision] => Mixta Unicameral  del Obs. Parl.sobre la Cuestión Malvinas
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+        )
+
+    [link_comision] => Array
+        (
+            [0] => Array
+                (
+                    [nombre_de_la_comision] => Cultura
+                    [cargo] => Presidente
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre_de_la_comision] => Ciencia, Tecnología e Innovación productiva
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre_de_la_comision] => Discapacidad
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [3] => Array
+                (
+                    [nombre_de_la_comision] => Educación
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [4] => Array
+                (
+                    [nombre_de_la_comision] => Legislación Penal
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [5] => Array
+                (
+                    [nombre_de_la_comision] => Prevención de Adicciones y Control del Narcotráfico
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [6] => Array
+                (
+                    [nombre_de_la_comision] => Recursos Naturales y Conservacion del Ambiente Humano
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [7] => Array
+                (
+                    [nombre_de_la_comision] => Mixta Unicameral  del Obs. Parl.sobre la Cuestión Malvinas
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+        )
+
+    [ultima_comision] => Array
+        (
+            [0] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [1] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [2] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [3] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [4] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [5] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [6] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [7] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [8] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [9] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [10] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [11] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [12] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [13] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [14] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [15] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [16] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [17] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [18] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [19] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [20] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [21] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [22] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [23] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [24] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [25] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [26] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [27] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [28] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [29] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [30] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [31] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+        )
+
+    [votacion_nominal] => 
+    [equipo_de_trabajo] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => Alanís
+                    [apellido] => Mariana
+                    [especializacion] => Jefa de Despacho
+                    [estado] => No vigente
+                )
+
+            [1] => Array
+                (
+                    [nombre] => Carcar
+                    [apellido] => Fabiola
+                    [especializacion] => Ciencia y Tecnología
+                    [estado] => No vigente
+                )
+
+            [2] => Array
+                (
+                    [nombre] => Moragues
+                    [apellido] => Mariana
+                    [especializacion] => Educación
+                    [estado] => No vigente
+                )
+
+            [3] => Array
+                (
+                    [nombre] => Rizzoti
+                    [apellido] => Andrea
+                    [especializacion] => Derechos y Garantías
+                    [estado] => No vigente
+                )
+
+            [4] => Array
+                (
+                    [nombre] => Gustavo
+                    [apellido] => Iglesias
+                    [especializacion] => Ambiente y Dsarrollo Sustentable
+                    [estado] => No vigente
+                )
+
+            [5] => Array
+                (
+                    [nombre] => Mariana
+                    [apellido] => Moragues
+                    [especializacion] => Educación
+                    [estado] => No vigente
+                )
+
+            [6] => Array
+                (
+                    [nombre] => Mara
+                    [apellido] => Braluer
+                    [especializacion] => Derechos y garantías
+                    [estado] => No vigente
+                )
+
+            [7] => Array
+                (
+                    [nombre] => Humberto
+                    [apellido] => Sabattini
+                    [especializacion] => 
+                    [estado] => No vigente
+                )
+
+            [8] => Array
+                (
+                    [nombre] => 
+                    [apellido] => 
+                    [especializacion] => Secretaria Privada
+                    [estado] => Vigente
+                )
+
+            [9] => Array
+                (
+                    [nombre] => 
+                    [apellido] => 
+                    [especializacion] => Prensa
+                    [estado] => Vigente
+                )
+
+        )
+
+    [otras_acti_prev_del_legislador] => Array
+        (
+            [Partidaria] => Array
+                (
+                    [0] => Array
+                        (
+                            [cargo] => Congresal Nacional
+                            [tipo_de_acti] => Partidaria
+                            [desde] => 2008
+                            [hasta] => 2012
+                            [otra_orga] => 
+                            [partido_organizacion] => Partido Justicialista
+                            [titulo] => Congresal Nacional
+                        )
+
+                )
+
+            [Privada] => Array
+                (
+                    [0] => Array
+                        (
+                            [cargo] => Profesor titular de Sociología en el CBC
+                            [tipo_de_acti] => Privada
+                            [desde] => 1985
+                            [hasta] => 2010
+                            [otra_orga] => UBA
+                            [partido_organizacion] => No hay un partido asignado
+                            [titulo] => Profesor titular de Sociología en el CBC
+                        )
+
+                )
+
+            [Donaciones] => Array
+                (
+                    [0] => Array
+                        (
+                            [cargo] => 
+                            [tipo_de_acti] => Donaciones
+                            [desde] => 
+                            [hasta] => 
+                            [otra_orga] => No responde
+                            [partido_organizacion] => No hay un partido asignado
+                            [titulo] => 
+                        )
+
+                )
+
+        )
+
+    [actividades_previas_del_legislador] => Array
+        (
+            [0] => Array
+                (
+                    [cargo] => Ministro
+                    [organizacion] => 
+                    [mandato] => 2003-2007
+                    [espe_univ] => de Educación, Ciencia y Tecnología de la Nación
+                    [field_app_ca_un] => Ministro
+                    [field_app_edcu] => de Educación, Ciencia y Tecnología de la Nación
+                    [field_app_distrito_reference] => Argentina
+                    [field_app_dis_mad] => 
+                )
+
+            [1] => Array
+                (
+                    [cargo] => Investigador
+                    [organizacion] => Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)
+                    [mandato] => 1997-2008
+                    [espe_univ] => categoría I
+                    [field_app_ca_un] => Investigador
+                    [field_app_edcu] => categoría I
+                    [field_app_distrito_reference] => Argentina
+                    [field_app_dis_mad] => 
+                )
+
+            [2] => Array
+                (
+                    [cargo] => Integrante
+                    [organizacion] => Miembro del Comité Ejecutivo y Vicepresidente por América Latina, UNESCO
+                    [mandato] => 2007-2011
+                    [espe_univ] => 
+                    [field_app_ca_un] => Integrante
+                    [field_app_edcu] => 
+                    [field_app_distrito_reference] => 
+                    [field_app_dis_mad] => 
+                )
+
+            [3] => Array
+                (
+                    [cargo] => Presidente
+                    [organizacion] => Presidente de la Comisión del Programa de Relaciones Exteriores, UNESCO
+                    [mandato] => 2007-2009
+                    [espe_univ] => 
+                    [field_app_ca_un] => Presidente
+                    [field_app_edcu] => 
+                    [field_app_distrito_reference] => 
+                    [field_app_dis_mad] => 
+                )
+
+            [4] => Array
+                (
+                    [cargo] => Secretario
+                    [organizacion] => Gobierno de la C. A. de Buenos Aires
+                    [mandato] => 2000-2003
+                    [espe_univ] => de Educación
+                    [field_app_ca_un] => Secretario
+                    [field_app_edcu] => de Educación
+                    [field_app_distrito_reference] => CABA
+                    [field_app_dis_mad] => Argentina
+                )
+
+            [5] => Array
+                (
+                    [cargo] => Senador Nacional
+                    [organizacion] => 
+                    [mandato] => 2007-2013
+                    [espe_univ] => 
+                    [field_app_ca_un] => Senador Nacional
+                    [field_app_edcu] => 
+                    [field_app_distrito_reference] => Argentina
+                    [field_app_dis_mad] => 
+                )
+
+            [6] => Array
+                (
+                    [cargo] => Senador Nacional
+                    [organizacion] => 
+                    [mandato] => 2007-2013
+                    [espe_univ] => 
+                    [field_app_ca_un] => Senador Nacional
+                    [field_app_edcu] => 
+                    [field_app_distrito_reference] => Argentina
+                    [field_app_dis_mad] => 
+                )
+
+            [7] => Array
+                (
+                    [cargo] => 
+                    [organizacion] => 
+                    [mandato] => 
+                    [espe_univ] => 
+                    [field_app_ca_un] => 
+                    [field_app_edcu] => 
+                    [field_app_distrito_reference] => 
+                    [field_app_dis_mad] => 
+                )
+
+            [8] => Array
+                (
+                    [cargo] => Secretario
+                    [organizacion] => Cancilleria Argentina
+                    [mandato] => 2013-2015
+                    [espe_univ] => Secretario Asuntos Legislativos Islas Malvinas
+                    [field_app_ca_un] => Secretario
+                    [field_app_edcu] => Secretario Asuntos Legislativos Islas Malvinas
+                    [field_app_distrito_reference] => 
+                    [field_app_dis_mad] => 
+                )
+
+        )
+
+    [salario] => Array
+        (
+            [0] => Array
+                (
+                    [salario] => Sueldo Bruto: $12.466,50 (dieta: $3.739,95 + gastos de representación: $8.726,55) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
+                )
+
+            [1] => Array
+                (
+                    [salario] => Sueldo bruto: $39.871,11 (dieta: $29.871,11 + gastos de representación:$10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
+                )
+
+            [2] => Array
+                (
+                    [salario] => Sueldo Bruto: $10.787,92 (dieta: $3.236,38.- ­+ gastos de representación: $7.551,54.-) + desarraigo: $1.200.- + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
+                )
+
+            [3] => Array
+                (
+                    [salario] => Sueldo Bruto: $10.787,92 (dieta: $3.236,38.- ­+ gastos de representación: $7.551,54.-) + desarraigo: $1.200.- + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
+                )
+
+            [4] => Array
+                (
+                    [salario] => Sueldo bruto: $39.871,11 (dieta: $29.871,11 + gastos de representación:$10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
+                )
+
+        )
+
+    [ultimo_salario] => Array
+        (
+            [salario] => Sueldo bruto: $39.871,11 (dieta: $29.871,11 + gastos de representación:$10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
+        )
+
+    [field_l_direccion] => Av. Rivadavia 1829
+    [field_l_piso] => 5°
+    [field_l_ofi] => "B"
+    [field_l_ciudad_legislatura] => Ciudad Autónoma de Buenos Aires
+    [field_l_cod_pos] => C1033AAV
+    [uri] => public://Filmus, Daniel.jpg
+    [foto_new] => http://directorio.directoriolegislativo.org/sites/default/files/styles/normal/public/Filmus%2C%20Daniel.jpg?itok=L43iIlbJ
+)
+ -->
+
+
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="info text-project">
+              <div class="text">Partido</div>
+              <a href="" class="pull-left">Al. Fte. Para La Victoria</a>
+              <div style="clear:both"></div>
+            </div>
+            <div class="info type">
+              <div class="text">Mandato</div>
+              No Responde            </div>
+          </div>
+          <div style="clear:both"></div>
+          <div class="activity text">
+            <ul class="nav nav-tabs">
+              <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
+              <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
+            </ul>
+            <div style="clear:both"></div>
+            <div class="tab-content">
+              <div id="home" class="tab-pane fade in active">
+                <h3 class="title">Especialización:</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity specialization">
+                    Cultura; Educación; Discapacidad; Ciencia y Tecnología; Medio Ambiente                  </li>
+                </ul>
+                <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                                      <div class="info-activity comission">
+                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Cultura                          </span>
+                                                                        (Presidente),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Ciencia, Tecnología e Innovación productiva                          </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Discapacidad                          </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Educación                          </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Legislación Penal                          </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Prevención de Adicciones y Control del Narcotráfico                          </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Recursos Naturales y Conservacion del Ambiente Humano                          </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Mixta Unicameral  del Obs. Parl.sobre la Cuestión Malvinas                          </span>
+                                                                        (Vocal).                                          </div>
+                                  </ul>
+                <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity projects">
+                    <span class="grisimp">0897-D-2018.</span> Interrupción voluntaria del embarazo -IVE-. Regimen. Modificaciones al código penal. 1779-D-2018. Régimen previsional para personal científico técnico o de apoyo, de organismos nacionales de investigación científica, tecnológica, o en innovación y desarrollo. Régimen. derogación de las leyes 22929 y 23026.<br>                  </li>
+                </ul>
+                <h3 class="title alone">
+                  Empleados a cargo:
+                  <span class="empleados-a-cargo-item">
+                    4                  </span>
+                </h3>
+                <h3 class="title">Equipo de trabajo:</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity employees">
+                                                                                                              <span class='grisimp'>(Secretaria Privada)</span>;                                                                       <span class='grisimp'>(Prensa)</span>.                                                            </li>
+                </ul>
+                <h3 class="title">Resultados electorales:</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity ubication">
+                  <div>
+                      <strong class="title">Ubicación en la lista:</strong>
+                      <span class="resultados-electorales-item">
+                        No Responde                      </span>
+                    </div>
+                  </li>
+                  <li class="info-activity seat">
+                  <div>
+                      <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
+                      <span class="resultados-electorales-item">
+                                                  No hay una lista asignada                                              </span >
+                    </div>
+                  </li>
+                  <li class="info-activity votes">
+                  <div>
+                      <strong class="title">Votos obtenidos:</strong>
+                      <span class="resultados-electorales-item">
+                                                  No hay una lista asignada                                              </span >
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div id="menu1" class="tab-pane fade">
+                <ul class="tab-content other-activity" data-id="2">
+                  <div class="other public-activity">
+                    <div class="title">
+                      Actividad pública previa
+                    </div>
+                    <li class="info-activity">
+                                                                        Ministro                          de Educación, Ciencia y Tecnología de la Nación                          <span class="extra-info">
+                            - Argentina                             (2003-2007)                       <!--       -->
+                          </span>
+                          <br>
+                                                  Investigador                          categoría I                          <span class="extra-info">
+                            - Argentina                             (1997-2008)                       <!--      - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) -->
+                          </span>
+                          <br>
+                                                  Integrante                                                    <span class="extra-info">
+                                                         (2007-2011)                       <!--      - Miembro del Comité Ejecutivo y Vicepresidente por América Latina, UNESCO -->
+                          </span>
+                          <br>
+                                                  Presidente                                                    <span class="extra-info">
+                                                         (2007-2009)                       <!--      - Presidente de la Comisión del Programa de Relaciones Exteriores, UNESCO -->
+                          </span>
+                          <br>
+                                                  Secretario                          de Educación                          <span class="extra-info">
+                            - CABA, Argentina                             (2000-2003)                       <!--      - Gobierno de la C. A. de Buenos Aires -->
+                          </span>
+                          <br>
+                                                  Senador Nacional                                                    <span class="extra-info">
+                            - Argentina                             (2007-2013)                       <!--       -->
+                          </span>
+                          <br>
+                                                  Senador Nacional                                                    <span class="extra-info">
+                            - Argentina                             (2007-2013)                       <!--       -->
+                          </span>
+                          <br>
+                                                                                                      <span class="extra-info">
+                                                                               <!--       -->
+                          </span>
+                          <br>
+                                                  Secretario                          Secretario Asuntos Legislativos Islas Malvinas                          <span class="extra-info">
+                                                         (2013-2015)                       <!--      - Cancilleria Argentina -->
+                          </span>
+                          <br>
+                                                                  </li>
+                  </div>
+                  <div class="other private-activity">
+                                                                                          <div class="title">Partidaria </div>
+                        <li class="info-activity">
+                                                                                                                Congresal Nacional                              <span class="grisimp">
+                                - Partido Justicialista                                (2008-2012)                              </span>
+                              <br>
+                                                                              </li>
+                                                                                                                <div class="title">Privada </div>
+                        <li class="info-activity">
+                                                                                                                Profesor titular de Sociología en el CBC                              <span class="grisimp">
+                                - UBA                                (1985-2010)                              </span>
+                              <br>
+                                                                              </li>
+                                                                                                                <div class="title">Donaciones </div>
+                        <li class="info-activity">
+                                                                                                                No responde                                                            <br>
+                                                                              </li>
+                                                              <div class="other ingr-activity">
+                      <div class="title">Ingresos brutos</div>
+                      <li class="info-activity">
+                        Sueldo bruto: $39.871,11 (dieta: $29.871,11 + gastos de representación:$10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)                      </li>
+                    </div>
+                  </div>
+                </ul>
+              </div>
+            </div>
+            <div class="nominal">
+                                        <div style="clear:both"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-3 bloque_derecha relations relations-projects">
+    <div class="title">¿Cómo comunicarse?</div>
+    <div class="border"></div>
+    <ul class="data place">
+      <li class="name-place">En el Congreso de la Nación</li>
+      <li class="address">
+        Av. Rivadavia 1829      </li>
+      <li class="zone">
+        5°        piso, of.
+        "B",
+        Ciudad Autónoma de Buenos Aires        (C1033AAV)
+      </li>
+    </ul>
+    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-phone"></i> Teléfono
+      </li>
+      <li class="tel-number">
+                  (011) 4951-6918              </li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-link"></i>&nbsp; Sitio Web
+      </li>
+      <li class="tel-number">
+                  <a href="http://www.danielfilmus.com.ar" target="_blank">www.danielfilmus.com.ar</a>
+              </li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data email" style="padding: 0px 0px 0px 0px;" >
+      <li class="title" >
+        <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
+      </li>
+      <li class="mail">
+                  <a class="mail_especial" href="mailto:dfilums@hcdn.gob.ar">dfilums@hcdn.gob.ar</a>
+              </li>
+       <div style="clear:both"></div>
+    </ul>
+    <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-user"></i> Secretario/a
+      </li>
+      <li class="name-secretary">No Responde</li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data advisory"  style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
+      </li>
+      <li class="advisory-number">
+                  <span class="asesordeprensa">No Responde</span>
+        
+      </li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data secretary"  style="padding: 0px 0px 0px 0px;">
+
+      <li class="title">En su distrito</li>
+      <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
+      <li class="advisory-number">No tiene</li>
+      <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
+      <li class="advisory-number">No Responde</li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+
+      <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
+      <li class="tel-number" style="text-transform:lowercase !important;">
+                  <a href="https://twitter.com/@filmusdaniel" target="_blank">
+          @filmusdaniel<a class="twitter-timeline"
+            href="https://twitter.com/filmusdaniel"
+            data-widget-id="735728825129046016"
+            data-screen-name="filmusdaniel">
+            Tweets by @filmusdaniel</a>
+            <script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>      </a>
+    </li>
+    <div style="clear:both"></div>
+  </ul>
+</div>
+</div>
+</div>
+
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+  <footer class="footer container">
+          <div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
+            <div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
+                2011 Fundación Directorio Legislativo
+            </div>
+            <div class="text-copy">
+              Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A. 
+            </div>
+            <div class="text-copy">
+              Tel: 5411-52184647/5411-52364293.
+            </div>
+            <div class="text-copy">
+              TODOS LOS DERECHOS RESERVADOS.
+            </div>
+          </div>
+
+
+
+          <div class="col-lg-3 copyright pull-right">
+
+  <span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
+  <span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
+  <span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
+  <span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
+  <span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
+
+          </div>
+          <div style="clear:both"></div>
+  </footer>
+
+
+
+
+
+
+</div>    <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</body>
+</html>

@@ -1,0 +1,2194 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://directorio.directoriolegislativo.org/sites/default/files/favicondirectorio_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/92406" />
+<link rel="canonical" href="/node/92406" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<title>Juan Pablo Arenaza | Directorio de Legisladores</title>
+<style>
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+</style>
+<style>
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+</style>
+<style>
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
+<style>
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+</style>
+
+<!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
+<script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"9wsSzdSTv5zRmJSvQ-jlJaT9W40kmShWiR3IVgDgKj4","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92406 node-type-legislador">
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<div class="container logo">
+<img src="http://directorio.directoriolegislativo.org/sites/default/files/fdlogo.png" alt="Home" width="115" />
+</div>
+<div class="container container_del_header">
+<header id="navbar" role="banner" class="navbar container navbar-default">
+<div class="container">
+<div class="navbar-header">
+<div class="nav">
+<ul class="pull-left nav-left">
+<li class="nav-button ">
+<a href="http://directorio.directoriolegislativo.org">
+Home
+</a>
+</li>
+<li class="nav-button ">
+<a href="http://directorio.directoriolegislativo.org/node/66256">
+Quiénes somos
+</a>
+</li>
+<li class="nav-button ">
+<a href="http://alertas.directoriolegislativo.org/">
+Noticias
+</a>
+
+<div style="clear:both"></div>
+</ul>
+<form id="buscadornoticias" action="http://directorio.directoriolegislativo.org/fichas-de-legisladores" method="GET">
+<div class="pull-right nav-right">
+<div class="icon-search"></div>
+<input name="title" id="title" type="text" class="search " placeholder="BUSCAR...">
+<span class="btn login">
+<a href="http://directorio.directoriolegislativo.org/user" class="simplemodal-login">INGRESAR</a>
+</span>
+<a href="http://www.directoriolegislativo.org/suscribite/" class="suscribe">
+SUSCRIBITE
+</a>
+</div>
+</form>
+<div style="clear:both"></div>
+</div>
+</div>
+</header>
+<div class="main-container container">
+<header role="banner" id="page-header">
+</header> 
+<div class="row">
+<section class="col-sm-12">
+<a id="main-content"></a>
+<h1 class="page-header">Juan Pablo Arenaza</h1>
+<div class="region region-content">
+<section id="block-system-main" class="block block-system clearfix">
+<style>
+  .mail a {
+    font-weight: normal !important;
+  }
+  .info-project .nav-tabs{
+    border-bottom: 1px solid #e1e1e1;
+  }
+  .info{
+    padding-bottom: 10px !important;
+  }
+  .projects{
+    color: #1c1c1c !important;
+  }
+</style>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="content-profile">
+<div class="row">
+<ul class="col-lg-12 categories">
+<li class="category"><a href="http://alertas.directoriolegislativo.org/">Inicio</a></li>
+<div class="arrow-right"></div>
+<li href="javascript:void(0)" class="category"><a href="http://directorio.directoriolegislativo.org/fichas-de-legisladores">Directorio de Legisladores</a></li>
+<div class="arrow-right"></div>
+<li class="category active"><a href="javascript:void(0)">Juan Pablo Arenaza</a></li>
+<div style="clear:both"></div>
+</ul>
+<div class="col-md-3 bloque_izquierda">
+<div class="contenedor_bloque_celeste">
+<div class="personal-info">
+<div class="photo">
+<img src="http://directorio.directoriolegislativo.org/sites/default/files/styles/normal/public/arenaza%2C%20juan%20pablo.jpg?itok=qia-gC4x" width="100%" alt="">
+</div>
+<div class="title" style="margin-bottom: 17px !important; color: #333;">Datos personales</div>
+<ul class="info">
+<li class="born">
+<div class="text-info">Fecha de Nacimiento</div>
+21/01/1973 </li>
+<li class="city-born">
+<div class="text-info">Lugar de Nacimiento</div>
+Ciudad Autónoma de Buenos Aires, No Responde </li>
+<li class="personal-status">
+<div class="text-info">Estado Civil</div>
+Soltero </li>
+<li class="sons">
+<div class="text-info">Hijos</div>
+No tiene </li>
+<li class="academy">
+<div class="text-info">Títulos académicos</div>
+<div class="titles">
+<ul class="estudio_alineado">
+<li>
+Lic. en Ciencia Política </li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-6 bloque_central">
+<div class="profile">
+<div class="name">
+Juan Pablo Arenaza </div>
+<div class="position">
+Legislador </div>
+<div class="info-project">
+<div class="col-lg-6">
+<div class="info num-exp">
+<div class="text">Bloque</div>
+Propuesta Republicana </div>
+<div class="info status">
+<div class="text">Distrito</div>
+CABA <!-- Legislador Object
+(
+    [undefined_values] => Array
+        (
+            [0] => no hay un partido asignado
+            [1] => no tiene
+            [2] => no hay datos
+        )
+
+    [no_data_string] => No Responde
+    [node] => stdClass Object
+        (
+            [vid] => 92406
+            [uid] => 0
+            [title] => Juan Pablo Arenaza
+            [log] => 
+            [status] => 1
+            [comment] => 2
+            [promote] => 1
+            [sticky] => 0
+            [nid] => 92406
+            [type] => legislador
+            [language] => und
+            [created] => 1464802353
+            [changed] => 1529143742
+            [tnid] => 0
+            [translate] => 0
+            [revision_timestamp] => 1529143742
+            [revision_uid] => 0
+            [field_bloque_id_sa] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 003G000000xDHnsIAG
+                                    [format] => 
+                                    [safe_value] => 003G000000xDHnsIAG
+                                )
+
+                        )
+
+                )
+
+            [field_bloque_related] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => a0KG0000002dHptMAE
+                                    [format] => 
+                                    [safe_value] => a0KG0000002dHptMAE
+                                )
+
+                        )
+
+                )
+
+            [field_l_cobra_desarraigo] => Array
+                (
+                )
+
+            [field_l_contesto_la_ficha] => Array
+                (
+                )
+
+            [field_l_anio] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_anio_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_anio_3] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_asesor_de_prensa] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Analía Fiorillo
+                                    [format] => 
+                                    [safe_value] => Analía Fiorillo
+                                )
+
+                        )
+
+                )
+
+            [field_l_asesor_de_prensa_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_bloque_comentarios] => Array
+                (
+                )
+
+            [field_l_bloque_estado] => Array
+                (
+                )
+
+            [field_l_fecha_alta] => Array
+                (
+                )
+
+            [field_l_fecha_baja] => Array
+                (
+                )
+
+            [field_l_camara] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Unicameral
+                                    [format] => 
+                                    [safe_value] => Unicameral
+                                )
+
+                        )
+
+                )
+
+            [field_l_cantidad_de_hi] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => No tiene
+                                    [format] => 
+                                    [safe_value] => No tiene
+                                )
+
+                        )
+
+                )
+
+            [field_l_cargo_del_c] => Array
+                (
+                )
+
+            [field_l_cargo_segun_s] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Legislador
+                                    [format] => 
+                                    [safe_value] => Legislador
+                                )
+
+                        )
+
+                )
+
+            [field_l_cargo_universal] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Legislador
+                                    [format] => 
+                                    [safe_value] => Legislador
+                                )
+
+                        )
+
+                )
+
+            [field_l_cel_del_a_de_p] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => (011) 155-138-9096
+                                    [format] => 
+                                    [safe_value] => (011) 155-138-9096
+                                )
+
+                        )
+
+                )
+
+            [field_l_cel_del_leg] => Array
+                (
+                )
+
+            [field_l_cel_del_sec] => Array
+                (
+                )
+
+            [field_l_cel_personal] => Array
+                (
+                )
+
+            [field_l_clasi_del_co] => Array
+                (
+                )
+
+            [field_l_clave_de_data] => Array
+                (
+                )
+
+            [field_l_cod_pos] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => C1067AAD
+                                    [format] => 
+                                    [safe_value] => C1067AAD
+                                )
+
+                        )
+
+                )
+
+            [field_l_com_a_las_pert] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 6
+                                    [format] => 
+                                    [safe_value] => 6
+                                )
+
+                        )
+
+                )
+
+            [field_l_corr_e_alte] => Array
+                (
+                )
+
+            [field_l_corr_de_se] => Array
+                (
+                )
+
+            [field_l_corr_de_as_pr] => Array
+                (
+                )
+
+            [field_l_corr_del_man] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => juanpablo.arenaza@legislatura.gov.ar
+                                    [format] => 
+                                    [safe_value] => juanpablo.arenaza@legislatura.gov.ar
+                                )
+
+                        )
+
+                )
+
+            [field_l_corr_el_pe] => Array
+                (
+                )
+
+            [field_l_cre_por] => Array
+                (
+                )
+
+            [field_l_c_de_t] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => @jparenaza
+                                    [format] => 
+                                    [safe_value] => @jparenaza
+                                )
+
+                        )
+
+                )
+
+            [field_l_departamento] => Array
+                (
+                )
+
+            [field_l_descripcion] => Array
+                (
+                )
+
+            [field_l_direccion] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Perú 130
+                                    [format] => 
+                                    [safe_value] => Perú 130
+                                )
+
+                        )
+
+                )
+
+            [field_l_direccion_2] => Array
+                (
+                )
+
+            [field_l_direccion_de_c] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => No tiene
+                                    [format] => 
+                                    [safe_value] => No tiene
+                                )
+
+                        )
+
+                )
+
+            [field_l_distrito] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => a06G000000EgcgKIAR
+                                    [format] => 
+                                    [safe_value] => a06G000000EgcgKIAR
+                                )
+
+                        )
+
+                )
+
+            [field_l_dni] => Array
+                (
+                )
+
+            [field_l_edad] => Array
+                (
+                )
+
+            [field_l_eje_t] => Array
+                (
+                )
+
+            [field_l_email_2] => Array
+                (
+                )
+
+            [field_l_email_per] => Array
+                (
+                )
+
+            [field_l_emp_a_car] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 7
+                                    [format] => 
+                                    [safe_value] => 7
+                                )
+
+                        )
+
+                )
+
+            [field_l_esp] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Acción Social;Seguridad Interior;Turismo
+                                    [format] => 
+                                    [safe_value] => Acción Social;Seguridad Interior;Turismo
+                                )
+
+                        )
+
+                )
+
+            [field_l_esp_de_ti_aca] => Array
+                (
+                )
+
+            [field_l_esp_de_ti_aca_2] => Array
+                (
+                )
+
+            [field_l_esp_de_ti_aca_3] => Array
+                (
+                )
+
+            [field_l_esp_de_ca_un] => Array
+                (
+                )
+
+            [field_l_est_civil] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Soltero
+                                    [format] => 
+                                    [safe_value] => Soltero
+                                )
+
+                        )
+
+                )
+
+            [field_l_est_cont_ge] => Array
+                (
+                )
+
+            [field_l_est_del_ing] => Array
+                (
+                )
+
+            [field_l_est_del_man] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Vigente
+                                    [format] => 
+                                    [safe_value] => Vigente
+                                )
+
+                        )
+
+                )
+
+            [field_l_fax] => Array
+                (
+                )
+
+            [field_l_f_eg] => Array
+                (
+                )
+
+            [field_l_f_in] => Array
+                (
+                )
+
+            [field_l_fecha_de_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1973-01-21
+                                    [format] => 
+                                    [safe_value] => 1973-01-21
+                                )
+
+                        )
+
+                )
+
+            [field_l_form_dire] => Array
+                (
+                )
+
+            [field_l_foto] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHns&amp;feoid=00NG0000008HdXa&amp;refid=0EMG00000009Fx4" alt="User-added image"></img></p>
+                                    [format] => 
+                                    [safe_value] => &lt;p&gt;&lt;img src=&quot;https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHns&amp;amp;feoid=00NG0000008HdXa&amp;amp;refid=0EMG00000009Fx4&quot; alt=&quot;User-added image&quot;&gt;&lt;/img&gt;&lt;/p&gt;
+                                )
+
+                        )
+
+                )
+
+            [field_l_in_fe_ba] => Array
+                (
+                )
+
+            [field_l_in_fe_in] => Array
+                (
+                )
+
+            [field_l_in_tran] => Array
+                (
+                )
+
+            [field_l_inst] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Universidad del Salvador
+                                    [format] => 
+                                    [safe_value] => Universidad del Salvador
+                                )
+
+                        )
+
+                )
+
+            [field_l_inst_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_inst_3] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_int_esp_fdl] => Array
+                (
+                )
+
+            [field_l_link_dl_on] => Array
+                (
+                )
+
+            [field_l_lista] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => a0AG000000Ks2MLMAZ
+                                    [format] => 
+                                    [safe_value] => a0AG000000Ks2MLMAZ
+                                )
+
+                        )
+
+                )
+
+            [field_l_loc_de_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Ciudad Autónoma de Buenos Aires
+                                    [format] => 
+                                    [safe_value] => Ciudad Autónoma de Buenos Aires
+                                )
+
+                        )
+
+                )
+
+            [field_l_mandato] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 2013-2017
+                                    [format] => 
+                                    [safe_value] => 2013-2017
+                                )
+
+                        )
+
+                )
+
+            [field_l_mc_subs] => Array
+                (
+                )
+
+            [field_l_niv_de_gob] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Provincial
+                                    [format] => 
+                                    [safe_value] => Provincial
+                                )
+
+                        )
+
+                )
+
+            [field_l_no_ll] => Array
+                (
+                )
+
+            [field_l_nombre] => Array
+                (
+                )
+
+            [field_l_nombre_cuenta] => Array
+                (
+                )
+
+            [field_l_nombre_conyuge] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_n_r_c_e] => Array
+                (
+                )
+
+            [field_l_n_r_f] => Array
+                (
+                )
+
+            [field_l_num_con] => Array
+                (
+                )
+
+            [field_l_num_lis] => Array
+                (
+                )
+
+            [field_l_ofi] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 404
+                                    [format] => 
+                                    [safe_value] => 404
+                                )
+
+                        )
+
+                )
+
+            [field_l_ori_del_can] => Array
+                (
+                )
+
+            [field_l_otros] => Array
+                (
+                )
+
+            [field_l_pag_web] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_pai_de_nac] => Array
+                (
+                )
+
+            [field_l_piso] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 4º
+                                    [format] => 
+                                    [safe_value] => 4º
+                                )
+
+                        )
+
+                )
+
+            [field_l_pro_del_con] => Array
+                (
+                )
+
+            [field_l_provincia] => Array
+                (
+                )
+
+            [field_l_provincia_leg_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_provincia_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_pro_pre] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 251-D-2014. Programa "Senderos nocturnos para salir seguro".
+252-D-2014. "Gestión de la información meteorológica de la Ciudad de Buenos Aires".
+                                    [format] => 
+                                    [safe_value] => 251-D-2014. Programa &quot;Senderos nocturnos para salir seguro&quot;.
+252-D-2014. &quot;Gestión de la información meteorológica de la Ciudad de Buenos Aires&quot;.
+                                )
+
+                        )
+
+                )
+
+            [field_l_razo_de_ingr] => Array
+                (
+                )
+
+            [field_l_razo_de_inte] => Array
+                (
+                )
+
+            [field_l_sala_legi] => Array
+                (
+                )
+
+            [field_l_secc_depa] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_ayudante] => Array
+                (
+                )
+
+            [field_l_secretario_a] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => María Pilar Rodríguez y Silvia Marchesi
+                                    [format] => 
+                                    [safe_value] => María Pilar Rodríguez y Silvia Marchesi
+                                )
+
+                        )
+
+                )
+
+            [field_l_sexo] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Masculino
+                                    [format] => 
+                                    [safe_value] => Masculino
+                                )
+
+                        )
+
+                )
+
+            [field_l_survey] => Array
+                (
+                )
+
+            [field_l_telefono] => Array
+                (
+                )
+
+            [field_l_telefono_int] => Array
+                (
+                )
+
+            [field_l_telefono_del_s] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => (011) 156-919-287
+                                    [format] => 
+                                    [safe_value] => (011) 156-919-287
+                                )
+
+                        )
+
+                )
+
+            [field_l_telefono_d] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => (011) 4338-3114
+                                    [format] => 
+                                    [safe_value] => (011) 4338-3114
+                                )
+
+                        )
+
+                )
+
+            [field_l_telefono_en_di] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_regi_de_cont] => Array
+                (
+                )
+
+            [field_l_titulo] => Array
+                (
+                )
+
+            [field_l_titulo_acad] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Lic. en Ciencia Política
+                                    [format] => 
+                                    [safe_value] => Lic. en Ciencia Política
+                                )
+
+                        )
+
+                )
+
+            [field_l_titulo_acad_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_titulo_acad_3] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_ubi_en_la_lis] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 2º
+                                    [format] => 
+                                    [safe_value] => 2º
+                                )
+
+                        )
+
+                )
+
+            [field_l_u_f_s_s] => Array
+                (
+                )
+
+            [field_l_u_f_s_s_2] => Array
+                (
+                )
+
+            [field_l_u_m_por] => Array
+                (
+                )
+
+            [field_l_partido] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 001G000001ewXfqIAE
+                                    [format] => 
+                                    [safe_value] => 001G000001ewXfqIAE
+                                )
+
+                        )
+
+                )
+
+            [field_foto2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [fid] => 18
+                                    [uid] => 184
+                                    [filename] => arenaza, juan pablo.jpg
+                                    [uri] => public://arenaza, juan pablo.jpg
+                                    [filemime] => image/jpeg
+                                    [filesize] => 439236
+                                    [status] => 1
+                                    [timestamp] => 1487773088
+                                    [rdf_mapping] => Array
+                                        (
+                                        )
+
+                                    [alt] => 
+                                    [title] => 
+                                    [width] => 1920
+                                    [height] => 1920
+                                )
+
+                        )
+
+                )
+
+            [field_bloque_final] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Propuesta Republicana
+                                    [format] => 
+                                    [safe_value] => Propuesta Republicana
+                                )
+
+                        )
+
+                )
+
+            [field_distrtito_final] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => CABA
+                                    [format] => 
+                                    [safe_value] => CABA
+                                )
+
+                        )
+
+                )
+
+            [field_foto_3] => Array
+                (
+                )
+
+            [field_l_ciudad_legislatura] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Ciudad Autónoma de Buenos Aires
+                                    [format] => 
+                                    [safe_value] => Ciudad Autónoma de Buenos Aires
+                                )
+
+                        )
+
+                )
+
+            [rdf_mapping] => Array
+                (
+                    [rdftype] => Array
+                        (
+                            [0] => sioc:Item
+                            [1] => foaf:Document
+                        )
+
+                    [title] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => dc:title
+                                )
+
+                        )
+
+                    [created] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => dc:date
+                                    [1] => dc:created
+                                )
+
+                            [datatype] => xsd:dateTime
+                            [callback] => date_iso8601
+                        )
+
+                    [changed] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => dc:modified
+                                )
+
+                            [datatype] => xsd:dateTime
+                            [callback] => date_iso8601
+                        )
+
+                    [body] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => content:encoded
+                                )
+
+                        )
+
+                    [uid] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => sioc:has_creator
+                                )
+
+                            [type] => rel
+                        )
+
+                    [name] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => foaf:name
+                                )
+
+                        )
+
+                    [comment_count] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => sioc:num_replies
+                                )
+
+                            [datatype] => xsd:integer
+                        )
+
+                    [last_activity] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => sioc:last_activity_date
+                                )
+
+                            [datatype] => xsd:dateTime
+                            [callback] => date_iso8601
+                        )
+
+                )
+
+            [cid] => 0
+            [last_comment_timestamp] => 1464802353
+            [last_comment_name] => 
+            [last_comment_uid] => 0
+            [comment_count] => 0
+            [name] => 
+            [picture] => 0
+            [data] => 
+            [entity_view_prepared] => 1
+        )
+
+    [nombre_del_legislador] => Juan Pablo Arenaza
+    [sexo] => Masculino
+    [id_salesforce_legislador] => 003G000000xDHnsIAG
+    [asesor_de_prensa] => Analía Fiorillo
+    [cantidad_de_hijos] => No tiene
+    [cel_del_asesor_de_prensa] => (011) 155-138-9096
+    [comisiones_a_las_que_pertenece] => 6
+    [correo_del_mandato] => juanpablo.arenaza@legislatura.gov.ar
+    [twitter] => @jparenaza
+    [direccion] => No tiene
+    [empleados_a_cargo] => 7
+    [especializacion] => Acción Social; Seguridad Interior; Turismo
+    [especializacion_titulo] => No Responde
+    [especializacion_titulo_2] => No Responde
+    [especializacion_titulo_3] => No Responde
+    [estado_civil] => Soltero
+    [fecha_de_nacimiento] => 21/01/1973
+    [localidad_de_nacimiento] => Ciudad Autónoma de Buenos Aires
+    [mandato] => 2013-2017
+    [pagina_web] => No Responde
+    [proyectos_presentados] => 251-D-2014. Programa "Senderos nocturnos para salir seguro".
+252-D-2014. "Gestión de la información meteorológica de la Ciudad de Buenos Aires".
+    [proyectos] => Array
+        (
+            [0] => 251-D-2014. Programa "Senderos nocturnos para salir seguro".
+            [1] => 252-D-2014. "Gestión de la información meteorológica de la Ciudad de Buenos Aires".
+        )
+
+    [proyectos_presentados_new] => <span class="grisimp">251-D-2014.</span> Programa "Senderos nocturnos para salir seguro".<br><span class="grisimp">252-D-2014.</span> "Gestión de la información meteorológica de la Ciudad de Buenos Aires".<br>
+    [val] => 252-D-2014. "Gestión de la información meteorológica de la Ciudad de Buenos Aires".
+    [key] => 1
+    [secretario_a] => María Pilar Rodríguez y Silvia Marchesi
+    [telefono_del_secretario] => (011) 156-919-287
+    [telefono] => (011) 4338-3114
+    [field_l_telefono_en_di] => No Responde
+    [titulo_academico] => Lic. en Ciencia Política
+    [titulo_academico_2] => 
+    [titulo_academico_3] => 
+    [anio_titulo_1] => 
+    [anio_titulo_2] => 
+    [anio_titulo_3] => 
+    [institucion_titulo_1] => Universidad del Salvador
+    [institucion_titulo_2] => 
+    [institucion_titulo_3] => 
+    [ubicacion_en_la_lista] => 2º
+    [provincia] => CABA
+    [distrito] => CABA
+    [id_del_partido] => 001G000001ewXfqIAE
+    [foto] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHns&feoid=00NG0000008HdXa&refid=0EMG00000009Fx4" alt="User-added image"></img></p>
+    [cargo_universal] => Legislador
+    [cargo_segun_sexo] => Legislador
+    [partido] => Propuesta Republicana
+    [bloque] => Propuesta Republicana
+    [lista] => Array
+        (
+            [title] => Unión Pro
+            [porcentaje_de_votos] => 33.59%
+            [cantidad_de_bancas] => 12
+        )
+
+    [conyuge] => 
+    [provincia_nac] => No Responde
+    [comision] => Array
+        (
+            [0] => Array
+                (
+                    [nombre_de_la_comision] => Asuntos Constitucionales 
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre_de_la_comision] => Derechos Humanos, Garantías y Antidiscriminación 
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre_de_la_comision] => Educación, Ciencia y Tecnología 
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [3] => Array
+                (
+                    [nombre_de_la_comision] => Justicia 
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [4] => Array
+                (
+                    [nombre_de_la_comision] => Presupuesto, Hacienda, Administración Financiera y Política Tributaria 
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [5] => Array
+                (
+                    [nombre_de_la_comision] => Seguridad 
+                    [cargo] => Presidente
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+        )
+
+    [link_comision] => Array
+        (
+            [0] => Array
+                (
+                    [nombre_de_la_comision] => Asuntos Constitucionales 
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre_de_la_comision] => Derechos Humanos, Garantías y Antidiscriminación 
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre_de_la_comision] => Educación, Ciencia y Tecnología 
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [3] => Array
+                (
+                    [nombre_de_la_comision] => Justicia 
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [4] => Array
+                (
+                    [nombre_de_la_comision] => Presupuesto, Hacienda, Administración Financiera y Política Tributaria 
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [5] => Array
+                (
+                    [nombre_de_la_comision] => Seguridad 
+                    [cargo] => Presidente
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+        )
+
+    [ultima_comision] => Array
+        (
+            [0] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [1] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [2] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [3] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [4] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [5] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [6] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [7] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [8] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [9] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [10] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [11] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [12] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [13] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [14] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [15] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [16] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [17] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [18] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [19] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [20] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [21] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [22] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+        )
+
+    [votacion_nominal] => 
+    [equipo_de_trabajo] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => Carolina
+                    [apellido] => Estebarena
+                    [especializacion] => Jefa de Despacho
+                    [estado] => No vigente
+                )
+
+            [1] => Array
+                (
+                    [nombre] => María Pilar
+                    [apellido] => Rodríguez
+                    [especializacion] => Secretaria Privada
+                    [estado] => Vigente
+                )
+
+            [2] => Array
+                (
+                    [nombre] => Martín
+                    [apellido] => Siracusa
+                    [especializacion] => 
+                    [estado] => No vigente
+                )
+
+            [3] => Array
+                (
+                    [nombre] => Ezequiel Agustín
+                    [apellido] => Daglio
+                    [especializacion] => Jefe de asesores
+                    [estado] => Vigente
+                )
+
+            [4] => Array
+                (
+                    [nombre] => Silvina
+                    [apellido] => Rodríguez
+                    [especializacion] => Secretaria Privada
+                    [estado] => No vigente
+                )
+
+            [5] => Array
+                (
+                    [nombre] => Analía
+                    [apellido] => Fiorillo
+                    [especializacion] => Prensa
+                    [estado] => Vigente
+                )
+
+            [6] => Array
+                (
+                    [nombre] => Silvia Alicia
+                    [apellido] => Marchesi
+                    [especializacion] => Secretaria privada
+                    [estado] => Vigente
+                )
+
+        )
+
+    [otras_acti_prev_del_legislador] => Array
+        (
+            [Partidaria] => Array
+                (
+                    [0] => Array
+                        (
+                            [cargo] => Secretario de Relaciones Políticas
+                            [tipo_de_acti] => Partidaria
+                            [desde] => 2007
+                            [hasta] => 2015
+                            [otra_orga] => 
+                            [partido_organizacion] => Unión por Todos
+                            [titulo] => Secretario de Relaciones Políticas
+                        )
+
+                    [1] => Array
+                        (
+                            [cargo] => Presidente
+                            [tipo_de_acti] => Partidaria
+                            [desde] => 2011
+                            [hasta] => 2015
+                            [otra_orga] => 
+                            [partido_organizacion] => Unión por Todos
+                            [titulo] => Presidente
+                        )
+
+                )
+
+            [Privada] => Array
+                (
+                    [0] => Array
+                        (
+                            [cargo] => Asesor
+                            [tipo_de_acti] => Privada
+                            [desde] => 2002
+                            [hasta] => 2007
+                            [otra_orga] => ONG´s Agora e Idear
+                            [partido_organizacion] => No hay un partido asignado
+                            [titulo] => Asesor
+                        )
+
+                    [1] => Array
+                        (
+                            [cargo] => 
+                            [tipo_de_acti] => Privada
+                            [desde] => 1997
+                            [hasta] => 1999
+                            [otra_orga] => American Express Argentina
+                            [partido_organizacion] => No hay un partido asignado
+                            [titulo] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [cargo] => 
+                            [tipo_de_acti] => Privada
+                            [desde] => 1995
+                            [hasta] => 1997
+                            [otra_orga] => City Bank
+                            [partido_organizacion] => No hay un partido asignado
+                            [titulo] => 
+                        )
+
+                )
+
+            [Donaciones] => Array
+                (
+                    [0] => Array
+                        (
+                            [cargo] => 
+                            [tipo_de_acti] => Donaciones
+                            [desde] => 
+                            [hasta] => 
+                            [otra_orga] => No realiza
+                            [partido_organizacion] => No hay un partido asignado
+                            [titulo] => 
+                        )
+
+                )
+
+        )
+
+    [actividades_previas_del_legislador] => Array
+        (
+            [0] => Array
+                (
+                    [cargo] => Legislador
+                    [organizacion] => 
+                    [mandato] => 2009-2013
+                    [espe_univ] => 
+                    [field_app_ca_un] => Legislador
+                    [field_app_edcu] => 
+                    [field_app_distrito_reference] => CABA
+                    [field_app_dis_mad] => Argentina
+                )
+
+            [1] => Array
+                (
+                    [cargo] => Jefe
+                    [organizacion] => Honorable Cámara de Diputados de la Nación
+                    [mandato] => 2007-2009
+                    [espe_univ] => de asesores y de despacho de la Diputada Patricia Bullrich
+                    [field_app_ca_un] => Jefe
+                    [field_app_edcu] => de asesores y de despacho de la Diputada Patricia Bullrich
+                    [field_app_distrito_reference] => Argentina
+                    [field_app_dis_mad] => 
+                )
+
+        )
+
+    [salario] => Array
+        (
+            [0] => Array
+                (
+                    [salario] => Sueldo bruto: $12.835,50
+                )
+
+            [1] => Array
+                (
+                    [salario] => Sueldo bruto: $22.762,120
+                )
+
+            [2] => Array
+                (
+                    [salario] => 
+                )
+
+        )
+
+    [ultimo_salario] => Array
+        (
+            [salario] => Sueldo neto: $38.000
+        )
+
+    [field_l_direccion] => Perú 130
+    [field_l_piso] => 4º
+    [field_l_ofi] => 404
+    [field_l_ciudad_legislatura] => Ciudad Autónoma de Buenos Aires
+    [field_l_cod_pos] => C1067AAD
+    [uri] => public://arenaza, juan pablo.jpg
+    [foto_new] => http://directorio.directoriolegislativo.org/sites/default/files/styles/normal/public/arenaza%2C%20juan%20pablo.jpg?itok=qia-gC4x
+)
+ -->
+
+
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="info text-project">
+              <div class="text">Partido</div>
+              <a href="" class="pull-left">Propuesta Republicana</a>
+              <div style="clear:both"></div>
+            </div>
+            <div class="info type">
+              <div class="text">Mandato</div>
+              2013-2017            </div>
+          </div>
+          <div style="clear:both"></div>
+          <div class="activity text">
+            <ul class="nav nav-tabs">
+              <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
+              <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
+            </ul>
+            <div style="clear:both"></div>
+            <div class="tab-content">
+              <div id="home" class="tab-pane fade in active">
+                <h3 class="title">Especialización:</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity specialization">
+                    Acción Social; Seguridad Interior; Turismo                  </li>
+                </ul>
+                <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                                      <div class="info-activity comission">
+                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Asuntos Constitucionales                           </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Derechos Humanos, Garantías y Antidiscriminación                           </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Educación, Ciencia y Tecnología                           </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Justicia                           </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Presupuesto, Hacienda, Administración Financiera y Política Tributaria                           </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Seguridad                           </span>
+                                                                        (Presidente).                                          </div>
+                                  </ul>
+                <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity projects">
+                    <span class="grisimp">251-D-2014.</span> Programa "Senderos nocturnos para salir seguro".<br><span class="grisimp">252-D-2014.</span> "Gestión de la información meteorológica de la Ciudad de Buenos Aires".<br>                  </li>
+                </ul>
+                <h3 class="title alone">
+                  Empleados a cargo:
+                  <span class="empleados-a-cargo-item">
+                    7                  </span>
+                </h3>
+                <h3 class="title">Equipo de trabajo:</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity employees">
+                                                                                                            María Pilar Rodríguez <span class='grisimp'>(Secretaria Privada)</span>;                                                                     Ezequiel Agustín Daglio <span class='grisimp'>(Jefe de asesores)</span>;                                                                     Analía Fiorillo <span class='grisimp'>(Prensa)</span>;                                                                     Silvia Alicia Marchesi <span class='grisimp'>(Secretaria privada)</span>.                                                            </li>
+                </ul>
+                <h3 class="title">Resultados electorales:</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity ubication">
+                  <div>
+                      <strong class="title">Ubicación en la lista:</strong>
+                      <span class="resultados-electorales-item">
+                        2º                      </span>
+                    </div>
+                  </li>
+                  <li class="info-activity seat">
+                  <div>
+                      <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
+                      <span class="resultados-electorales-item">
+                                                  12                                              </span >
+                    </div>
+                  </li>
+                  <li class="info-activity votes">
+                  <div>
+                      <strong class="title">Votos obtenidos:</strong>
+                      <span class="resultados-electorales-item">
+                                                  33.59%                                              </span >
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div id="menu1" class="tab-pane fade">
+                <ul class="tab-content other-activity" data-id="2">
+                  <div class="other public-activity">
+                    <div class="title">
+                      Actividad pública previa
+                    </div>
+                    <li class="info-activity">
+                                                                        Legislador                                                    <span class="extra-info">
+                            - CABA, Argentina                             (2009-2013)                       <!--       -->
+                          </span>
+                          <br>
+                                                  Jefe                          de asesores y de despacho de la Diputada Patricia Bullrich                          <span class="extra-info">
+                            - Argentina                             (2007-2009)                       <!--      - Honorable Cámara de Diputados de la Nación -->
+                          </span>
+                          <br>
+                                                                  </li>
+                  </div>
+                  <div class="other private-activity">
+                                                                                          <div class="title">Partidaria </div>
+                        <li class="info-activity">
+                                                                                                                Secretario de Relaciones Políticas                              <span class="grisimp">
+                                - Unión por Todos                                (2007-2015)                              </span>
+                              <br>
+                                                                                                                                            Presidente                              <span class="grisimp">
+                                - Unión por Todos                                (2011-2015)                              </span>
+                              <br>
+                                                                              </li>
+                                                                                                                <div class="title">Privada </div>
+                        <li class="info-activity">
+                                                                                                                Asesor                              <span class="grisimp">
+                                - ONG´s Agora e Idear                                (2002-2007)                              </span>
+                              <br>
+                                                                                                                                            American Express Argentina                                                              (1997 - 1999)
+                                                            <br>
+                                                                                                                                            City Bank                                                              (1995 - 1997)
+                                                            <br>
+                                                                              </li>
+                                                                                                                <div class="title">Donaciones </div>
+                        <li class="info-activity">
+                                                                                                                No realiza                                                            <br>
+                                                                              </li>
+                                                              <div class="other ingr-activity">
+                      <div class="title">Ingresos brutos</div>
+                      <li class="info-activity">
+                        Sueldo neto: $38.000                      </li>
+                    </div>
+                  </div>
+                </ul>
+              </div>
+            </div>
+            <div class="nominal">
+                                        <div style="clear:both"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-3 bloque_derecha relations relations-projects">
+    <div class="title">¿Cómo comunicarse?</div>
+    <div class="border"></div>
+    <ul class="data place">
+      <li class="name-place">En el Congreso de la Nación</li>
+      <li class="address">
+        Perú 130      </li>
+      <li class="zone">
+        4º        piso, of.
+        404,
+        Ciudad Autónoma de Buenos Aires        (C1067AAD)
+      </li>
+    </ul>
+    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-phone"></i> Teléfono
+      </li>
+      <li class="tel-number">
+                  (011) 4338-3114              </li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-link"></i>&nbsp; Sitio Web
+      </li>
+      <li class="tel-number">
+                  <a href="http://No Responde" target="_blank">No Responde</a>
+              </li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data email" style="padding: 0px 0px 0px 0px;" >
+      <li class="title" >
+        <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
+      </li>
+      <li class="mail">
+                  <a class="mail_especial" href="mailto:juanpablo.arenaza@legislatura.gov.ar">juanpablo.arenaza@legislatura.gov.ar</a>
+              </li>
+       <div style="clear:both"></div>
+    </ul>
+    <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-user"></i> Secretario/a
+      </li>
+      <li class="name-secretary">María Pilar Rodríguez y Silvia Marchesi</li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data advisory"  style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
+      </li>
+      <li class="advisory-number">
+                  <span class="asesordeprensa">Analía Fiorillo </span>
+          <br>
+          (011) 155-138-9096        
+      </li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data secretary"  style="padding: 0px 0px 0px 0px;">
+
+      <li class="title">En su distrito</li>
+      <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
+      <li class="advisory-number">No tiene</li>
+      <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
+      <li class="advisory-number">No Responde</li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+
+      <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
+      <li class="tel-number" style="text-transform:lowercase !important;">
+                  <a href="https://twitter.com/@jparenaza" target="_blank">
+          @jparenaza<a class="twitter-timeline"
+            href="https://twitter.com/jparenaza"
+            data-widget-id="735728825129046016"
+            data-screen-name="jparenaza">
+            Tweets by @jparenaza</a>
+            <script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>      </a>
+    </li>
+    <div style="clear:both"></div>
+  </ul>
+</div>
+</div>
+</div>
+
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+  <footer class="footer container">
+          <div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
+            <div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
+                2011 Fundación Directorio Legislativo
+            </div>
+            <div class="text-copy">
+              Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A. 
+            </div>
+            <div class="text-copy">
+              Tel: 5411-52184647/5411-52364293.
+            </div>
+            <div class="text-copy">
+              TODOS LOS DERECHOS RESERVADOS.
+            </div>
+          </div>
+
+
+
+          <div class="col-lg-3 copyright pull-right">
+
+  <span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
+  <span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
+  <span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
+  <span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
+  <span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
+
+          </div>
+          <div style="clear:both"></div>
+  </footer>
+
+
+
+
+
+
+</div>    <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</body>
+</html>

@@ -1,0 +1,2313 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://directorio.directoriolegislativo.org/sites/default/files/favicondirectorio_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/92421" />
+<link rel="canonical" href="/node/92421" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<title>Juan Carlos Marino | Directorio de Legisladores</title>
+<style>
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+</style>
+<style>
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+</style>
+<style>
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
+<style>
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+</style>
+
+<!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
+<script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"6RCtUDB3UA3GHC36PhBSOxikp1wt8dbtYyAEbLUsFDc","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92421 node-type-legislador">
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<div class="container logo">
+<img src="http://directorio.directoriolegislativo.org/sites/default/files/fdlogo.png" alt="Home" width="115" />
+</div>
+<div class="container container_del_header">
+<header id="navbar" role="banner" class="navbar container navbar-default">
+<div class="container">
+<div class="navbar-header">
+<div class="nav">
+<ul class="pull-left nav-left">
+<li class="nav-button ">
+<a href="http://directorio.directoriolegislativo.org">
+Home
+</a>
+</li>
+<li class="nav-button ">
+<a href="http://directorio.directoriolegislativo.org/node/66256">
+Quiénes somos
+</a>
+</li>
+<li class="nav-button ">
+<a href="http://alertas.directoriolegislativo.org/">
+Noticias
+</a>
+
+<div style="clear:both"></div>
+</ul>
+<form id="buscadornoticias" action="http://directorio.directoriolegislativo.org/fichas-de-legisladores" method="GET">
+<div class="pull-right nav-right">
+<div class="icon-search"></div>
+<input name="title" id="title" type="text" class="search " placeholder="BUSCAR...">
+<span class="btn login">
+<a href="http://directorio.directoriolegislativo.org/user" class="simplemodal-login">INGRESAR</a>
+</span>
+<a href="http://www.directoriolegislativo.org/suscribite/" class="suscribe">
+SUSCRIBITE
+</a>
+</div>
+</form>
+<div style="clear:both"></div>
+</div>
+</div>
+</header>
+<div class="main-container container">
+<header role="banner" id="page-header">
+</header> 
+<div class="row">
+<section class="col-sm-12">
+<a id="main-content"></a>
+<h1 class="page-header">Juan Carlos Marino</h1>
+<div class="region region-content">
+<section id="block-system-main" class="block block-system clearfix">
+<style>
+  .mail a {
+    font-weight: normal !important;
+  }
+  .info-project .nav-tabs{
+    border-bottom: 1px solid #e1e1e1;
+  }
+  .info{
+    padding-bottom: 10px !important;
+  }
+  .projects{
+    color: #1c1c1c !important;
+  }
+</style>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="content-profile">
+<div class="row">
+<ul class="col-lg-12 categories">
+<li class="category"><a href="http://alertas.directoriolegislativo.org/">Inicio</a></li>
+<div class="arrow-right"></div>
+<li href="javascript:void(0)" class="category"><a href="http://directorio.directoriolegislativo.org/fichas-de-legisladores">Directorio de Legisladores</a></li>
+<div class="arrow-right"></div>
+<li class="category active"><a href="javascript:void(0)">Juan Carlos Marino</a></li>
+<div style="clear:both"></div>
+</ul>
+<div class="col-md-3 bloque_izquierda">
+<div class="contenedor_bloque_celeste">
+<div class="personal-info">
+<div class="photo">
+<img src="/sites/default/files/legislador/Marino-Juan.jpg" width="100%" alt="">
+</div>
+<div class="title" style="margin-bottom: 17px !important; color: #333;">Datos personales</div>
+<ul class="info">
+<li class="born">
+<div class="text-info">Fecha de Nacimiento</div>
+23/10/1963 </li>
+<li class="city-born">
+<div class="text-info">Lugar de Nacimiento</div>
+Miguel Riglós, La Pampa </li>
+<li class="personal-status">
+<div class="text-info">Estado Civil</div>
+Casado con Daniela García </li>
+<li class="sons">
+<div class="text-info">Hijos</div>
+2 (dos) </li>
+<li class="academy">
+<div class="text-info">Títulos académicos</div>
+<div class="titles">
+<ul class="estudio_alineado">
+<li>
+No tiene </li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-6 bloque_central">
+<div class="profile">
+<div class="name">
+Juan Carlos Marino </div>
+<div class="position">
+Senador Nacional </div>
+<div class="info-project">
+<div class="col-lg-6">
+<div class="info num-exp">
+<div class="text">Bloque</div>
+Unión Cívica Radical </div>
+<div class="info status">
+<div class="text">Distrito</div>
+La Pampa <!-- Legislador Object
+(
+    [undefined_values] => Array
+        (
+            [0] => no hay un partido asignado
+            [1] => no tiene
+            [2] => no hay datos
+        )
+
+    [no_data_string] => No Responde
+    [node] => stdClass Object
+        (
+            [vid] => 92421
+            [uid] => 0
+            [title] => Juan Carlos Marino
+            [log] => 
+            [status] => 1
+            [comment] => 2
+            [promote] => 1
+            [sticky] => 0
+            [nid] => 92421
+            [type] => legislador
+            [language] => und
+            [created] => 1464802353
+            [changed] => 1530296848
+            [tnid] => 0
+            [translate] => 0
+            [revision_timestamp] => 1530296848
+            [revision_uid] => 0
+            [field_bloque_id_sa] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 003G000000xDHkoIAG
+                                    [format] => 
+                                    [safe_value] => 003G000000xDHkoIAG
+                                )
+
+                        )
+
+                )
+
+            [field_bloque_related] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => a0KG0000006vyicMAA
+                                    [format] => 
+                                    [safe_value] => a0KG0000006vyicMAA
+                                )
+
+                        )
+
+                )
+
+            [field_l_cobra_desarraigo] => Array
+                (
+                )
+
+            [field_l_contesto_la_ficha] => Array
+                (
+                )
+
+            [field_l_anio] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_anio_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_anio_3] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_asesor_de_prensa] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Ignacio Seijas
+                                    [format] => 
+                                    [safe_value] => Ignacio Seijas
+                                )
+
+                        )
+
+                )
+
+            [field_l_asesor_de_prensa_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_bloque_comentarios] => Array
+                (
+                )
+
+            [field_l_bloque_estado] => Array
+                (
+                )
+
+            [field_l_fecha_alta] => Array
+                (
+                )
+
+            [field_l_fecha_baja] => Array
+                (
+                )
+
+            [field_l_camara] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Senado
+                                    [format] => 
+                                    [safe_value] => Senado
+                                )
+
+                        )
+
+                )
+
+            [field_l_cantidad_de_hi] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 2 (dos)
+                                    [format] => 
+                                    [safe_value] => 2 (dos)
+                                )
+
+                        )
+
+                )
+
+            [field_l_cargo_del_c] => Array
+                (
+                )
+
+            [field_l_cargo_segun_s] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Senador Nacional
+                                    [format] => 
+                                    [safe_value] => Senador Nacional
+                                )
+
+                        )
+
+                )
+
+            [field_l_cargo_universal] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Senador Nacional
+                                    [format] => 
+                                    [safe_value] => Senador Nacional
+                                )
+
+                        )
+
+                )
+
+            [field_l_cel_del_a_de_p] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => (011) 156-266-6276
+                                    [format] => 
+                                    [safe_value] => (011) 156-266-6276
+                                )
+
+                        )
+
+                )
+
+            [field_l_cel_del_leg] => Array
+                (
+                )
+
+            [field_l_cel_del_sec] => Array
+                (
+                )
+
+            [field_l_cel_personal] => Array
+                (
+                )
+
+            [field_l_clasi_del_co] => Array
+                (
+                )
+
+            [field_l_clave_de_data] => Array
+                (
+                )
+
+            [field_l_cod_pos] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => C1089AAI
+                                    [format] => 
+                                    [safe_value] => C1089AAI
+                                )
+
+                        )
+
+                )
+
+            [field_l_com_a_las_pert] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 5
+                                    [format] => 
+                                    [safe_value] => 5
+                                )
+
+                        )
+
+                )
+
+            [field_l_corr_e_alte] => Array
+                (
+                )
+
+            [field_l_corr_de_se] => Array
+                (
+                )
+
+            [field_l_corr_de_as_pr] => Array
+                (
+                )
+
+            [field_l_corr_del_man] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => juan.marino@senado.gov.ar
+                                    [format] => 
+                                    [safe_value] => juan.marino@senado.gov.ar
+                                )
+
+                        )
+
+                )
+
+            [field_l_corr_el_pe] => Array
+                (
+                )
+
+            [field_l_cre_por] => Array
+                (
+                )
+
+            [field_l_c_de_t] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => @juancmarino
+                                    [format] => 
+                                    [safe_value] => @juancmarino
+                                )
+
+                        )
+
+                )
+
+            [field_l_departamento] => Array
+                (
+                )
+
+            [field_l_descripcion] => Array
+                (
+                )
+
+            [field_l_direccion] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Hipólito Yrigoyen 1849
+                                    [format] => 
+                                    [safe_value] => Hipólito Yrigoyen 1849
+                                )
+
+                        )
+
+                )
+
+            [field_l_direccion_2] => Array
+                (
+                )
+
+            [field_l_direccion_de_c] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => No responde
+                                    [format] => 
+                                    [safe_value] => No responde
+                                )
+
+                        )
+
+                )
+
+            [field_l_distrito] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => a06G000000EgcuaIAB
+                                    [format] => 
+                                    [safe_value] => a06G000000EgcuaIAB
+                                )
+
+                        )
+
+                )
+
+            [field_l_dni] => Array
+                (
+                )
+
+            [field_l_edad] => Array
+                (
+                )
+
+            [field_l_eje_t] => Array
+                (
+                )
+
+            [field_l_email_2] => Array
+                (
+                )
+
+            [field_l_email_per] => Array
+                (
+                )
+
+            [field_l_emp_a_car] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => No responde
+                                    [format] => 
+                                    [safe_value] => No responde
+                                )
+
+                        )
+
+                )
+
+            [field_l_esp] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Agricultura;Comunicaciones;Ganadería;Libertad de Expresión;Relaciones Exteriores
+                                    [format] => 
+                                    [safe_value] => Agricultura;Comunicaciones;Ganadería;Libertad de Expresión;Relaciones Exteriores
+                                )
+
+                        )
+
+                )
+
+            [field_l_esp_de_ti_aca] => Array
+                (
+                )
+
+            [field_l_esp_de_ti_aca_2] => Array
+                (
+                )
+
+            [field_l_esp_de_ti_aca_3] => Array
+                (
+                )
+
+            [field_l_esp_de_ca_un] => Array
+                (
+                )
+
+            [field_l_est_civil] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Casado
+                                    [format] => 
+                                    [safe_value] => Casado
+                                )
+
+                        )
+
+                )
+
+            [field_l_est_cont_ge] => Array
+                (
+                )
+
+            [field_l_est_del_ing] => Array
+                (
+                )
+
+            [field_l_est_del_man] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Vigente
+                                    [format] => 
+                                    [safe_value] => Vigente
+                                )
+
+                        )
+
+                )
+
+            [field_l_fax] => Array
+                (
+                )
+
+            [field_l_f_eg] => Array
+                (
+                )
+
+            [field_l_f_in] => Array
+                (
+                )
+
+            [field_l_fecha_de_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1963-10-23
+                                    [format] => 
+                                    [safe_value] => 1963-10-23
+                                )
+
+                        )
+
+                )
+
+            [field_l_form_dire] => Array
+                (
+                )
+
+            [field_l_foto] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHko&amp;feoid=00NG0000008HdXa&amp;refid=0EM1L000000Us6e" alt="Marino Juan Carlos.png"></img></p>
+                                    [format] => 
+                                    [safe_value] => &lt;p&gt;&lt;img src=&quot;https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHko&amp;amp;feoid=00NG0000008HdXa&amp;amp;refid=0EM1L000000Us6e&quot; alt=&quot;Marino Juan Carlos.png&quot;&gt;&lt;/img&gt;&lt;/p&gt;
+                                )
+
+                        )
+
+                )
+
+            [field_l_in_fe_ba] => Array
+                (
+                )
+
+            [field_l_in_fe_in] => Array
+                (
+                )
+
+            [field_l_in_tran] => Array
+                (
+                )
+
+            [field_l_inst] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => No tiene
+                                    [format] => 
+                                    [safe_value] => No tiene
+                                )
+
+                        )
+
+                )
+
+            [field_l_inst_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_inst_3] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_int_esp_fdl] => Array
+                (
+                )
+
+            [field_l_link_dl_on] => Array
+                (
+                )
+
+            [field_l_lista] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => a0A1600000eWdEiEAK
+                                    [format] => 
+                                    [safe_value] => a0A1600000eWdEiEAK
+                                )
+
+                        )
+
+                )
+
+            [field_l_loc_de_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Miguel Riglós
+                                    [format] => 
+                                    [safe_value] => Miguel Riglós
+                                )
+
+                        )
+
+                )
+
+            [field_l_mandato] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 2015-2021
+                                    [format] => 
+                                    [safe_value] => 2015-2021
+                                )
+
+                        )
+
+                )
+
+            [field_l_mc_subs] => Array
+                (
+                )
+
+            [field_l_niv_de_gob] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Nacional
+                                    [format] => 
+                                    [safe_value] => Nacional
+                                )
+
+                        )
+
+                )
+
+            [field_l_no_ll] => Array
+                (
+                )
+
+            [field_l_nombre] => Array
+                (
+                )
+
+            [field_l_nombre_cuenta] => Array
+                (
+                )
+
+            [field_l_nombre_conyuge] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Daniela García
+                                    [format] => 
+                                    [safe_value] => Daniela García
+                                )
+
+                        )
+
+                )
+
+            [field_l_n_r_c_e] => Array
+                (
+                )
+
+            [field_l_n_r_f] => Array
+                (
+                )
+
+            [field_l_num_con] => Array
+                (
+                )
+
+            [field_l_num_lis] => Array
+                (
+                )
+
+            [field_l_ofi] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 63 "B"
+                                    [format] => 
+                                    [safe_value] => 63 &quot;B&quot;
+                                )
+
+                        )
+
+                )
+
+            [field_l_ori_del_can] => Array
+                (
+                )
+
+            [field_l_otros] => Array
+                (
+                )
+
+            [field_l_pag_web] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => www.juancarlosmarino.com.ar
+                                    [format] => 
+                                    [safe_value] => www.juancarlosmarino.com.ar
+                                )
+
+                        )
+
+                )
+
+            [field_l_pai_de_nac] => Array
+                (
+                )
+
+            [field_l_piso] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1º
+                                    [format] => 
+                                    [safe_value] => 1º
+                                )
+
+                        )
+
+                )
+
+            [field_l_pro_del_con] => Array
+                (
+                )
+
+            [field_l_provincia] => Array
+                (
+                )
+
+            [field_l_provincia_leg_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => La Pampa
+                                    [format] => 
+                                    [safe_value] => La Pampa
+                                )
+
+                        )
+
+                )
+
+            [field_l_provincia_nac] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => La Pampa
+                                    [format] => 
+                                    [safe_value] => La Pampa
+                                )
+
+                        )
+
+                )
+
+            [field_l_pro_pre] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => S-1288/16. Proyecto de Ley creando el programa nacional de educación en ética y valores democráticos. 
+S-1081/16. Proyecto de Ley de acceso a la información pública.
+                                    [format] => 
+                                    [safe_value] => S-1288/16. Proyecto de Ley creando el programa nacional de educación en ética y valores democráticos. 
+S-1081/16. Proyecto de Ley de acceso a la información pública.
+                                )
+
+                        )
+
+                )
+
+            [field_l_razo_de_ingr] => Array
+                (
+                )
+
+            [field_l_razo_de_inte] => Array
+                (
+                )
+
+            [field_l_sala_legi] => Array
+                (
+                )
+
+            [field_l_secc_depa] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_ayudante] => Array
+                (
+                )
+
+            [field_l_secretario_a] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => No responde
+                                    [format] => 
+                                    [safe_value] => No responde
+                                )
+
+                        )
+
+                )
+
+            [field_l_sexo] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Masculino
+                                    [format] => 
+                                    [safe_value] => Masculino
+                                )
+
+                        )
+
+                )
+
+            [field_l_survey] => Array
+                (
+                )
+
+            [field_l_telefono] => Array
+                (
+                )
+
+            [field_l_telefono_int] => Array
+                (
+                )
+
+            [field_l_telefono_del_s] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_telefono_d] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => (011) 2822-5910
+                                    [format] => 
+                                    [safe_value] => (011) 2822-5910
+                                )
+
+                        )
+
+                )
+
+            [field_l_telefono_en_di] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_regi_de_cont] => Array
+                (
+                )
+
+            [field_l_titulo] => Array
+                (
+                )
+
+            [field_l_titulo_acad] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => No tiene
+                                    [format] => 
+                                    [safe_value] => No tiene
+                                )
+
+                        )
+
+                )
+
+            [field_l_titulo_acad_2] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_titulo_acad_3] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                    [format] => 
+                                    [safe_value] => 
+                                )
+
+                        )
+
+                )
+
+            [field_l_ubi_en_la_lis] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1º
+                                    [format] => 
+                                    [safe_value] => 1º
+                                )
+
+                        )
+
+                )
+
+            [field_l_u_f_s_s] => Array
+                (
+                )
+
+            [field_l_u_f_s_s_2] => Array
+                (
+                )
+
+            [field_l_u_m_por] => Array
+                (
+                )
+
+            [field_l_partido] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 001G000000hb2DvIAI
+                                    [format] => 
+                                    [safe_value] => 001G000000hb2DvIAI
+                                )
+
+                        )
+
+                )
+
+            [field_foto2] => Array
+                (
+                )
+
+            [field_bloque_final] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Unión Cívica Radical
+                                    [format] => 
+                                    [safe_value] => Unión Cívica Radical
+                                )
+
+                        )
+
+                )
+
+            [field_distrtito_final] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Argentina
+                                    [format] => 
+                                    [safe_value] => Argentina
+                                )
+
+                        )
+
+                )
+
+            [field_foto_3] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Marino-Juan.jpg
+                                    [format] => 
+                                    [safe_value] => Marino-Juan.jpg
+                                )
+
+                        )
+
+                )
+
+            [field_l_ciudad_legislatura] => Array
+                (
+                    [und] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Ciudad Autónoma de Buenos Aires
+                                    [format] => 
+                                    [safe_value] => Ciudad Autónoma de Buenos Aires
+                                )
+
+                        )
+
+                )
+
+            [rdf_mapping] => Array
+                (
+                    [rdftype] => Array
+                        (
+                            [0] => sioc:Item
+                            [1] => foaf:Document
+                        )
+
+                    [title] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => dc:title
+                                )
+
+                        )
+
+                    [created] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => dc:date
+                                    [1] => dc:created
+                                )
+
+                            [datatype] => xsd:dateTime
+                            [callback] => date_iso8601
+                        )
+
+                    [changed] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => dc:modified
+                                )
+
+                            [datatype] => xsd:dateTime
+                            [callback] => date_iso8601
+                        )
+
+                    [body] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => content:encoded
+                                )
+
+                        )
+
+                    [uid] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => sioc:has_creator
+                                )
+
+                            [type] => rel
+                        )
+
+                    [name] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => foaf:name
+                                )
+
+                        )
+
+                    [comment_count] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => sioc:num_replies
+                                )
+
+                            [datatype] => xsd:integer
+                        )
+
+                    [last_activity] => Array
+                        (
+                            [predicates] => Array
+                                (
+                                    [0] => sioc:last_activity_date
+                                )
+
+                            [datatype] => xsd:dateTime
+                            [callback] => date_iso8601
+                        )
+
+                )
+
+            [cid] => 0
+            [last_comment_timestamp] => 1464802353
+            [last_comment_name] => 
+            [last_comment_uid] => 0
+            [comment_count] => 0
+            [name] => 
+            [picture] => 0
+            [data] => 
+            [entity_view_prepared] => 1
+        )
+
+    [nombre_del_legislador] => Juan Carlos Marino
+    [sexo] => Masculino
+    [id_salesforce_legislador] => 003G000000xDHkoIAG
+    [asesor_de_prensa] => Ignacio Seijas
+    [cantidad_de_hijos] => 2 (dos)
+    [cel_del_asesor_de_prensa] => (011) 156-266-6276
+    [comisiones_a_las_que_pertenece] => 5
+    [correo_del_mandato] => juan.marino@senado.gov.ar
+    [twitter] => @juancmarino
+    [direccion] => No responde
+    [empleados_a_cargo] => No responde
+    [especializacion] => Agricultura; Comunicaciones; Ganadería; Libertad de Expresión; Relaciones Exteriores
+    [especializacion_titulo] => No Responde
+    [especializacion_titulo_2] => No Responde
+    [especializacion_titulo_3] => No Responde
+    [estado_civil] => Casado
+    [fecha_de_nacimiento] => 23/10/1963
+    [localidad_de_nacimiento] => Miguel Riglós
+    [mandato] => 2015-2021
+    [pagina_web] => www.juancarlosmarino.com.ar
+    [proyectos_presentados] => S-1288/16. Proyecto de Ley creando el programa nacional de educación en ética y valores democráticos. 
+S-1081/16. Proyecto de Ley de acceso a la información pública.
+    [proyectos] => Array
+        (
+            [0] => S-1288/16. Proyecto de Ley creando el programa nacional de educación en ética y valores democráticos. 
+            [1] => S-1081/16. Proyecto de Ley de acceso a la información pública.
+        )
+
+    [proyectos_presentados_new] => <span class="grisimp">S-1288/16.</span> Proyecto de Ley creando el programa nacional de educación en ética y valores democráticos. <br><span class="grisimp">S-1081/16.</span> Proyecto de Ley de acceso a la información pública.<br>
+    [val] => S-1081/16. Proyecto de Ley de acceso a la información pública.
+    [key] => 1
+    [secretario_a] => No responde
+    [telefono_del_secretario] => No Responde
+    [telefono] => (011) 2822-5910
+    [field_l_telefono_en_di] => No Responde
+    [titulo_academico] => No tiene
+    [titulo_academico_2] => 
+    [titulo_academico_3] => 
+    [anio_titulo_1] => 
+    [anio_titulo_2] => 
+    [anio_titulo_3] => 
+    [institucion_titulo_1] => No tiene
+    [institucion_titulo_2] => 
+    [institucion_titulo_3] => 
+    [ubicacion_en_la_lista] => 1º
+    [provincia] => La Pampa
+    [distrito] => Argentina
+    [id_del_partido] => 001G000000hb2DvIAI
+    [foto] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHko&feoid=00NG0000008HdXa&refid=0EM1L000000Us6e" alt="Marino Juan Carlos.png"></img></p>
+    [cargo_universal] => Senador Nacional
+    [cargo_segun_sexo] => Senador Nacional
+    [partido] => Al. Fte. Pampeano Civico Y Social - Frepam
+    [bloque] => Unión Cívica Radical
+    [lista] => Array
+        (
+            [title] => Propuesta FREPAM
+            [porcentaje_de_votos] => 38.58%
+            [cantidad_de_bancas] => 1
+        )
+
+    [conyuge] => Daniela García
+    [provincia_nac] => La Pampa
+    [comision] => Array
+        (
+            [0] => Array
+                (
+                    [nombre_de_la_comision] => Sistemas, Medios De Comunicación y Libertad de Expresión
+                    [cargo] => Vice
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre_de_la_comision] => Relaciones Exteriores y Culto
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre_de_la_comision] => Justicia y Asuntos Penales
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [3] => Array
+                (
+                    [nombre_de_la_comision] => Asuntos Administrativos y Municipales
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [4] => Array
+                (
+                    [nombre_de_la_comision] => Agricultura, Ganadería y Pesca
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+        )
+
+    [link_comision] => Array
+        (
+            [0] => Array
+                (
+                    [nombre_de_la_comision] => Sistemas, Medios De Comunicación y Libertad de Expresión
+                    [cargo] => Vice
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [1] => Array
+                (
+                    [nombre_de_la_comision] => Relaciones Exteriores y Culto
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [2] => Array
+                (
+                    [nombre_de_la_comision] => Justicia y Asuntos Penales
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [3] => Array
+                (
+                    [nombre_de_la_comision] => Asuntos Administrativos y Municipales
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+            [4] => Array
+                (
+                    [nombre_de_la_comision] => Agricultura, Ganadería y Pesca
+                    [cargo] => Vocal
+                    [estado] => Vigente
+                    [link_de_la_comision] => 
+                )
+
+        )
+
+    [ultima_comision] => Array
+        (
+            [0] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [1] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [2] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [3] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [4] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [5] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [6] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [7] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [8] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [9] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [10] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [11] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [12] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [13] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [14] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [15] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [16] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [17] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [18] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [19] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [20] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [21] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [22] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [23] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [24] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [25] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [26] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [27] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [28] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [29] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [30] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+            [31] => Array
+                (
+                    [nombre_de_la_comision] => No hay comisiones vigentes
+                    [cargo] => No hay comisiones vigentes
+                    [estado] => No hay comisiones vigentes
+                )
+
+        )
+
+    [votacion_nominal] => Array
+        (
+            [0] => Array
+                (
+                    [title] => Ley 27.249 (Ley de pago a los holdouts)
+                    [field_dic_n_pddic] => Ley de pago a los Fondos Buitre
+                    [field_dic_numero] => 
+                    [field_dic_sd_fsd] => 2016-03-31
+                    [voto_del_legislador] => Afirmativo
+                    [nid] => 95636
+                    [resultado] => Afirmativo
+                )
+
+            [1] => Array
+                (
+                    [title] => Ley de Emergencia Ocupacional (vetada)
+                    [field_dic_n_pddic] => 
+                    [field_dic_numero] => 
+                    [field_dic_sd_fsd] => 
+                    [voto_del_legislador] => AUSENTE
+                    [nid] => 95637
+                    [resultado] => Negativo
+                )
+
+        )
+
+    [equipo_de_trabajo] => Array
+        (
+            [0] => Array
+                (
+                    [nombre] => Gabriel
+                    [apellido] => Bartolomé
+                    [especializacion] => Coordinador de despacho
+                    [estado] => Vigente
+                )
+
+            [1] => Array
+                (
+                    [nombre] => Faggi
+                    [apellido] => María José
+                    [especializacion] => Coordinadora del Área Legislativa
+                    [estado] => No vigente
+                )
+
+            [2] => Array
+                (
+                    [nombre] => Fiorda
+                    [apellido] => Pedro
+                    [especializacion] => Asuntos Políticos
+                    [estado] => No vigente
+                )
+
+            [3] => Array
+                (
+                    [nombre] => Hovaginian
+                    [apellido] => Arturo
+                    [especializacion] => Asuntos Legales
+                    [estado] => No vigente
+                )
+
+            [4] => Array
+                (
+                    [nombre] => Velázquez
+                    [apellido] => Mercedes
+                    [especializacion] => Medios de Comunicación
+                    [estado] => No vigente
+                )
+
+            [5] => Array
+                (
+                    [nombre] => Gabriel
+                    [apellido] => Bartolomé
+                    [especializacion] => 
+                    [estado] => No vigente
+                )
+
+            [6] => Array
+                (
+                    [nombre] => Rolando
+                    [apellido] => Bompadre
+                    [especializacion] => Asuntos municipales
+                    [estado] => No vigente
+                )
+
+            [7] => Array
+                (
+                    [nombre] => Eva
+                    [apellido] => Falbo
+                    [especializacion] => Agricultura y ganadería
+                    [estado] => No vigente
+                )
+
+            [8] => Array
+                (
+                    [nombre] => María José
+                    [apellido] => Faggi
+                    [especializacion] => Responsable legislativo
+                    [estado] => Vigente
+                )
+
+            [9] => Array
+                (
+                    [nombre] => Victoria
+                    [apellido] => Dri
+                    [especializacion] => Secretaria
+                    [estado] => No vigente
+                )
+
+        )
+
+    [otras_acti_prev_del_legislador] => Array
+        (
+            [Partidaria] => Array
+                (
+                    [0] => Array
+                        (
+                            [cargo] => Presidente del Comité Provincial
+                            [tipo_de_acti] => Partidaria
+                            [desde] => 2009
+                            [hasta] => 2010
+                            [otra_orga] => 
+                            [partido_organizacion] => Unión Cívica Radical
+                            [titulo] => Presidente del Comité Provincial
+                        )
+
+                    [1] => Array
+                        (
+                            [cargo] => Tesorero del Comité Nacional
+                            [tipo_de_acti] => Partidaria
+                            [desde] => 2010
+                            [hasta] => 2012
+                            [otra_orga] => 
+                            [partido_organizacion] => Unión Cívica Radical
+                            [titulo] => Tesorero del Comité Nacional
+                        )
+
+                    [2] => Array
+                        (
+                            [cargo] => Presidente del Comité Provincial
+                            [tipo_de_acti] => Partidaria
+                            [desde] => 2010
+                            [hasta] => 2012
+                            [otra_orga] => 
+                            [partido_organizacion] => Unión Cívica Radical
+                            [titulo] => Presidente del Comité Provincial
+                        )
+
+                )
+
+            [Privada] => Array
+                (
+                    [0] => Array
+                        (
+                            [cargo] => Productor agropecuario
+                            [tipo_de_acti] => Privada
+                            [desde] => 1982
+                            [hasta] => 
+                            [otra_orga] => 
+                            [partido_organizacion] => No hay un partido asignado
+                            [titulo] => Productor agropecuario
+                        )
+
+                )
+
+        )
+
+    [actividades_previas_del_legislador] => Array
+        (
+            [0] => Array
+                (
+                    [cargo] => Senador Nacional
+                    [organizacion] => 
+                    [mandato] => 2009-2015
+                    [espe_univ] => Vicepresidente del Senado
+                    [field_app_ca_un] => Senador Nacional
+                    [field_app_edcu] => Vicepresidente del Senado
+                    [field_app_distrito_reference] => Argentina
+                    [field_app_dis_mad] => 
+                )
+
+            [1] => Array
+                (
+                    [cargo] => Intendente
+                    [organizacion] => 
+                    [mandato] => 1999-2003
+                    [espe_univ] => 
+                    [field_app_ca_un] => Intendente
+                    [field_app_edcu] => 
+                    [field_app_distrito_reference] => Manuel Riglós
+                    [field_app_dis_mad] => La Pampa
+                )
+
+            [2] => Array
+                (
+                    [cargo] => Intendente
+                    [organizacion] => 
+                    [mandato] => 1995-1999
+                    [espe_univ] => 
+                    [field_app_ca_un] => Intendente
+                    [field_app_edcu] => 
+                    [field_app_distrito_reference] => Manuel Riglós
+                    [field_app_dis_mad] => La Pampa
+                )
+
+            [3] => Array
+                (
+                    [cargo] => Concejal
+                    [organizacion] => 
+                    [mandato] => 1991-1995
+                    [espe_univ] => 
+                    [field_app_ca_un] => Concejal
+                    [field_app_edcu] => 
+                    [field_app_distrito_reference] => Manuel Riglós
+                    [field_app_dis_mad] => La Pampa
+                )
+
+            [4] => Array
+                (
+                    [cargo] => Senador Nacional
+                    [organizacion] => 
+                    [mandato] => 2003-2009
+                    [espe_univ] => 
+                    [field_app_ca_un] => Senador Nacional
+                    [field_app_edcu] => 
+                    [field_app_distrito_reference] => Argentina
+                    [field_app_dis_mad] => 
+                )
+
+        )
+
+    [salario] => Array
+        (
+            [0] => Array
+                (
+                    [salario] => Sueldo Bruto: $12.466,50 (dieta: $3.739,95 + gastos de representación: $8.726,55) + desarraigo: $3.739,95 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
+                )
+
+            [1] => Array
+                (
+                    [salario] => Sueldo bruto: $39.871,11 (dieta: $29.871,11 + gastos de representación:$10.000) + Desarraigo: $5.665,68 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
+                )
+
+        )
+
+    [ultimo_salario] => Array
+        (
+            [salario] => Sueldo bruto: $58.417,17 (dieta: $48,417,17 + gastos de representación: $10.000) + Desarraigo: $8.301,07 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
+        )
+
+    [field_l_direccion] => Hipólito Yrigoyen 1849
+    [field_l_piso] => 1º
+    [field_l_ofi] => 63 "B"
+    [field_l_ciudad_legislatura] => Ciudad Autónoma de Buenos Aires
+    [field_l_cod_pos] => C1089AAI
+    [img_uri] => Marino-Juan.jpg
+    [foto_new] => /sites/default/files/legislador/Marino-Juan.jpg
+)
+ -->
+
+
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="info text-project">
+              <div class="text">Partido</div>
+              <a href="" class="pull-left">Al. Fte. Pampeano Civico Y Social - Frepam</a>
+              <div style="clear:both"></div>
+            </div>
+            <div class="info type">
+              <div class="text">Mandato</div>
+              2015-2021            </div>
+          </div>
+          <div style="clear:both"></div>
+          <div class="activity text">
+            <ul class="nav nav-tabs">
+              <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
+              <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
+            </ul>
+            <div style="clear:both"></div>
+            <div class="tab-content">
+              <div id="home" class="tab-pane fade in active">
+                <h3 class="title">Especialización:</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity specialization">
+                    Agricultura; Comunicaciones; Ganadería; Libertad de Expresión; Relaciones Exteriores                  </li>
+                </ul>
+                <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                                      <div class="info-activity comission">
+                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Sistemas, Medios De Comunicación y Libertad de Expresión                          </span>
+                                                                        (Vice),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Relaciones Exteriores y Culto                          </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Justicia y Asuntos Penales                          </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Asuntos Administrativos y Municipales                          </span>
+                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
+                            Agricultura, Ganadería y Pesca                          </span>
+                                                                        (Vocal).                                          </div>
+                                  </ul>
+                <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity projects">
+                    <span class="grisimp">S-1288/16.</span> Proyecto de Ley creando el programa nacional de educación en ética y valores democráticos. <br><span class="grisimp">S-1081/16.</span> Proyecto de Ley de acceso a la información pública.<br>                  </li>
+                </ul>
+                <h3 class="title alone">
+                  Empleados a cargo:
+                  <span class="empleados-a-cargo-item">
+                    No responde                  </span>
+                </h3>
+                <h3 class="title">Equipo de trabajo:</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity employees">
+                                                                                                            Gabriel Bartolomé <span class='grisimp'>(Coordinador de despacho)</span>;                                                                     María José Faggi <span class='grisimp'>(Responsable legislativo)</span>.                                                            </li>
+                </ul>
+                <h3 class="title">Resultados electorales:</h3>
+                <ul class="tab-content legislative-activity" data-id="1">
+                  <li class="info-activity ubication">
+                  <div>
+                      <strong class="title">Ubicación en la lista:</strong>
+                      <span class="resultados-electorales-item">
+                        1º                      </span>
+                    </div>
+                  </li>
+                  <li class="info-activity seat">
+                  <div>
+                      <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
+                      <span class="resultados-electorales-item">
+                                                  1                                              </span >
+                    </div>
+                  </li>
+                  <li class="info-activity votes">
+                  <div>
+                      <strong class="title">Votos obtenidos:</strong>
+                      <span class="resultados-electorales-item">
+                                                  38.58%                                              </span >
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div id="menu1" class="tab-pane fade">
+                <ul class="tab-content other-activity" data-id="2">
+                  <div class="other public-activity">
+                    <div class="title">
+                      Actividad pública previa
+                    </div>
+                    <li class="info-activity">
+                                                                        Senador Nacional                          Vicepresidente del Senado                          <span class="extra-info">
+                            - Argentina                             (2009-2015)                       <!--       -->
+                          </span>
+                          <br>
+                                                  Intendente                                                    <span class="extra-info">
+                            - Manuel Riglós, La Pampa                             (1999-2003)                       <!--       -->
+                          </span>
+                          <br>
+                                                  Intendente                                                    <span class="extra-info">
+                            - Manuel Riglós, La Pampa                             (1995-1999)                       <!--       -->
+                          </span>
+                          <br>
+                                                  Concejal                                                    <span class="extra-info">
+                            - Manuel Riglós, La Pampa                             (1991-1995)                       <!--       -->
+                          </span>
+                          <br>
+                                                  Senador Nacional                                                    <span class="extra-info">
+                            - Argentina                             (2003-2009)                       <!--       -->
+                          </span>
+                          <br>
+                                                                  </li>
+                  </div>
+                  <div class="other private-activity">
+                                                                                          <div class="title">Partidaria </div>
+                        <li class="info-activity">
+                                                                                                                Presidente del Comité Provincial                              <span class="grisimp">
+                                - Unión Cívica Radical                                (2009-2010)                              </span>
+                              <br>
+                                                                                                                                            Tesorero del Comité Nacional                              <span class="grisimp">
+                                - Unión Cívica Radical                                (2010-2012)                              </span>
+                              <br>
+                                                                                                                                            Presidente del Comité Provincial                              <span class="grisimp">
+                                - Unión Cívica Radical                                (2010-2012)                              </span>
+                              <br>
+                                                                              </li>
+                                                                                                                <div class="title">Privada </div>
+                        <li class="info-activity">
+                                                                                                                Productor agropecuario                              <span class="grisimp">
+                                                                (1982)                              </span>
+                              <br>
+                                                                              </li>
+                                                              <div class="other ingr-activity">
+                      <div class="title">Ingresos brutos</div>
+                      <li class="info-activity">
+                        Sueldo bruto: $58.417,17 (dieta: $48,417,17 + gastos de representación: $10.000) + Desarraigo: $8.301,07 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)                      </li>
+                    </div>
+                  </div>
+                </ul>
+              </div>
+            </div>
+            <div class="nominal">
+                            <div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
+                                            <div class="votacion">
+                  <div class="recinto">
+                    
+                      <img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
+                                        <span class="nuestro-legislador voto-afirmativo"></span>
+                  </div>
+                  <div class="law">
+                   <p></p>
+                    <p>Ley 27.249 (Ley de pago a los holdouts)</p>
+                    <p class="voto-afirmativo">Afirmativo</p>
+                  <div style="clear:both"></div>
+                  </div>
+                </div>
+                            <div class="votacion">
+                  <div class="recinto">
+                                          <img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
+                                        <span class="nuestro-legislador voto-ausente"></span>
+                  </div>
+                  <div class="law">
+                   <p></p>
+                    <p>Ley de Emergencia Ocupacional (vetada)</p>
+                    <p class="voto-ausente">AUSENTE</p>
+                  <div style="clear:both"></div>
+                  </div>
+                </div>
+                        <div style="clear:both"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-3 bloque_derecha relations relations-projects">
+    <div class="title">¿Cómo comunicarse?</div>
+    <div class="border"></div>
+    <ul class="data place">
+      <li class="name-place">En el Congreso de la Nación</li>
+      <li class="address">
+        Hipólito Yrigoyen 1849      </li>
+      <li class="zone">
+        1º        piso, of.
+        63 "B",
+        Ciudad Autónoma de Buenos Aires        (C1089AAI)
+      </li>
+    </ul>
+    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-phone"></i> Teléfono
+      </li>
+      <li class="tel-number">
+                  (011) 2822-5910              </li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-link"></i>&nbsp; Sitio Web
+      </li>
+      <li class="tel-number">
+                  <a href="http://www.juancarlosmarino.com.ar" target="_blank">www.juancarlosmarino.com.ar</a>
+              </li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data email" style="padding: 0px 0px 0px 0px;" >
+      <li class="title" >
+        <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
+      </li>
+      <li class="mail">
+                  <a class="mail_especial" href="mailto:juan.marino@senado.gov.ar">juan.marino@senado.gov.ar</a>
+              </li>
+       <div style="clear:both"></div>
+    </ul>
+    <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-user"></i> Secretario/a
+      </li>
+      <li class="name-secretary">No responde</li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data advisory"  style="padding: 0px 0px 0px 0px;">
+      <li class="title">
+        <i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
+      </li>
+      <li class="advisory-number">
+                  <span class="asesordeprensa">Ignacio Seijas </span>
+          <br>
+          (011) 156-266-6276        
+      </li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data secretary"  style="padding: 0px 0px 0px 0px;">
+
+      <li class="title">En su distrito</li>
+      <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
+      <li class="advisory-number">No responde</li>
+      <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
+      <li class="advisory-number">No Responde</li>
+      <div style="clear:both"></div>
+    </ul>
+    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+
+      <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
+      <li class="tel-number" style="text-transform:lowercase !important;">
+                  <a href="https://twitter.com/@juancmarino" target="_blank">
+          @juancmarino<a class="twitter-timeline"
+            href="https://twitter.com/juancmarino"
+            data-widget-id="735728825129046016"
+            data-screen-name="juancmarino">
+            Tweets by @juancmarino</a>
+            <script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>      </a>
+    </li>
+    <div style="clear:both"></div>
+  </ul>
+</div>
+</div>
+</div>
+
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+  <footer class="footer container">
+          <div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
+            <div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
+                2011 Fundación Directorio Legislativo
+            </div>
+            <div class="text-copy">
+              Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A. 
+            </div>
+            <div class="text-copy">
+              Tel: 5411-52184647/5411-52364293.
+            </div>
+            <div class="text-copy">
+              TODOS LOS DERECHOS RESERVADOS.
+            </div>
+          </div>
+
+
+
+          <div class="col-lg-3 copyright pull-right">
+
+  <span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
+  <span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
+  <span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
+  <span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
+  <span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
+
+          </div>
+          <div style="clear:both"></div>
+  </footer>
+
+
+
+
+
+
+</div>    <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</body>
+</html>

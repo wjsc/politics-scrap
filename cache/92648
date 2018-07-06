@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://directorio.directoriolegislativo.org/sites/default/files/favicondirectorio_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/92648" />
+<link rel="canonical" href="/node/92648" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<title>Alejandro Adrián Molero Marnetti | Directorio de Legisladores</title>
+<style>
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+</style>
+<style>
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+</style>
+<style>
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
+<style>
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+</style>
+
+<!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
+<script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"7fN50BtYDiOTBJhEegIPHXIXIkyOHoR2jVCanP6GI80","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92648 node-type-legislador">
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<div class="container logo">
+<img src="http://directorio.directoriolegislativo.org/sites/default/files/fdlogo.png" alt="Home" width="115" />
+</div>
+<div class="container container_del_header">
+<header id="navbar" role="banner" class="navbar container navbar-default">
+<div class="container">
+<div class="navbar-header">
+ <div class="nav">
+<ul class="pull-left nav-left">
+<li class="nav-button ">
+<a href="http://directorio.directoriolegislativo.org">
+Home
+</a>
+</li>
+<li class="nav-button ">
+<a href="http://directorio.directoriolegislativo.org/node/66256">
+Quiénes somos
+</a>
+</li>
+<li class="nav-button ">
+<a href="http://alertas.directoriolegislativo.org/">
+Noticias
+</a>
+
+<div style="clear:both"></div>
+</ul>
+<form id="buscadornoticias" action="http://directorio.directoriolegislativo.org/fichas-de-legisladores" method="GET">
+<div class="pull-right nav-right">
+<div class="icon-search"></div>
+<input name="title" id="title" type="text" class="search " placeholder="BUSCAR...">
+<span class="btn login">
+<a href="http://directorio.directoriolegislativo.org/user" class="simplemodal-login">INGRESAR</a>
+</span>
+<a href="http://www.directoriolegislativo.org/suscribite/" class="suscribe">
+SUSCRIBITE
+</a>
+</div>
+</form>
+<div style="clear:both"></div>
+</div>
+</div>
+</header>
+<div class="main-container container">
+<header role="banner" id="page-header">
+</header> 
+<div class="row">
+<section class="col-sm-12">
+<a id="main-content"></a>
+<h1 class="page-header">Alejandro Adrián Molero Marnetti</h1>
+<div class="region region-content">
+<section id="block-system-main" class="block block-system clearfix">
+<style>
+  .mail a {
+    font-weight: normal !important;
+  }
+  .info-project .nav-tabs{
+    border-bottom: 1px solid #e1e1e1;
+  }
+  .info{
+    padding-bottom: 10px !important;
+  }
+  .projects{
+    color: #1c1c1c !important;
+  }
+</style>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="content-profile">
+<div class="row">
+<ul class="col-lg-12 categories">
+<li class="category"><a href="http://alertas.directoriolegislativo.org/">Inicio</a></li>
+<div class="arrow-right"></div>
+<li href="javascript:void(0)" class="category"><a href="http://directorio.directoriolegislativo.org/fichas-de-legisladores">Directorio de Legisladores</a></li>
+<div class="arrow-right"></div>
+<li class="category active"><a href="javascript:void(0)">Alejandro Adrián Molero Marnetti</a></li>
+<div style="clear:both"></div>
+</ul>
+<div class="col-md-3 bloque_izquierda">
+<div class="contenedor_bloque_celeste">
+<div class="personal-info">
+<div class="photo">
+<img src="/sites/default/files/default_images/12198090531909861341man-silhouette.svg_.hi_-400x400.png" width="100%" alt="">
+</div>
+<div class="title" style="margin-bottom: 17px !important; color: #333;">Datos personales</div>
+<ul class="info">
+<li class="born">
+<div class="text-info">Fecha de Nacimiento</div>
+06/06/1972 </li>
+<li class="city-born">
+<div class="text-info">Lugar de Nacimiento</div>
+General Alvear, Mendoza </li>
+<li class="personal-status">
+<div class="text-info">Estado Civil</div>
+Casado con Gabriela Silvina Morales </li>
+<li class="sons">
+<div class="text-info">Hijos</div>
+3 (tres) </li>
+<li class="academy">
+ <div class="text-info">Títulos académicos</div>
+<div class="titles">
+<ul class="estudio_alineado">
+<li>
+No tiene </li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-6 bloque_central">
+<div class="profile">
+<div class="name">
+Alejandro Adrián Molero Marnetti </div>
+<div class="position">
+No Responde </div>
+<div class="info-project">
+<div class="col-lg-6">
+<div class="info num-exp">
+<div class="text">Bloque</div>
+No hay un bloque asignado </div>
+<div class="info status">
+<div class="text">Distrito</div>
+
+</div>
+</div>
+<div class="col-lg-6">
+<div class="info text-project">
+<div class="text">Partido</div>
+<a href="" class="pull-left">Partido para la Concertación Ciudadana</a>
+<div style="clear:both"></div>
+</div>
+<div class="info type">
+<div class="text">Mandato</div>
+No Responde </div>
+</div>
+<div style="clear:both"></div>
+<div class="activity text">
+<ul class="nav nav-tabs">
+<li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
+<li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
+</ul>
+<div style="clear:both"></div>
+<div class="tab-content">
+<div id="home" class="tab-pane fade in active">
+<h3 class="title">Especialización:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity specialization">
+No Responde </li>
+</ul>
+<h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity comission">
+<span class="titlenombrecomision comisiones nombrecomision">No hay comisiones vigentes</span>
+</li>
+</ul>
+<h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity projects">
+</li>
+</ul>
+<h3 class="title alone">
+Empleados a cargo:
+<span class="empleados-a-cargo-item">
+No Responde </span>
+</h3>
+<h3 class="title">Equipo de trabajo:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity employees">
+No tiene equipo de trabajo
+</li>
+</ul>
+<h3 class="title">Resultados electorales:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity ubication">
+<div>
+<strong class="title">Ubicación en la lista:</strong>
+<span class="resultados-electorales-item">
+No Responde </span>
+</div>
+</li>
+<li class="info-activity seat">
+<div>
+<strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
+<span class="resultados-electorales-item">
+No hay una lista asignada </span >
+</div>
+</li>
+<li class="info-activity votes">
+<div>
+<strong class="title">Votos obtenidos:</strong>
+<span class="resultados-electorales-item">
+ No hay una lista asignada </span >
+</div>
+</li>
+</ul>
+</div>
+<div id="menu1" class="tab-pane fade">
+<ul class="tab-content other-activity" data-id="2">
+<div class="other public-activity">
+<div class="title">
+Actividad pública previa
+</div>
+<li class="info-activity">
+Diputado Provincial <span class="extra-info">
+- Mendoza (2007-2011) 
+</span>
+<br>
+Presidente <span class="extra-info">
+- Mendoza (2003-2007) 
+</span>
+<br>
+</li>
+</div>
+<div class="other private-activity">
+<div class="title">Partidaria </div>
+<li class="info-activity">
+Congresal y Convencional Nacional y Provincial <span class="grisimp">
+- Unión Cívica Radical (2009-2011) </span>
+<br>
+</li>
+<div class="title">Privada </div>
+<li class="info-activity">
+Productor Agropecuario <span class="grisimp">
+(1997-2010) </span>
+<br>
+Industrial <span class="grisimp">
+(1994-2010) </span>
+<br>
+Vicepresidente <span class="grisimp">
+- Cámara de Comercio, Industria, Agricultura y Ganadería (1994-2007) </span>
+<br>
+</li>
+<div class="other ingr-activity">
+<div class="title">Ingresos brutos</div>
+<li class="info-activity">
+Sueldo bruto: $10.606,53 (dieta: $7.424,57 + compensación funcional: $3.181,96). Compensación de gastos por traslados en la provincia: $1.480.set_text_font_and_size, :args=>[:T1_1, 1] CÓMO COMUNICARSE EN LA LEGISLATURA Dirección: Patricias Mendocinas 1135, Piso 3 </li>
+</div>
+</div>
+</ul>
+</div>
+</div>
+<div class="nominal">
+<div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
+<div class="votacion">
+<div class="recinto">
+<img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
+<span class="nuestro-legislador voto-no-hay-una-votacion-nominal-asignada"></span>
+</div>
+<div class="law">
+<p> [No hay una votacion nominal asignada]</p>
+<p>No hay una votacion nominal asignada</p>
+<p class="voto-no hay una votacion nominal asignada">No hay una votacion nominal asignada</p>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3 bloque_derecha relations relations-projects">
+<div class="title">¿Cómo comunicarse?</div>
+<div class="border"></div>
+<ul class="data place">
+<li class="name-place">En el Congreso de la Nación</li>
+<li class="address">
+</li>
+<li class="zone">
+No responde piso, of.
+,
+Mendoza ()
+</li>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-phone"></i> Teléfono
+</li>
+<li class="tel-number">
+(0261) 449-3636 </li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-link"></i>&nbsp; Sitio Web
+</li>
+<li class="tel-number">
+<a href="http://www.alejandromolero.com.ar" target="_blank">www.alejandromolero.com.ar</a>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data email" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
+</li>
+<li class="mail">
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#dbbab6b4b7bea9b49bb3b8bfb6a1baf5bcb4adf5baa9"><span class="__cf_email__" data-cfemail="96f7fbf9faf3e4f9d6fef5f2fbecf7b8f1f9e0b8f7e4">[email&#160;protected]</span></a>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-user"></i> Secretario/a
+</li>
+<li class="name-secretary">Carlos Romo</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data advisory" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
+</li>
+<li class="advisory-number">
+<span class="asesordeprensa">No Responde</span>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+<li class="title">En su distrito</li>
+<li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
+<li class="advisory-number">No tiene</li>
+<li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
+<li class="advisory-number">No Responde</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
+<li class="tel-number" style="text-transform:lowercase !important;">
+No hay datos en este momento </a>
+</li>
+<div style="clear:both"></div>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</div>
+</section>
+</div>
+</div>
+<footer class="footer container">
+<div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
+<div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
+2011 Fundación Directorio Legislativo
+</div>
+<div class="text-copy">
+Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A.
+</div>
+<div class="text-copy">
+Tel: 5411-52184647/5411-52364293.
+</div>
+<div class="text-copy">
+TODOS LOS DERECHOS RESERVADOS.
+</div>
+</div>
+<div class="col-lg-3 copyright pull-right">
+<span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
+<span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
+<span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
+<span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
+<span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
+</div>
+<div style="clear:both"></div>
+</footer>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</body>
+</html>
