@@ -5,7 +5,7 @@ const createRowObject = require('./parser');
 
 console.log('Node > v8.0.0 required');
 console.log('------------------------');
-let startIndex = 91800;
+let startIndex = 91814;
 const maxResults = 1630;
 const currentFile = new Date().toJSON()+'.csv';
 
@@ -57,7 +57,7 @@ const arrayPad = (rowObject, keysMaxLengths) =>{
   Object.keys(rowObject)
     .filter( key => Array.isArray(rowObject[key]))
     .forEach( key => {
-      for(let i = rowObject[key].length; i < keysMaxLengths[key]; i++){
+      for(let i = rowObject[key].length * multiplicador(key); i < keysMaxLengths[key]; i++){
         rowObject[key].push('-');
       }
     })
@@ -91,13 +91,15 @@ const writeOutput = async(rowObjects, keysMaxLengths) => {
   }
 }
 
+const multiplicador = key => ['publico', 'privado', 'privadoextra'].includes(key) ? 3 : 1;
+
 async function run(){
   const rowObjects = [];
   const keysMaxLengths = [];
   for ({url, index} of URLGenerator()){
     const rowObject = createRowObject(await getHTML(index, url), url);
     if(rowObject) {
-      Object.keys(rowObject).filter(k => Array.isArray(rowObject[k])).forEach( k => keysMaxLengths[k] = Math.max(rowObject[k].length, keysMaxLengths[k] || 0))
+      Object.keys(rowObject).filter(k => Array.isArray(rowObject[k])).forEach( k => keysMaxLengths[k] = Math.max(rowObject[k].length * multiplicador(k), keysMaxLengths[k] || 0))
       rowObjects.push(rowObject);
     }
   }

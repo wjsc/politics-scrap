@@ -1,6 +1,6 @@
 const cheerio = require('cheerio');
 const trim = require('trim')
-
+const separator = '~';
 const removeTags = str => str.replace(/\<(.*)\>/g,"");
 const removeSemicolon = str => str.replace(/;/g,"");
 const removeDoubleSpace = str => str.replace(/\s+/g," ");
@@ -47,17 +47,22 @@ module.exports = (html, url) => {
   data.empleados = Empleados(get('.bloque_central .activity .tab-content #home .employees'));
   data.comisiones = Comisiones(get('.bloque_central .activity .tab-content #home .comission'));
   data.proyectos = Proyectos(get('.bloque_central .activity .tab-content #home .projects'));
-  data.publico = Publico(get('.bloque_central .activity .tab-content #menu1 .public-activity .info-activity'));
-  data.privado = Privado($('.bloque_central .activity .tab-content #menu1 .private-activity .info-activity', main).eq(0).html() || empty);
-  data.privadoextra = Privado($('.bloque_central .activity .tab-content #menu1 .private-activity .info-activity', main).eq(1).html() || empty);
+  data.publico = Publico(get('.bloque_central .activity .tab-content #menu1 .public-activity .info-activity'))
+                    .map(serializar);
+  data.privado = Privado($('.bloque_central .activity .tab-content #menu1 .private-activity .info-activity', main).eq(0).html() || empty)
+                    .map(serializar);
+  data.privadoextra = Privado($('.bloque_central .activity .tab-content #menu1 .private-activity .info-activity', main).eq(1).html() || empty)
+                    .map(serializar);
   data.mail ='Email Protected by CDN'; 
   Object.keys(data).filter(k => !Array.isArray(data[k])).forEach(k => data[k] = trim(replaceEmpty(removeTags(removeDoubleSpace(data[k])))));
   return data;
 }
 
 const CustomPosicion = posicion => 
-['diputada nacional', 'diputado nacional', 'senadora nacional', 'senador nacional','diputada provincial', 'diputado provincial', 'senadora provincial', 'senador provincial'].includes(posicion.toLowerCase())
-? 'Diputado/a o Senador/a'
+  ['diputada nacional', 'diputado nacional', 'diputada provincial', 'diputado provincial' ].includes(posicion.toLowerCase())
+  ? 'Diputado/a'
+  : ['senadora nacional', 'senador nacional', 'senadora provincial', 'senador provincial'].includes(posicion.toLowerCase())
+  ? 'Senador/a'
   : posicion;
 
 const Sexo = posicion => 
@@ -89,4 +94,20 @@ const Publico = html => {
 
 const Privado = html => {
   return html.split('</span>').map(element => element.split('<span class="grisimp">').map(removeTags).map(removeDoubleSpace).map(trim).filter(emptyFilter).join(' ')).slice(0, -1);
-} 
+}
+
+const regexDesdeHasta= /(.*)\(([0-9 ]*)-([0-9 ]*)\)/;
+const regexDesde= /(.*)\(([0-9 ]*)\)/;
+const serializar = str => 
+  str.match(regexDesdeHasta) 
+  ? serializarDesdeHasta(str)
+  : str.match(regexDesde)
+  ? serializarDesde(str)
+  : serializarOtro(str);
+
+const serializarOtro = str => (str  || empty) + separator + empty + separator + empty ;
+const serializarDesde = str => puesto(str, regexDesde) + separator + desde(str, regexDesde) + separator + empty;
+const serializarDesdeHasta = str => puesto(str, regexDesdeHasta) + separator + desde(str, regexDesdeHasta) + separator + hasta(str, regexDesdeHasta);
+const puesto = (str, regex) => trim(str.match(regex)[1]);
+const desde = (str, regex) => trim(str.match(regex)[2]);
+const hasta = (str, regex) => trim(str.match(regex)[3]);
