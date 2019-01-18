@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Alejandro Luis Rossi | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"1o9O2GHLeP2rhIF3QiRU5YkpYEJ53s4HJz2e3MjOsSM","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"yTSfhYmrYZhjWmnRxC5wNGue0XkwyfdELlPivHOh-YE","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92166 node-type-legislador">
 <div id="skip-link">
@@ -63,7 +63,7 @@ Quiénes somos
 </a>
 </li>
 <li class="nav-button ">
-<a href="http://alertas.directoriolegislativo.org/">
+ <a href="http://alertas.directoriolegislativo.org/">
 Noticias
 </a>
 
@@ -135,7 +135,8 @@ SUSCRIBITE
 Santa Fe </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Ana Edit Rabin </li>
+Casado , Santa Fe
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
@@ -144,10 +145,10 @@ Casado con Ana Edit Rabin </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Abogado </li>
-</ul>
+1986: Abogado <span style="text-transform: capitalize;">(Universidad Nacional del Litoral)</span> </li>
+<li></li> <li></li> </ul>
 </div>
-</li>
+ </li>
 </ul>
 </div>
 </div>
@@ -210,8 +211,8 @@ No Responde </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
- <li class="info-activity employees">
-No tiene equipo de trabajo
+<li class="info-activity employees">
+No responde
 </li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
@@ -246,42 +247,48 @@ No hay una lista asignada </span >
 Actividad pública previa
 </div>
 <li class="info-activity">
-Diputado Nacional <span class="extra-info">
-- Argentina (2007-2011) 
-</span>
+Diputado Nacional por <span class="extra-info">
+(2007-2011)
+- Argentina </span>
 <br>
 Secretario de Seguridad Pública <span class="extra-info">
-- Santa Fe (2003-2005) 
-</span>
+(2003-2005)
+- Santa Fe </span>
 <br>
 Secretario de Gobierno <span class="extra-info">
-- Santa Fe (2002-2003) 
-</span>
+(2002-2003)
+- Santa Fe </span>
 <br>
 Secretario de Servicios Públicos <span class="extra-info">
-- Santa Fe (1999-2001) 
-</span>
+(1999-2001)
+- Santa Fe </span>
 <br>
-Subsecretario de Justicia <span class="extra-info">
-- Santa Fe (1995-1999) 
-</span>
+Subsecretario de Justicia  <span class="extra-info">
+(1995-1999)
+- Santa Fe </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Dirigente <span class="grisimp">
-- Partido Justicialista (1983-2010) </span>
+- Partido Justicialista
+(1983 - 2010)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Abogado <span class="grisimp">
-(1986-2008) </span>
+(1986 - 2008)
+</span>
 <br>
 Actividad empresarial <span class="grisimp">
-(1986-2010) </span>
+(1986 - 2010)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -348,9 +355,9 @@ Ciudad Autónoma de Buenos Aires ()
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#ea8b869885999983aa8e839a9f9e8b8e8599c48d859cc48b98"><span class="__cf_email__" data-cfemail="92f3fee0fde1e1fbd2f6fbe2e7e6f3f6fde1bcf5fde4bcf3e0">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#a0c1ccd2cfd3d3c9e0c4c9d0d5d4c1c4cfd38ec7cfd68ec1d2"><span class="__cf_email__" data-cfemail="fb9a978994888892bb9f928b8e8f9a9f9488d59c948dd59a89">[email&#160;protected]</span></a>
 </li>
- <div style="clear:both"></div>
+<div style="clear:both"></div>
 </ul>
 <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
 <li class="title">
@@ -400,7 +407,7 @@ No hay datos en este momento </a>
 Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A.
 </div>
 <div class="text-copy">
-Tel: 5411-52184647/5411-52364293.
+ Tel: 5411-52184647/5411-52364293.
 </div>
 <div class="text-copy">
 TODOS LOS DERECHOS RESERVADOS.
@@ -415,6 +422,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

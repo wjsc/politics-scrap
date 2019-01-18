@@ -6,7 +6,7 @@ const createRowObject = require('./parser');
 console.log('Node > v8.0.0 required');
 console.log('------------------------');
 let startIndex = 91800;
-const maxResults = 1630;
+const maxResults = 9000;
 const currentFile = new Date().toJSON()+'.csv';
 
 const buildURL = index => {
@@ -86,8 +86,8 @@ const writeRow = (row) => {
 }
 
 const writeOutput = async(rowObjects, keysMaxLengths) => {
-  for (const rowObject of rowObjects){
-    const row = await writeRow(formatRow(arrayPad(rowObject, keysMaxLengths)));
+  for (let rowObject of rowObjects){
+    let row = await writeRow(formatRow(arrayPad(rowObject, keysMaxLengths)));
   }
 }
 
@@ -95,7 +95,7 @@ async function run(){
   const rowObjects = [];
   const keysMaxLengths = [];
   for ({url, index} of URLGenerator()){
-    const rowObject = createRowObject(await getHTML(index, url), url);
+    let rowObject = createRowObject(await getHTML(index, url), url);
     if(rowObject) {
       Object.keys(rowObject).filter(k => Array.isArray(rowObject[k])).forEach( k => keysMaxLengths[k] = Math.max(rowObject[k].length, keysMaxLengths[k] || 0))
       rowObjects.push(rowObject);

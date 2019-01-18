@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Roberto Raúl Costa | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"etXs85QO4hLs4RoEmWgJmUP3KI7MhqNPhu68m_bYw1I","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"Q5Vf1hqFUmU7sTrkNXB-QG6kLsXF25Gg2cQRiR9kqnA","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92355 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 01/11/1960 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Ciudad Autónoma de Buenos Aires, No Responde </li>
+Ciudad Autónoma de Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Ana Freschi </li>
+Casado
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 1 (uno) </li>
@@ -144,13 +145,8 @@ Casado con Ana Freschi </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Abogado </li>
-<li>
-Psicólogo Social (Escuela Argentina de Psicología Social, 1998)
-</li>
-<li>
-Especialización </li>
-</ul>
+Abogado <span style="text-transform: capitalize;">(Universidad Nacional de Lomas de Zamora)</span> </li>
+<li>1998: Psicólogo Social <span style="text-transform: capitalize;">(Escuela Argentina de Psicología Social)</span></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -162,15 +158,15 @@ Especialización </li>
 <div class="name">
 Roberto Raúl Costa </div>
 <div class="position">
-Senador provincial </div>
+No Responde </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Frente Renovador </div>
+No hay un bloque asignado </div>
 <div class="info status">
 <div class="text">Distrito</div>
-Buenos Aires - Cuarta Sección 
+
 </div>
 </div>
 <div class="col-lg-6">
@@ -181,7 +177,7 @@ Buenos Aires - Cuarta Sección
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2013-2017 </div>
+No Responde </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -189,17 +185,17 @@ Buenos Aires - Cuarta Sección
 <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
 <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
 </ul>
- <div style="clear:both"></div>
+<div style="clear:both"></div>
 <div class="tab-content">
 <div id="home" class="tab-pane fade in active">
 <h3 class="title">Especialización:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity specialization">
-Comercio; Obras Públicas; PyMes; Transporte </li>
+No Responde </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
-<div class="info-activity comission">
+ <div class="info-activity comission">
 <span class="titlenombrecomision comisiones nombrecomision">
 Comercio Interior, Pequeña y Mediana Empresa y Turismo </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
@@ -213,7 +209,7 @@ Transporte, Puertos e Intereses Marítimos </span>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">160-E-2014 "Creando en el Ambito de la Provincia de Buenos Aires el Programa Provincial de Investigación, Desarrollo, Generación, Producción, Uso Sustentable y Promoción del Cultivo de Microalgas con Destino a la Elaboración de Biocombustible".</span> <br><span class="grisimp">135-E-2014 "Regulando los Sistemas de Captación de Imagenes y Sonido Utilizados en la Provincia, ya sean Públicos o Privados y Creando el Registro Provincial Obligatorio de Poseedores de Equipos de Captación de Imagenes y/o Sonidos Logradas en Espacios Públicos o de Acceso Público, sean Públicos o Privados".</span><br> </li>
+</li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
@@ -223,7 +219,8 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Nicolás Diorio <span class='grisimp'>(Educación)</span>; Jorge Giordano <span class='grisimp'>(Legislatura)</span>. </li>
+Nicolás Diorio <span class='grisimp'>(Educación)</span>; Jorge Giordano <span class='grisimp'>(Legislatura)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -231,25 +228,25 @@ Nicolás Diorio <span class='grisimp'>(Educación)</span>; Jorge Giordano <span 
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
- 3º </span>
+No Responde </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-3 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-34.91% </span >
+No hay una lista asignada </span >
 </div>
 </li>
 </ul>
-</div>
+ </div>
 <div id="menu1" class="tab-pane fade">
 <ul class="tab-content other-activity" data-id="2">
 <div class="other public-activity">
@@ -258,41 +255,56 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Senador provincial <span class="extra-info">
-- Buenos Aires (2009-2013) 
-</span>
+(2009-2013)
+- Buenos Aires </span>
 <br>
 Diputado Provincial <span class="extra-info">
-- Buenos Aires (1999-2003) 
-</span>
+(1999-2003)
+- Buenos Aires </span>
 <br>
 Senador provincial <span class="extra-info">
-- Buenos Aires (1993-1997) 
-</span>
+(1993-1997)
+- Buenos Aires </span>
 <br>
 Concejal <span class="extra-info">
-- Escobar, Buenos Aires (1987-1991) 
-</span>
+(1987-1991)
+- Escobar, Buenos Aires </span>
 <br>
-Diputado Nacional <span class="extra-info">
-- Argentina (2003-2007) 
+Diputado Nacional por <span class="extra-info">
+(2003-2007)
+- Argentina </span>
+<br>
+Senador provincial <span class="extra-info">
+(2013-2017)
+- Buenos Aires </span>
+<br>
+<span class="extra-info">
 </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Presidente del Comité distrital <span class="grisimp">
-- Unión Cívica Radical (1999-2010) </span>
+- Unión Cívica Radical
+(1999 - 2010)
+</span>
 <br>
 Secretario de Acción Polítca del Comité Provincial <span class="grisimp">
-- Unión Cívica Radical (1997-2010) </span>
+- Unión Cívica Radical
+(1997 - 2010)
+</span>
 <br>
- </li>
+</li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Inmobiliaria y Transporte de carga <span class="grisimp">
-- La Costa S. A. (1991-2012) </span>
+- La Costa S. A.
+(1991 - 2012)
+</span>
 <br>
 Martillero Público <span class="grisimp">
 </span>
@@ -301,7 +313,7 @@ Abogado <span class="grisimp">
 </span>
 <br>
 Profesor de Derecho Constitucional <span class="grisimp">
-</span>
+ </span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -355,7 +367,7 @@ La Plata (1900)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#aad8c9c5d9decbead9cfc4cbcec587c8cb84cdc5dc84cbd8"><span class="__cf_email__" data-cfemail="2e5c4d415d5a4f6e5d4b404f4a41034c4f00494158004f5c">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#f7859498848396b7849299969398da9596d9909881d99685"><span class="__cf_email__" data-cfemail="5e2c3d312d2a3f1e2d3b303f3a31733c3f70393128703f2c">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -391,7 +403,7 @@ La Plata (1900)
 <a href="https://twitter.com/@Drrobertocosta" target="_blank">
 @Drrobertocosta<a class="twitter-timeline" href="https://twitter.com/Drrobertocosta" data-widget-id="735728825129046016" data-screen-name="Drrobertocosta">
 Tweets by @Drrobertocosta</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -427,6 +439,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

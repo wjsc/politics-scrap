@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>María Inés Gorbea | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"Me0zGrjbDOMqdBD3suPHkDMyi5pJAFftAaqJNmhl1YM","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"PzYvFNwZRmqDcx2Bdw3lZrplSwggTurutxs_V0vrYvM","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93357 node-type-legislador">
 <div id="skip-link">
@@ -132,20 +132,21 @@ SUSCRIBITE
 15/03/1975 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Ciudad Autónoma de Buenos Aires, No Responde </li>
+Ciudad Autónoma de Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casada con Jorge D´Odorico </li>
+Casada
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
- <li class="academy">
+<li class="academy">
 <div class="text-info">Títulos académicos</div>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Abogada </li>
-</ul>
+1999: Abogada <span style="text-transform: capitalize;">(Universidad de Belgrano)</span> </li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -157,15 +158,15 @@ Abogada </li>
 <div class="name">
 María Inés Gorbea </div>
 <div class="position">
-Legisladora </div>
+No Responde </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-SUMA+ </div>
+No hay un bloque asignado </div>
 <div class="info status">
 <div class="text">Distrito</div>
-CABA 
+
 </div>
 </div>
 <div class="col-lg-6">
@@ -176,7 +177,7 @@ CABA
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2013-2017 </div>
+No Responde </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -186,11 +187,11 @@ CABA
 </ul>
 <div style="clear:both"></div>
 <div class="tab-content">
- <div id="home" class="tab-pane fade in active">
+<div id="home" class="tab-pane fade in active">
 <h3 class="title">Especialización:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity specialization">
-Salud Pública; Justicia; Legislación General; Legislación del Trabajo; Medio Ambiente </li>
+No Responde </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -212,17 +213,18 @@ Salud </span>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">50-D-2016.</span> Ley integral de juego.<br><span class="grisimp">2003-D-2016.</span> Gestión ambiental de los residuos solidos urbanos reciclables. Modificación ley 4120.<br> </li>
+</li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-13 </span>
+No Responde </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Marcela Mesquida <span class='grisimp'>(Abogada)</span>; Mariano Bonifacio <span class='grisimp'>(Politólogo)</span>; Matias Olivieri <span class='grisimp'>(No responde)</span>. </li>
+ Marcela Mesquida <span class='grisimp'>(Abogada)</span>; Mariano Bonifacio <span class='grisimp'>(Politólogo)</span>; Matias Olivieri <span class='grisimp'>(No responde)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -230,21 +232,21 @@ Marcela Mesquida <span class='grisimp'>(Abogada)</span>; Mariano Bonifacio <span
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-8º </span>
+No Responde </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-8 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-24.68% </span >
+No hay una lista asignada </span >
 </div>
 </li>
 </ul>
@@ -256,35 +258,47 @@ Marcela Mesquida <span class='grisimp'>(Abogada)</span>; Mariano Bonifacio <span
 Actividad pública previa
 </div>
 <li class="info-activity">
+Legisladora <span class="extra-info">
+(2013-2017)
+- CABA, Argentina </span>
+<br>
 Gerenta Operativo <span class="extra-info">
-(2012-2013) 
-</span>
+(2012-2013)
+- Ministerio de Gobierno de la Ciudad Autónoma de Buenos Aires </span>
 <br>
 Asesora técnico <span class="extra-info">
-(1995-2001) 
+(1995-2001)
+- ANSES </span>
+<br>
+<span class="extra-info">
 </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Superviosora de Beneficios <span class="grisimp">
-- Orígenes (2000-2003) </span>
+- Orígenes
+(2000 - 2003)
+</span>
 <br>
 </li>
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 No responde <span class="grisimp">
-- No hay un partido asignado </span>
+</span>
 <br>
 </li>
+
 <div class="title">Donaciones </div>
 <li class="info-activity">
 No responde <br>
 </li>
 <div class="other ingr-activity">
- <div class="title">Ingresos brutos</div>
+<div class="title">Ingresos brutos</div>
 <li class="info-activity">
 Sueldo neto: $38.000 </li>
 </div>
@@ -320,7 +334,7 @@ Ciudad Autónoma de Buenos Aires (C1067AAD)
 (011) 4338-3303 </li>
 <div style="clear:both"></div>
 </ul>
-<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+ <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
 <li class="title">
 <i class="fa fa-link"></i>&nbsp; Sitio Web
 </li>
@@ -334,7 +348,7 @@ Ciudad Autónoma de Buenos Aires (C1067AAD)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#0e636f7c676f2069617c6c6b6f4e626b69677d626f7a7b7c6f20696178206f7c"><span class="__cf_email__" data-cfemail="a3cec2d1cac28dc4ccd1c1c6c2e3cfc6c4cad0cfc2d7d6d1c28dc4ccd58dc2d1">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#620f03100b034c050d10000703220e07050b110e03161710034c050d144c0310"><span class="__cf_email__" data-cfemail="137e72617a723d747c61717672537f76747a607f72676661723d747c653d7261">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -370,7 +384,7 @@ Ciudad Autónoma de Buenos Aires (C1067AAD)
 <a href="https://twitter.com/@InesGorbea" target="_blank">
 @InesGorbea<a class="twitter-timeline" href="https://twitter.com/InesGorbea" data-widget-id="735728825129046016" data-screen-name="InesGorbea">
 Tweets by @InesGorbea</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -406,6 +420,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

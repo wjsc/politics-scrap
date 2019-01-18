@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Lilia Marien Marchesini | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"LapqUQVwlTGXNczjHlulXuzdWlg5BZwF-xrV7s2yvFU","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"Mzw0uhAK5ZZY5nSfpjd8R8LIZMqn4H74hFQNvrY16ag","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92007 node-type-legislador">
 <div id="skip-link">
@@ -132,26 +132,21 @@ SUSCRIBITE
 28/10/1962 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Posadas, Misiones </li>
+Posadas , Misiones </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Divorciada </li>
+Divorciada , Misiones
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 3 (Tres) </li>
-<li class="academy">
+ <li class="academy">
 <div class="text-info">Títulos académicos</div>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Profesora </li>
-<li>
-Profesor (Instituto Universitario Nacional de Arte, 2002)
-</li>
-<li>
-Especialización (Instituto Universitario Nacional de Arte, 2006)
-</li>
-</ul>
+1983: Profesora <span style="text-transform: capitalize;">(Escuela Nacional de Arte)</span> </li>
+<li>2002: Profesora <span style="text-transform: capitalize;">(Instituto Universitario Nacional de Arte)</span></li> <li>2006: Especialización <span style="text-transform: capitalize;">(Instituto Universitario Nacional de Arte)</span></li> </ul>
 </div>
 </li>
 </ul>
@@ -163,15 +158,15 @@ Especialización (Instituto Universitario Nacional de Arte, 2006)
 <div class="name">
 Lilia Marien Marchesini </div>
 <div class="position">
-Legisladora provincial </div>
+No Responde </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Frente Renovador de la Concordia Social </div>
+No hay un bloque asignado </div>
 <div class="info status">
 <div class="text">Distrito</div>
-Misiones 
+
 </div>
 </div>
 <div class="col-lg-6">
@@ -182,7 +177,7 @@ Misiones
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2011-2015 </div>
+No Responde </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -196,14 +191,14 @@ Misiones
 <h3 class="title">Especialización:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity specialization">
-Cultura; Derechos Humanos; Educación </li>
+No Responde </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <div class="info-activity comission">
 <span class="titlenombrecomision comisiones nombrecomision">
 Poderes, Peticiones, Reglamento, Acuerdos y Biblioteca </span>
-(Presidenta), <span class="titlenombrecomision comisiones nombrecomision">
+(Presidenta),  <span class="titlenombrecomision comisiones nombrecomision">
 Asuntos Constitucionales, de los Derechos Humanos, Juicio Político e Integración </span>
 (Vice 1), <span class="titlenombrecomision comisiones nombrecomision">
 Poderes, Peticiones, Reglamento, Acuerdos y Biblioteca </span>
@@ -216,17 +211,18 @@ Educación, Cultura y Deporte </span>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">D-42333/14 "Crear el Observatorio Provincial para el Acceso y Desarrollo de los Servicios Públicos, destinado a la Población en Situación de Riesgo.</span>"<br><span class="grisimp">.</span><br><span class="grisimp">D-41861/14 "Sustituir el Articulo 1 de la Ley XIX - Nº 48 (Antes Ley 4313).</span>"<br> </li>
+</li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-4 </span>
+No Responde </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Luciana Raquel Piccioni; José Antonio Piccioni; Claudia Haydeé Bourdieu <span class='grisimp'>(Abogada)</span>.  </li>
+Luciana Raquel Piccioni; José Antonio Piccioni; Claudia Haydeé Bourdieu <span class='grisimp'>(Abogada)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -234,23 +230,23 @@ Luciana Raquel Piccioni; José Antonio Piccioni; Claudia Haydeé Bourdieu <span 
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-12° </span>
+No Responde </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-18 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-75,69 </span >
+No hay una lista asignada </span >
 </div>
-</li>
+ </li>
 </ul>
 </div>
 <div id="menu1" class="tab-pane fade">
@@ -260,34 +256,49 @@ Luciana Raquel Piccioni; José Antonio Piccioni; Claudia Haydeé Bourdieu <span 
 Actividad pública previa
 </div>
 <li class="info-activity">
+Legisladora provincial <span class="extra-info">
+(2011-2015)
+- Misiones </span>
+<br>
 Directora Directora General de Cultura <span class="extra-info">
-(2003-2004) 
+(2003-2004)
 </span>
 <br>
 Directora Directora de Técnica Jurídica y Enlace Parlamentario <span class="extra-info">
-(2006-2008) 
+(2006-2008)
 </span>
 <br>
 Directora Directora General de Promoción de la Equidad y Capacidades Diferentes <span class="extra-info">
-(2008-2011) 
+(2008-2011)
+</span>
+<br>
+<span class="extra-info">
 </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Docente <span class="grisimp">
-- Escuela Superior de Danzas (2010-2012) </span>
+- Escuela Superior de Danzas
+(2010 - 2012)
+</span>
 <br>
 Directora y Docente <span class="grisimp">
-- Instituto de Formación Artística (1986-2008) </span>
+- Instituto de Formación Artística
+(1986 - 2008)
+</span>
 <br>
 </li>
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Candidata a Concejal Suplente <span class="grisimp">
-- Fte. Renovador Concordia Social (2009-2009) </span>
+- Fte. Renovador Concordia Social
+(2009 - 2009)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -353,8 +364,8 @@ Posadas ()
 <li class="title">
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
-<li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#cebaa7a5a7a3afbcada6abbda7a0a78eaaa7bebbbaafaaa1bda3a7bda7a1a0abbde0a9a1b8e0afbc"><span class="__cf_email__" data-cfemail="c1b5a8aaa8aca0b3a2a9a4b2a8afa881a5a8b1b4b5a0a5aeb2aca8b2a8aeafa4b2efa6aeb7efa0b3">[email&#160;protected]</span></a>
+ <li class="mail">
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#afdbc6c4c6c2ceddccc7cadcc6c1c6efcbc6dfdadbcecbc0dcc2c6dcc6c0c1cadc81c8c0d981cedd"><span class="__cf_email__" data-cfemail="3044595b595d514253585543595e5970545940454451545f435d5943595f5e55431e575f461e5142">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -390,7 +401,7 @@ Posadas ()
 <a href="https://twitter.com/@liliatikimarch" target="_blank">
 @liliatikimarch<a class="twitter-timeline" href="https://twitter.com/liliatikimarch" data-widget-id="735728825129046016" data-screen-name="liliatikimarch">
 Tweets by @liliatikimarch</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -426,6 +437,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

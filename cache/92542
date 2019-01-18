@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Rosa Vargas | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"FOf4d7kCDHjhlQG6dhzgTIIk7OLVunSHW7wG0t059vg","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"q2aGntgiP_qGC1Vm8dxrrOJfUvz5mO3g3_eJBY69jvc","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92542 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 07/08/1953 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Eldorado, Misiones </li>
+Eldorado , Misiones </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Soltera </li>
+Soltera , Misiones
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
@@ -144,11 +145,8 @@ Soltera </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Técnica </li>
-<li>
-Profesor (Instituto San José Eldorado, 1986)
-</li>
-</ul>
+1981: Técnica <span style="text-transform: capitalize;">(Universidad del Litoral)</span> </li>
+<li>1986: Profesora <span style="text-transform: capitalize;">(Instituto San José Eldorado)</span></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -214,7 +212,8 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Mauricio Chamorro <span class='grisimp'>(Informática)</span>; Javier Farias <span class='grisimp'>(Comercio)</span>; Ana María Procacci. </li>
+Mauricio Chamorro <span class='grisimp'>(Informática)</span>; Javier Farias <span class='grisimp'>(Comercio)</span>; Ana María Procacci.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -249,32 +248,42 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Legisladora provincial <span class="extra-info">
-- Misiones (2009-2013) 
-</span>
+(2009-2013)
+- Misiones </span>
 <br>
 Jefa de Estadísticas del Hospital Samic <span class="extra-info">
-- Misiones (1982-2004) 
-</span>
+(1982-2004)
+- Ministerio de Salud Pública - Misiones </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Militante <span class="grisimp">
-- Movimiento para un Nuevo País (1984-2012) </span>
+- Movimiento para un Nuevo País
+(1984 - 2012)
+</span>
 <br>
 Delegada Sindicato de Amas de Casa <span class="grisimp">
-- Movimiento para un Nuevo País (1985-2012) </span>
+- Movimiento para un Nuevo País
+(1985 - 2012)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
-Docente - Tutora  <span class="grisimp">
-- Sistema Provincial de Teleducación y Desarrollo (SiPTeD) (2000-2009) </span>
+Docente - Tutora <span class="grisimp">
+- Sistema Provincial de Teleducación y Desarrollo (SiPTeD)
+(2000 - 2009)
+</span>
 <br>
 Profesora de Lengua en el Ciclo Básico EPET Nº6 <span class="grisimp">
-- Ministerio de Educación (1987-2009) </span>
+- Ministerio de Educación
+(1987 - 2009)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -341,7 +350,7 @@ Posadas ()
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#215357405346405261454851545540454e524c4852484e4f44520f464e570f4053"><span class="__cf_email__" data-cfemail="6a181c0b180d0b192a0e031a1f1e0b0e05190703190305040f19440d051c440b18">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#d3a1a5b2a1b4b2a093b7baa3a6a7b2b7bca0bebaa0babcbdb6a0fdb4bca5fdb2a1"><span class="__cf_email__" data-cfemail="96e4e0f7e4f1f7e5d6f2ffe6e3e2f7f2f9e5fbffe5fff9f8f3e5b8f1f9e0b8f7e4">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -408,6 +417,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

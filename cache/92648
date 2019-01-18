@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Alejandro Adrián Molero Marnetti | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"7fN50BtYDiOTBJhEegIPHXIXIkyOHoR2jVCanP6GI80","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"fhDZxy0BlJ6DsUQHEvw5bw1UMS2TAznCU4Q3HsjBIVM","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92648 node-type-legislador">
 <div id="skip-link">
@@ -50,7 +50,7 @@
 <header id="navbar" role="banner" class="navbar container navbar-default">
 <div class="container">
 <div class="navbar-header">
- <div class="nav">
+<div class="nav">
 <ul class="pull-left nav-left">
 <li class="nav-button ">
 <a href="http://directorio.directoriolegislativo.org">
@@ -59,7 +59,7 @@ Home
 </li>
 <li class="nav-button ">
 <a href="http://directorio.directoriolegislativo.org/node/66256">
-Quiénes somos
+ Quiénes somos
 </a>
 </li>
 <li class="nav-button ">
@@ -132,20 +132,21 @@ SUSCRIBITE
 06/06/1972 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-General Alvear, Mendoza </li>
+General Alvear , Mendoza </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Gabriela Silvina Morales </li>
+Casado , Mendoza
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 3 (tres) </li>
 <li class="academy">
- <div class="text-info">Títulos académicos</div>
+<div class="text-info">Títulos académicos</div>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-No tiene </li>
-</ul>
+</li>
+<li></li>  <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -211,7 +212,7 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-No tiene equipo de trabajo
+No responde
 </li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
@@ -231,10 +232,10 @@ No hay una lista asignada </span >
 </div>
 </li>
 <li class="info-activity votes">
-<div>
+ <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
- No hay una lista asignada </span >
+No hay una lista asignada </span >
 </div>
 </li>
 </ul>
@@ -247,32 +248,40 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Diputado Provincial <span class="extra-info">
-- Mendoza (2007-2011) 
-</span>
+(2007-2011)
+- Mendoza </span>
 <br>
 Presidente <span class="extra-info">
-- Mendoza (2003-2007) 
-</span>
+(2003-2007)
+- Fundación COPROSAMEN (Comisión Provincial de Sanidad Animal) - Mendoza </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Congresal y Convencional Nacional y Provincial <span class="grisimp">
-- Unión Cívica Radical (2009-2011) </span>
+- Unión Cívica Radical
+(2009 - 2011)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
-Productor Agropecuario <span class="grisimp">
-(1997-2010) </span>
+ Productor Agropecuario <span class="grisimp">
+(1997 - 2010)
+</span>
 <br>
 Industrial <span class="grisimp">
-(1994-2010) </span>
+(1994 - 2010)
+</span>
 <br>
 Vicepresidente <span class="grisimp">
-- Cámara de Comercio, Industria, Agricultura y Ganadería (1994-2007) </span>
+- Cámara de Comercio, Industria, Agricultura y Ganadería
+(1994 - 2007)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -339,7 +348,7 @@ Mendoza ()
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#dbbab6b4b7bea9b49bb3b8bfb6a1baf5bcb4adf5baa9"><span class="__cf_email__" data-cfemail="96f7fbf9faf3e4f9d6fef5f2fbecf7b8f1f9e0b8f7e4">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#f6979b999a938499b69e95929b8c97d8919980d89784"><span class="__cf_email__" data-cfemail="e8898587848d9a87a8808b8c859289c68f879ec6899a">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -406,6 +415,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Cristina Beatriz Fioramonti | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"tNg0IAMon0nmHOUImsEPHcFOXKGIaeozK-7ucPLA5_M","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"iuLEn33eT9LVJr354nFXKdwb62TV2WJr44R_8HOcj-s","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92363 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 28/05/1958 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Banfield, Buenos Aires </li>
+Banfield , Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casada con Carlos Miguel Kunkel </li>
+Casada , Buenos Aires
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
@@ -144,14 +145,8 @@ Casada con Carlos Miguel Kunkel </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Abogada </li>
-<li>
-Especialista (Universidad Nacional de La Plata, 2003)
-</li>
-<li>
-Maestría (Escuela del Cuerpo de Abogados del Estado de la Procuración del Tesoro de la Nación, )
-</li>
-</ul>
+1987: Abogada <span style="text-transform: capitalize;">(Universidad Católica de La Plata)</span> </li>
+<li>2003: Especialista <span style="text-transform: capitalize;">(Universidad Nacional de La Plata)</span></li> <li>Maestría <span style="text-transform: capitalize;">(Escuela del Cuerpo de Abogados del Estado de la Procuración del Tesoro de la Nación)</span></li> </ul>
 </div>
 </li>
 </ul>
@@ -163,15 +158,15 @@ Maestría (Escuela del Cuerpo de Abogados del Estado de la Procuración del Teso
 <div class="name">
 Cristina Beatriz Fioramonti </div>
 <div class="position">
-Senadora provincial </div>
+No Responde </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Frente para la Victoria </div>
+No hay un bloque asignado </div>
 <div class="info status">
 <div class="text">Distrito</div>
-Buenos Aires - Tercera Sección 
+
 </div>
 </div>
 <div class="col-lg-6">
@@ -182,7 +177,7 @@ Buenos Aires - Tercera Sección
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2011-2015 </div>
+No Responde </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -212,7 +207,7 @@ Ambiente y Desarrollo Sustentable </span>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">98-E-2014 "Sustituyendo Artículo 38º Incorporando Artículo 59º Bis de la Ley 10.</span>430 -Estatuto del Personal Administración Pública". <br><span class="grisimp">63-E-2014 "Estableciendo el Procedimiento Judicial en el Ámbito de la Provincia de Buenos Aires sobre los Hechos que Configuren Violencia de Género Previsto en la Ley Nacional 26.</span>485 y Modificando Artículo 61º de la Ley 5.827 -Organica del Poder Judicial-.<br> </li>
+</li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
@@ -222,7 +217,7 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-No tiene equipo de trabajo
+No responde
 </li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
@@ -231,21 +226,21 @@ No tiene equipo de trabajo
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-3º </span>
+No Responde </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-9 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-57,82 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 </ul>
@@ -258,44 +253,51 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Senadora provincial <span class="extra-info">
-- Buenos Aires (2007-2011) 
-</span>
+(2007-2011)
+- Buenos Aires </span>
 <br>
 Directora Directora Técnica Legal, Tribunal de Tasaciones de la Nación <span class="extra-info">
-- Buenos Aires (2003-2007) 
-</span>
+(2003-2007)
+- Buenos Aires </span>
 <br>
 Responsable <span class="extra-info">
-- Buenos Aires (2002-2003) 
-</span>
+(2002-2003)
+- Departamento de Bien de Familia de la Municipalidad de Florencio Varela - Buenos Aires </span>
 <br>
 Subsecretaria Legal y Técnica <span class="extra-info">
-- Buenos Aires (1997-2001) 
-</span>
+(1997-2001)
+- Buenos Aires </span>
 <br>
 Directora Directora de Asuntos Legales <span class="extra-info">
-- Buenos Aires (1991-1997) 
-</span>
+(1991-1997)
+- Buenos Aires </span>
+<br>
+Senadora provincial <span class="extra-info">
+(2011-2015)
+- Buenos Aires </span>
 <br>
 Asesora Letrada de la Presidencia del Concejo Deliberante de Florencio Varela <span class="extra-info">
-- Florencio Varela, Buenos Aires (1988-1991) 
-</span>
+(1988-1991)
+- Municipalidad de Florencio Varela - Florencio Varela, Buenos Aires </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Abogada <span class="grisimp">
-(1989-1998) </span>
+(1989 - 1998)
+</span>
 <br>
 Asesora Letrada del Sindicato Unido de Trabajadores de la Educación de la Provincia de Buenos Aires (SUTEBA) <span class="grisimp">
-(1998-1998) </span>
+(1998 - 1998)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
 <div class="title">Ingresos brutos</div>
-<li class="info-activity">
+ <li class="info-activity">
 Total de haberes c/aportes: $23.916. Sujeto a deducciones </li>
 </div>
 </div>
@@ -344,7 +346,7 @@ La Plata (1900)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#adcecbc4c2dfccc0c2c3d9c4eddec8c3ccc9c280cfcc83cac2db83ccdf"><span class="__cf_email__" data-cfemail="dab9bcb3b5a8bbb7b5b4aeb39aa9bfb4bbbeb5f7b8bbf4bdb5acf4bba8">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#385b5e51574a595557564c51784b5d56595c57155a59165f574e16594a"><span class="__cf_email__" data-cfemail="ee8d8887819c8f8381809a87ae9d8b808f8a81c38c8fc0898198c08f9c">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -411,6 +413,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Roberto Fabio Sorchilli | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"KaPhXsMQHEJA4HvASYq00RTKHala5D8B7zHNFveKayU","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"Ghkr0Kfs30LDf3iqOHcoiNHaI7txpXB64fwtzrP5vnQ","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92005 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 14/11/1969 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-San Antonio de Areco, Buenos Aires </li>
+San Antonio de Areco , Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Mónica Patricia Quiroz </li>
+Casado , Buenos Aires
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
@@ -144,8 +145,8 @@ Casado con Mónica Patricia Quiroz </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Abogado </li>
-</ul>
+2007: Abogado <span style="text-transform: capitalize;">(Universidad Católica de Salta)</span> </li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -157,15 +158,15 @@ Abogado </li>
 <div class="name">
 Roberto Fabio Sorchilli </div>
 <div class="position">
-Senador provincial </div>
+No Responde </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Frente para la Victoria </div>
+No hay un bloque asignado </div>
 <div class="info status">
 <div class="text">Distrito</div>
-Buenos Aires - Segunda Sección 
+
 </div>
 </div>
 <div class="col-lg-6">
@@ -176,7 +177,7 @@ Buenos Aires - Segunda Sección
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2011-2015 </div>
+No Responde </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -190,7 +191,7 @@ Buenos Aires - Segunda Sección
 <h3 class="title">Especialización:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity specialization">
-Asuntos Constitucionales; Asuntos Municipales; Juicio Político </li>
+No Responde </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -203,24 +204,24 @@ Industria y Minería </span>
 Asuntos Agrarios y Pesca </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
 Legislación General </span>
-(Vocal),  <span class="titlenombrecomision comisiones nombrecomision">
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
 Comercio Exterior, Mercosur y Política de Integración Regional </span>
 (Vocal). </div>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">183-E-2014 "Creando en Todo el Territorio de la Provincia de Buenos Aires un Registro de Usuarios y Clientes de Servicios de Comunicaciones Moviles".</span> <br><span class="grisimp">17-E-2014 "Modificando el Inciso C) del Artículo 88 de la Ley Nº 13.</span>688 - Ley de Educación de la Provincia de Buenos Aires".<br> </li>
+</li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-No responde </span>
+No Responde </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-No tiene equipo de trabajo
+ No responde
 </li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
@@ -229,21 +230,21 @@ No tiene equipo de trabajo
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-1º suplente </span>
+No Responde </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-3 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-43,43 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 </ul>
@@ -255,34 +256,48 @@ No tiene equipo de trabajo
 Actividad pública previa
 </div>
 <li class="info-activity">
+Senador provincial <span class="extra-info">
+(2011-2015)
+- Buenos Aires </span>
+<br>
 Secretario de Acción Social y Gobierno <span class="extra-info">
-- San Antonio de Areco, Buenos Aires (1995-1997) 
-</span>
+(1995-1997)
+- San Antonio de Areco, Buenos Aires </span>
 <br>
 Director de Asuntos Municipales <span class="extra-info">
-- La Plata, Buenos Aires (2000-2001) 
-</span>
+(2000-2001)
+- La Plata, Buenos Aires </span>
 <br>
 Concejal <span class="extra-info">
-- San Antonio de Areco, Buenos Aires (2011-2013) 
-</span>
+(2011-2013)
+- San Antonio de Areco, Buenos Aires </span>
 <br>
 Intendente <span class="extra-info">
-- San Antonio de Areco, Buenos Aires (1997-1999) 
+(1997-1999)
+- San Antonio de Areco, Buenos Aires </span>
+<br>
+<span class="extra-info">
+
 </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Presidente <span class="grisimp">
-- Partido Justicialista (1999-2003) </span>
+- Partido Justicialista
+(1999 - 2003)
+</span>
 <br>
 Congresal Nacional <span class="grisimp">
-- Partido Justicialista (1999-2003) </span>
+- Partido Justicialista
+(1999 - 2003)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Abogado <span class="grisimp">
@@ -340,7 +355,7 @@ La Plata (1900)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#4a383925382922232626230a392f242b2e2567282b642d253c642b38"><span class="__cf_email__" data-cfemail="7f0d0c100d1c17161313163f0c1a111e1b10521d1e51181009511e0d">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#4c3e3f233e2f24252020250c3f29222d2823612e2d622b233a622d3e"><span class="__cf_email__" data-cfemail="4537362a37262d2c29292c0536202b24212a6827246b222a336b2437">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -376,7 +391,7 @@ La Plata (1900)
 <a href="https://twitter.com/@FSorchilli" target="_blank">
 @FSorchilli<a class="twitter-timeline" href="https://twitter.com/FSorchilli" data-widget-id="735728825129046016" data-screen-name="FSorchilli">
 Tweets by @FSorchilli</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -412,6 +427,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Alberto Crossetti | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"kIQUzOYNKG_kFOu7CTVAf8-RbFBzUS7Q6Ekn9pJxhYY","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"8jD-jr-DCgp11Ah4t4fOL7ws2QhMbq2EAJujK_fjlnA","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93097 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 17/04/1957 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Las Rosas, Departamento Belgrano, Santa Fe </li>
+Las Rosas, Departamento Belgrano , Santa Fe </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Edit Susana Abbondanzieri </li>
+Casado , Santa Fe
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 3 (tres) </li>
@@ -144,8 +145,8 @@ Casado con Edit Susana Abbondanzieri </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-No tiene </li>
-</ul>
+</li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -157,15 +158,15 @@ No tiene </li>
 <div class="name">
 Alberto Crossetti </div>
 <div class="position">
-Senador provincial </div>
+No Responde </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Santa Fe para Todos </div>
+No hay un bloque asignado </div>
 <div class="info status">
 <div class="text">Distrito</div>
-Santa Fe 
+
 </div>
 </div>
 <div class="col-lg-6">
@@ -176,7 +177,7 @@ Santa Fe
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2011-2015 </div>
+No Responde </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -201,17 +202,18 @@ No Responde </li>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">24344JL-Ley.</span> Emergencia en materia de seguridad pública.<br><span class="grisimp">23172 JL.</span> Derogación de la unidad económica agraria.<br> </li>
+</li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-6 </span>
+No Responde </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Colombano Aldo L. <span class='grisimp'>(Abogado)</span> </li>
+Colombano Aldo L. <span class='grisimp'>(Abogado)</span>
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -219,21 +221,21 @@ Colombano Aldo L. <span class='grisimp'>(Abogado)</span> </li>
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-1º </span>
+No Responde </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-1 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-40,1 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 </ul>
@@ -246,47 +248,65 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Senador provincial <span class="extra-info">
-- Santa Fe (2007-2011) 
-</span>
+(2007-2011)
+- Santa Fe </span>
 <br>
 Senador provincial <span class="extra-info">
-- Santa Fe (1995-1999) 
-</span>
+(1995-1999)
+- Santa Fe </span>
 <br>
 Senador provincial <span class="extra-info">
-- Santa Fe (1999-2003) 
-</span>
+(1999-2003)
+- Santa Fe </span>
 <br>
 Senador provincial <span class="extra-info">
-- Santa Fe (2003-2007) 
-</span>
+(2003-2007)
+- Santa Fe </span>
 <br>
 Presidente <span class="extra-info">
-- Santa Fe, Santa Fe (1983-1995) 
+(1983-1995)
+- Comisión Comunal - Santa Fe, Santa Fe </span>
+<br>
+Senador provincial <span class="extra-info">
+(2011-2015)
+- Santa Fe </span>
+<br>
+<span class="extra-info">
 </span>
- <br>
+<br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Secretario General Departamental <span class="grisimp">
-- Partido Justicialista (1997-2012) </span>
+- Partido Justicialista
+(1997 - 2012)
+</span>
 <br>
 Congresal Provincial <span class="grisimp">
-- Partido Justicialista (1996-2008) </span>
+- Partido Justicialista
+(1996 - 2008)
+</span>
 <br>
 Secretario de Organización <span class="grisimp">
-- Partido Justicialista (2008-2012) </span>
+- Partido Justicialista
+(2008 - 2012)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Productor Agropecuario <span class="grisimp">
-(1983-2012) </span>
+(1983 - 2012)
+</span>
 <br>
-Operador de Estaciones de Servicios y mayorista de combustibles <span class="grisimp">
-- Estación de servicio (1985-2012) </span>
+ Operador de Estaciones de Servicios y mayorista de combustibles <span class="grisimp">
+- Estación de servicio
+(1985 - 2012)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -340,7 +360,7 @@ Santa Fe ()
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#e69584838a8194878889a695838887828995878892878083c8818990c88794"><span class="__cf_email__" data-cfemail="1b68797e777c697a75745b687e757a7f74687a756f7a7d7e357c746d357a69">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#a6d5c4c3cac1d4c7c8c9e6d5c3c8c7c2c9d5c7c8d2c7c0c388c1c9d088c7d4"><span class="__cf_email__" data-cfemail="8af9e8efe6edf8ebe4e5caf9efe4ebeee5f9ebe4feebecefa4ede5fca4ebf8">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -373,10 +393,10 @@ Santa Fe ()
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
 <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
 <li class="tel-number" style="text-transform:lowercase !important;">
-<a href="https://twitter.com/@a_crossetti" target="_blank">
+ <a href="https://twitter.com/@a_crossetti" target="_blank">
 @a_crossetti<a class="twitter-timeline" href="https://twitter.com/a_crossetti" data-widget-id="735728825129046016" data-screen-name="a_crossetti">
 Tweets by @a_crossetti</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -412,6 +432,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

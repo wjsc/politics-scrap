@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Carlos German Ciurca Montenedgro | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"h0LmvTvjyDbrTyCnneD-RiU46iy2fXJgBV8320gI8Ds","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"I5LOK1n4--u16eFHg7CG5b-sGza3wrVgwt6vxoc7cWs","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92745 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 10/03/1961 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Las Heras, Mendoza </li>
+Las Heras , Mendoza </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Verónica Valverde </li>
+Casado , Mendoza
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 4 (cuatro) </li>
@@ -144,8 +145,8 @@ Casado con Verónica Valverde </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Técnico </li>
-</ul>
+Técnico <span style="text-transform: capitalize;">(Escuela de Psicología Social Enrique Pichón Rivière)</span> </li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -211,7 +212,7 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-No tiene equipo de trabajo
+No responde
 </li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
@@ -247,69 +248,86 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Ministro de Desarrollo Humano, Familia y Comunidad <span class="extra-info">
-- Mendoza (2010-2011) 
-</span>
+(2010-2011)
+- Mendoza </span>
 <br>
 Asesor Asesor Cámara Diputados del bloque PJ de La Nación <span class="extra-info">
-(1990-1992) 
+(1990-1992)
 </span>
 <br>
 Director de Medio Ambiente y Urbanismo <span class="extra-info">
-- Las Heras, Mendoza (1992-1996) 
-</span>
+(1992-1996)
+- Las Heras, Mendoza </span>
 <br>
-Director de Planificación Institucional  <span class="extra-info">
-- Las Heras, Mendoza (1995-1997) 
-</span>
+Director de Planificación Institucional <span class="extra-info">
+(1995-1997)
+- Las Heras, Mendoza </span>
 <br>
 Concejal (presidente del bloque de concejales del PJ) <span class="extra-info">
-- Las Heras, Mendoza (1997) 
-</span>
+(1997)
+- Las Heras, Mendoza </span>
 <br>
 Diputado Provincial <span class="extra-info">
-- Mendoza (2001-2004) 
-</span>
+(2001-2004)
+- Mendoza </span>
 <br>
 Diputado Provincial <span class="extra-info">
-- Mendoza (2005-2009) 
-</span>
+(2005-2009)
+- Mendoza </span>
 <br>
 Ministro de Seguridad <span class="extra-info">
-- Mendoza (2008-2010) 
-</span>
+(2008-2010)
+- Mendoza </span>
 <br>
-Vicegobernador <span class="extra-info">
-- Mendoza (2011-2015) 
-</span>
+Vicegobernador  <span class="extra-info">
+(2011-2015)
+- Mendoza </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Secretario Provicnial de la JP <span class="grisimp">
-- Juventud Peronista (1984) </span>
+- Juventud Peronista
+1984 -
+</span>
 <br>
-Secretario Político del PJ Las Heras <span class="grisimp">
-- Partido Justicialista (1995) </span>
+ Secretario Político del PJ Las Heras <span class="grisimp">
+- Partido Justicialista
+1995 -
+</span>
 <br>
 Congresal de la Mesa Nacional de la JP y Coordinador provincial de programas de Juventud del ministerio de Desarrollo Social <span class="grisimp">
-- Juventud Peronista (1989) </span>
+- Juventud Peronista
+1989 -
+</span>
 <br>
 Secretario del PJ provincial <span class="grisimp">
-- Partido Justicialista (1991) </span>
+- Partido Justicialista
+1991 -
+</span>
 <br>
 Secretario del PJ Las Heras <span class="grisimp">
- - Partido Justicialista (1993) </span>
+- Partido Justicialista
+1993 -
+</span>
 <br>
 Presidente del PJ Las Heras <span class="grisimp">
-- Partido Justicialista (1999) </span>
+- Partido Justicialista
+1999 -
+</span>
 <br>
 Presidente del PJ Las Heras <span class="grisimp">
-- Partido Justicialista (2003) </span>
+- Partido Justicialista
+2003 -
+</span>
 <br>
 Presidente PJ Las Heras <span class="grisimp">
-- Partido Justicialista (2007) </span>
+- Partido Justicialista
+2007 -
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -332,7 +350,7 @@ No hay datos </li>
 <div class="title">¿Cómo comunicarse?</div>
 <div class="border"></div>
 <ul class="data place">
-<li class="name-place">En el Congreso de la Nación</li>
+ <li class="name-place">En el Congreso de la Nación</li>
 <li class="address">
 Patricias Mendocinas y Peatonal Sarmiento </li>
 <li class="zone">
@@ -363,7 +381,7 @@ Mendoza ()
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#4427272d31362725042821232d28253031362529212a202b3e256a232b326a2536"><span class="__cf_email__" data-cfemail="7112121804031210311d1416181d10050403101c141f151e0b105f161e075f1003">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#fc9f9f95898e9f9dbc90999b95909d88898e9d9199929893869dd29b938ad29d8e"><span class="__cf_email__" data-cfemail="0764646e72756466476b62606e6b66737275666a626963687d6629606871296675">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -386,7 +404,6 @@ Mendoza ()
 <div style="clear:both"></div>
 </ul>
 <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
-
 <li class="title">En su distrito</li>
 <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
 <li class="advisory-number">No Responde</li>
@@ -433,6 +450,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

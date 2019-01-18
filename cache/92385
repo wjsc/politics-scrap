@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Alfredo César Meckievi | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"S2NDeiagXu-Yl5Ozn9jPBQN-exm-SPvr9_vfPParF5M","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"wdObhmWhvy1ftwt23AKBOzwi8_c5cMtgvybWOQYbudk","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92385 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 29/11/1953 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Dolores, Buenos Aires </li>
+Dolores , Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Separado </li>
+Separado , Buenos Aires
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 4 (cuatro) </li>
@@ -144,8 +145,8 @@ Separado </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Abogado </li>
-</ul>
+1981: Abogado <span style="text-transform: capitalize;">(Universidad Nacional de La Plata)</span> </li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -211,7 +212,8 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Néstor Juzma; Fausto Castro; Irma Maceira;  Leopoldo Dellamotta. </li>
+Néstor Juzma; Fausto Castro; Irma Maceira; Leopoldo Dellamotta.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -246,53 +248,57 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Senador provincial <span class="extra-info">
-- Buenos Aires (2009-2013) 
-</span>
+(2009-2013)
+- Buenos Aires </span>
 <br>
 Intendente <span class="extra-info">
-- Dolores, Buenos Aires (2003-2007) 
-</span>
+(2003-2007)
+- Dolores, Buenos Aires </span>
 <br>
 Intendente <span class="extra-info">
-- Dolores, Buenos Aires (1995-1999) 
-</span>
+(1995-1999)
+- Dolores, Buenos Aires </span>
 <br>
 Intendente <span class="extra-info">
-- Dolores, Buenos Aires (1991-1995) 
-</span>
+(1991-1995)
+- Dolores, Buenos Aires </span>
 <br>
 Ministro de Justicia <span class="extra-info">
-- Buenos Aires (2002-2003) 
-</span>
+(2002-2003)
+- Buenos Aires </span>
 <br>
 Diputado Provincial <span class="extra-info">
-- Buenos Aires (1999-2002) 
-</span>
+(1999-2002)
+- Buenos Aires </span>
 <br>
 Administrador General de Vialidad <span class="extra-info">
-- Buenos Aires (1998-1999) 
-</span>
+(1998-1999)
+- Buenos Aires </span>
 <br>
 Concejal <span class="extra-info">
-- Dolores, Buenos Aires (1983-1987) 
-</span>
+(1983-1987)
+- Dolores, Buenos Aires </span>
 <br>
 Concejal <span class="extra-info">
-- Dolores, Buenos Aires (1987-1989) 
-</span>
+(1987-1989)
+- Dolores, Buenos Aires </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+ 
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Presidente <span class="grisimp">
-- Partido Justicialista </span>
+- Partido Justicialista
+</span>
 <br>
 Consejero provincial <span class="grisimp">
-- Partido Justicialista </span>
+- Partido Justicialista
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Ejercicio de la abogacía <span class="grisimp">
@@ -333,7 +339,7 @@ La Plata (1900)
 <i class="fa fa-phone"></i> Teléfono
 </li>
 <li class="tel-number">
-(0221) 412-1460/429-1229 </li>
+ (0221) 412-1460/429-1229 </li>
 <div style="clear:both"></div>
 </ul>
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
@@ -350,7 +356,7 @@ La Plata (1900)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#d1b0bcb4b2bab8b4a7b891a2b4bfb0b5befcb3b0ffb6bea7ffb0a3"><span class="__cf_email__" data-cfemail="f4959991979f9d91829db487919a95909bd99695da939b82da9586">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#cfaea2aaaca4a6aab9a68fbcaaa1aeaba0e2adaee1a8a0b9e1aebd"><span class="__cf_email__" data-cfemail="20414d45434b494556496053454e41444f0d42410e474f560e4152">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -417,7 +423,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

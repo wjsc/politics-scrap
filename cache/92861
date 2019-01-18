@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Susana del Valle Mazzarella | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"hC2Ho7jDXGyW7cdT50ft0eH93fr-HaAytL6AQkqKr78","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"L2SeWj60S-T4wfs04H_ih3LDBGvukh3NQuDlRnrYies","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92861 node-type-legislador">
 <div id="skip-link">
@@ -59,7 +59,7 @@ Home
 </li>
 <li class="nav-button ">
 <a href="http://directorio.directoriolegislativo.org/node/66256">
-Quiénes somos
+ Quiénes somos
 </a>
 </li>
 <li class="nav-button ">
@@ -132,10 +132,11 @@ SUSCRIBITE
 20/05/1952 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Córdoba, Córdoba </li>
+Córdoba , Córdoba </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casada con José Armando Bisio </li>
+Casada , Córdoba
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 4 (cuatro) </li>
@@ -144,11 +145,8 @@ Casada con José Armando Bisio </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Profesora </li>
-<li>
-Profesor (Complementación Educativa, 1976)
-</li>
-</ul>
+1973: Profesora <span style="text-transform: capitalize;">(Colegio Nacional Alejandro Carbó)</span> </li>
+<li>1976: Profesora <span style="text-transform: capitalize;">(Complementación Educativa)</span></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -184,7 +182,7 @@ No Responde </div>
 <div style="clear:both"></div>
 <div class="activity text">
 <ul class="nav nav-tabs">
-<li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
+ <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
 <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
 </ul>
 <div style="clear:both"></div>
@@ -214,7 +212,8 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Susana Belingieri <span class='grisimp'>(Familia y Discapacidad)</span>; Daniel Alfi <span class='grisimp'>(Turismo)</span>. </li>
+Susana Belingieri <span class='grisimp'>(Familia y Discapacidad)</span>; Daniel Alfi <span class='grisimp'>(Turismo)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -224,7 +223,7 @@ Susana Belingieri <span class='grisimp'>(Familia y Discapacidad)</span>; Daniel 
 <span class="resultados-electorales-item">
 No Responde </span>
 </div>
- </li>
+</li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
@@ -248,40 +247,51 @@ No hay una lista asignada </span >
 Actividad pública previa
 </div>
 <li class="info-activity">
-Diputada Nacional <span class="extra-info">
-- Argentina (2009-2013) 
-</span>
+Diputada Nacional por <span class="extra-info">
+(2009-2013)
+- Argentina </span>
 <br>
 Secretaria Secretaria de Educación y Derechos Humanos, Subsecretaría de Educación <span class="extra-info">
-(2003-2007) 
+(2003-2007)
 </span>
 <br>
 Concejal <span class="extra-info">
-- Córdoba, Córdoba (2003-2004) 
-</span>
+(2003-2004)
+- Córdoba, Córdoba </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Actividad territorial <span class="grisimp">
-- Partido Nuevo (2003-2010) </span>
+- Partido Nuevo
+(2003 - 2010)
+</span>
 <br>
 <span class="grisimp">
-Frente Cívico-Córdoba </span>
+Frente Cívico-Córdoba
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Docente <span class="grisimp">
-- Escuela Jesús María, Instituto Nuestra Señora (1973-1978) </span>
+- Escuela Jesús María, Instituto Nuestra Señora
+(1973 - 1978)
+</span>
 <br>
-Docente  <span class="grisimp">
-- Escuela Maternal Nº 1 (1978-1999) </span>
+Docente <span class="grisimp">
+- Escuela Maternal Nº 1
+(1978 - 1999)
+</span>
 <br>
 Directora <span class="grisimp">
-- Escuela Maternal Nº 1 (1999-2003) </span>
+- Escuela Maternal Nº 1
+(1999 - 2003)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -335,7 +345,7 @@ No tiene
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#57243a362d2d3625323b3b3633323b2117333e2722233633382479303821793625"><span class="__cf_email__" data-cfemail="ed9e808c97978c9f8881818c8988819bad89849d98998c89829ec38a829bc38c9f">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#acdfc1cdd6d6cddec9c0c0cdc8c9c0daecc8c5dcd9d8cdc8c3df82cbc3da82cdde"><span class="__cf_email__" data-cfemail="20534d415a5a4152454c4c4144454c5660444950555441444f530e474f560e4152">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -402,6 +412,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

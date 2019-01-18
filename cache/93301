@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Nicolás Del Caño | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"K1U1jjNma8z5eW8s-FMboz1GnQwIbo_xNBGjCXbz03M","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"lIAVeYW1yp3zcYjDKhTvQDAs_otSwotwqi3VKZ_WTn8","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93301 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 06/02/1980 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Córdoba, Córdoba </li>
+Córdoba capital </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Soltero </li>
+Soltero
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 No tiene </li>
@@ -144,8 +145,8 @@ No tiene </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-No tiene </li>
-</ul>
+</li>
+<li></li>  <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -165,7 +166,7 @@ Diputado Nacional </div>
 PTS - Frente de Izquierda </div>
 <div class="info status">
 <div class="text">Distrito</div>
-Buenos Aires - 
+Buenos Aires 
 </div>
 </div>
 <div class="col-lg-6">
@@ -176,7 +177,7 @@ Buenos Aires -
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-No Responde </div>
+2017-2021 </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -194,14 +195,19 @@ Derechos Humanos; Juventud; Trabajo en equipo </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
-<li class="info-activity comission">
-<span class="titlenombrecomision comisiones nombrecomision">No hay comisiones vigentes</span>
-</li>
+<div class="info-activity comission">
+<span class="titlenombrecomision comisiones nombrecomision">
+Legislación del Trabajo </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Minería </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Transportes </span>
+(Vocal). </div>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">3687-D-2018.</span> Convocatoria a consulta popular vinculante por acuerdo con el fondo monetario internacional.<br><span class="grisimp">3152-D-2018.</span> Expresar rechazo a la represion sufrida por los trabajadores del subte y del sindicato que los representa.<br> </li>
+<span class="grisimp">3687-D-2018.</span> Convocatoria a consulta popular vinculante por acuerdo con el fondo monetario internacional. <br><span class="grisimp">3152-D-2018.</span> Expresar rechazo a la represión sufrida por los trabajadores del subte y del sindicato que los representa.<br> </li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
@@ -211,7 +217,8 @@ No responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Soledad Bajar <span class='grisimp'>(Asesora)</span>; Virginia Rial <span class='grisimp'>(Asesora)</span>. </li>
+Soledad Bajar <span class='grisimp'>(Asesora)</span>;  Virginia Rial <span class='grisimp'>(Asesora)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -219,22 +226,22 @@ Soledad Bajar <span class='grisimp'>(Asesora)</span>; Virginia Rial <span class=
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-No Responde </span>
+1 </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-No hay una lista asignada </span >
+2 </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-No hay una lista asignada </span >
- </div>
+0,051 </span >
+</div>
 </li>
 </ul>
 </div>
@@ -245,37 +252,36 @@ No hay una lista asignada </span >
 Actividad pública previa
 </div>
 <li class="info-activity">
-Diputado Nacional <span class="extra-info">
-- Argentina (2013-2017) 
-</span>
-<br>
-No tiene <span class="extra-info">
-
-</span>
+Diputado Nacional por Buenos Aires <span class="extra-info">
+(2013-2017)
+- Argentina </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Donaciones </div>
 <li class="info-activity">
 A fondos de lucha de trabajadores y organizaciones populares <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
-Vendedor <span class="grisimp">
-(2010-2013) </span>
+No responde <span class="grisimp">
+</span>
 <br>
 </li>
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 No tiene <span class="grisimp">
-- No hay un partido asignado </span>
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
 <div class="title">Ingresos brutos</div>
 <li class="info-activity">
-Sueldo bruto: $58.417,17 (dieta: $48,417,17 + gastos de representación: $10.000) + Desarraigo: $8.301,07 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres) </li>
+Sueldo bruto: $162.600,86 (dieta: $142.600,86 + gastos de representación: $20.000) + la opción elegida para el régimen de pasajes según resolución 487/2018 </li>
 </div>
 </div>
 </ul>
@@ -294,7 +300,7 @@ Sueldo bruto: $58.417,17 (dieta: $48,417,17 + gastos de representación: $10.000
 <ul class="data place">
 <li class="name-place">En el Congreso de la Nación</li>
 <li class="address">
-Riobamba 25 </li>
+Av. Rivadavia 1841 </li>
 <li class="zone">
 9° piso, of.
 914,
@@ -323,7 +329,7 @@ Ciudad Autónoma de Buenos Aires (C1033AAV)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#076963626b64666968476f64636929606865296675"><span class="__cf_email__" data-cfemail="0a646e6f66696b64654a62696e64246d6568246b78">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#2b454f4e47484a45446b43484f45054c4449054a59"><span class="__cf_email__" data-cfemail="cda3a9a8a1aeaca3a28da5aea9a3e3aaa2afe3acbf">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -359,7 +365,7 @@ Ciudad Autónoma de Buenos Aires (C1033AAV)
 <a href="https://twitter.com/@nicolasdelcano" target="_blank">
 @nicolasdelcano<a class="twitter-timeline" href="https://twitter.com/nicolasdelcano" data-widget-id="735728825129046016" data-screen-name="nicolasdelcano">
 Tweets by @nicolasdelcano</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -395,6 +401,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

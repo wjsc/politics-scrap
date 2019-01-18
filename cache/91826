@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Ernesto Bernabey | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"2DYaqwVev0F5-mlbmWV61bnSfhvB4MNdTgDgzia995g","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"S3GWP4H7T2eDUKsOgSp0eiIIC1XOhK05Y1dyWMkw9yQ","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-91826 node-type-legislador">
 <div id="skip-link">
@@ -52,7 +52,7 @@
 <div class="navbar-header">
 <div class="nav">
 <ul class="pull-left nav-left">
- <li class="nav-button ">
+<li class="nav-button ">
 <a href="http://directorio.directoriolegislativo.org">
 Home
 </a>
@@ -132,10 +132,11 @@ SUSCRIBITE
 25/09/1973 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Dean Funes, Córdoba </li>
+Dean Funes , Córdoba </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-En convivencia </li>
+En convivencia , Córdoba
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 4 (cuatro) </li>
@@ -144,8 +145,8 @@ En convivencia </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
- No tiene </li>
-</ul>
+</li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -211,7 +212,8 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-M. Fernanda Gonzalez Samudio <span class='grisimp'>(Abogado)</span> </li>
+M. Fernanda Gonzalez Samudio <span class='grisimp'>(Abogado)</span>
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -245,33 +247,38 @@ No hay una lista asignada </span >
 Actividad pública previa
 </div>
 <li class="info-activity">
-Diputado Nacional <span class="extra-info">
-- Argentina (2013-2017) 
-</span>
+Diputado Nacional por <span class="extra-info">
+(2013-2017)
+- Argentina </span>
 <br>
 Intendente <span class="extra-info">
-- Villa del Totoral, Córdoba (2011-2014) 
-</span>
+(2011-2014)
+- Villa del Totoral, Córdoba </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Presidente <span class="grisimp">
-- Partido Justicialista </span>
+- Partido Justicialista
+</span>
 <br>
 Congresal Provincial <span class="grisimp">
-- Partido Justicialista </span>
+- Partido Justicialista
+</span>
 <br>
 Fundador Agrupación Provincial Néstor Vive <span class="grisimp">
-- No hay un partido asignado </span>
+</span>
 <br>
 </li>
-<div class="title">Privada </div>
+
+ <div class="title">Privada </div>
 <li class="info-activity">
 Presidente <span class="grisimp">
-- Ente para el Desarrollo Integrado Regional (Edesir) </span>
+- Ente para el Desarrollo Integrado Regional (Edesir)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -284,31 +291,6 @@ Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de rep
 </div>
 </div>
 <div class="nominal">
-<div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
-<span class="nuestro-legislador voto-afirmativo"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley 27.249 (Ley de pago a los holdouts)</p>
-<p class="voto-afirmativo">Afirmativo</p>
-<div style="clear:both"></div>
-</div>
-</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-<span class="nuestro-legislador voto-afirmativo"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley de Emergencia Ocupacional (vetada)</p>
-<p class="voto-afirmativo">Afirmativo</p>
-<div style="clear:both"></div>
-</div>
-</div>
 <div style="clear:both"></div>
 </div>
 </div>
@@ -350,7 +332,7 @@ No tiene
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#10757271627e7172756950747960656471747f633e777f723e7162"><span class="__cf_email__" data-cfemail="51343330233f3033342811353821242530353e227f363e337f3023">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#04616665766a6566617d44606d74717065606b772a636b662a6576"><span class="__cf_email__" data-cfemail="c0a5a2a1b2aea1a2a5b980a4a9b0b5b4a1a4afb3eea7afa2eea1b2">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -381,12 +363,12 @@ No Responde
 <div style="clear:both"></div>
 </ul>
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
- <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
+<li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
 <li class="tel-number" style="text-transform:lowercase !important;">
 <a href="https://twitter.com/@Ebernabey" target="_blank">
 @Ebernabey<a class="twitter-timeline" href="https://twitter.com/Ebernabey" data-widget-id="735728825129046016" data-screen-name="Ebernabey">
 Tweets by @Ebernabey</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -422,6 +404,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

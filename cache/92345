@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Ricardo Javier Jano | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"zd3I_Qjb40_HLtL-qfWniXm3cd9_OY0giyVS81Jj0GI","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"kjCbOC2iGAx23auniUlK7GfFdQOsG1LsOGd97GQ4dVk","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92345 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 22/08/1957 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Necochea, Buenos Aires </li>
+Necochea , Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Divorciado </li>
+Divorciado , Buenos Aires
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 4 (cuatro) </li>
@@ -144,8 +145,8 @@ Divorciado </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-No tiene </li>
-</ul>
+</li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -157,15 +158,15 @@ No tiene </li>
 <div class="name">
 Ricardo Javier Jano </div>
 <div class="position">
-Diputado Provincial </div>
+No Responde </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Unión Cívica Radical </div>
+No hay un bloque asignado </div>
 <div class="info status">
 <div class="text">Distrito</div>
-Buenos Aires - Quinta Sección 
+
 </div>
 </div>
 <div class="col-lg-6">
@@ -176,21 +177,21 @@ Buenos Aires - Quinta Sección
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2011-2015 </div>
+No Responde </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
-<ul class="nav nav-tabs">
+ <ul class="nav nav-tabs">
 <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
 <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
 </ul>
 <div style="clear:both"></div>
 <div class="tab-content">
 <div id="home" class="tab-pane fade in active">
- <h3 class="title">Especialización:</h3>
+<h3 class="title">Especialización:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity specialization">
-Salud Pública; Asuntos Municipales; Educación; Marítimos, Portuarios y Pesqueros; Legislación General; Presupuesto y Hacienda; Seguridad Interior; Legislación del Trabajo </li>
+No Responde </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -208,17 +209,18 @@ Relaciones Parlamentarias </span>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">1525-D-2014.</span> Creando el fondo administrativo de escuelas. <br><span class="grisimp">3361-D-2011.</span> De proteccion a los derechos de los usuarios y consumidores.<br> </li>
+</li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-10 </span>
+No Responde </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Horacio Canullan <span class='grisimp'>(Jefe de Asesores)</span>; Andrés Villalua <span class='grisimp'>(Asuntos Administrativos)</span>; Mario Michelena <span class='grisimp'>(Secretario Legislativo)</span>. </li>
+Horacio Canullan <span class='grisimp'>(Jefe de Asesores)</span>; Andrés Villalua <span class='grisimp'>(Asuntos Administrativos)</span>; Mario Michelena <span class='grisimp'>(Secretario Legislativo)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -226,21 +228,21 @@ Horacio Canullan <span class='grisimp'>(Jefe de Asesores)</span>; Andrés Villal
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-1º </span>
+ No Responde </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
- 3 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-19,36 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 </ul>
@@ -253,55 +255,68 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Diputado Provincial <span class="extra-info">
-- Buenos Aires (2007-2011) 
-</span>
+(2007-2011)
+- Buenos Aires </span>
 <br>
-Diputado Nacional <span class="extra-info">
-- Argentina (2003-2007) 
-</span>
-<br>
-Intendente <span class="extra-info">
-- Lobería, Buenos Aires (1999-2003) 
-</span>
+Diputado Nacional por <span class="extra-info">
+(2003-2007)
+- Argentina </span>
 <br>
 Intendente <span class="extra-info">
-- Lobería, Buenos Aires (1995-1999) 
-</span>
+(1999-2003)
+- Lobería, Buenos Aires </span>
+<br>
+Intendente <span class="extra-info">
+(1995-1999)
+- Lobería, Buenos Aires </span>
 <br>
 Secretario de Gobierno <span class="extra-info">
-- Lobería, Buenos Aires (1991-1993) 
-</span>
+(1991-1993)
+- Lobería, Buenos Aires </span>
 <br>
 Concejal <span class="extra-info">
-- Lobería, Buenos Aires (1989-1993) 
-</span>
+(1989-1993)
+- Lobería, Buenos Aires </span>
 <br>
 Concejal <span class="extra-info">
-- Lobería, Buenos Aires (1985-1989) 
-</span>
+(1985-1989)
+- Lobería, Buenos Aires </span>
+<br>
+Diputado Provincial <span class="extra-info">
+(2011-2015)
+ - Buenos Aires </span>
 <br>
 Secretario de Desarrollo Social <span class="extra-info">
-- Lobería, Buenos Aires (1993-1994) 
+(1993-1994)
+- Municipalidad de Lobería - Lobería, Buenos Aires </span>
+<br>
+<span class="extra-info">
 </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
-Convencional Provincial  <span class="grisimp">
-- Unión Cívica Radical </span>
+Convencional Provincial <span class="grisimp">
+- Unión Cívica Radical
+</span>
 <br>
 Presidente <span class="grisimp">
-- Unión Cívica Radical (2008) </span>
+- Unión Cívica Radical
+2008 -
+</span>
 <br>
 Presidente <span class="grisimp">
-- No hay un partido asignado (1983-1985) </span>
+(1983 - 1985)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
-No tiene <span class="grisimp">
+ No tiene <span class="grisimp">
 </span>
 <br>
 </li>
@@ -369,7 +384,7 @@ La Plata (1900)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#75071f141b1a351d16111c05000114111a065817145b121a035b1407"><span class="__cf_email__" data-cfemail="e29088838c8da28a81868b92979683868d91cf8083cc858d94cc8390">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#a5d7cfc4cbcae5cdc6c1ccd5d0d1c4c1cad688c7c48bc2cad38bc4d7"><span class="__cf_email__" data-cfemail="88fae2e9e6e7c8e0ebece1f8fdfce9ece7fba5eae9a6efe7fea6e9fa">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -388,7 +403,7 @@ La Plata (1900)
 <span class="asesordeprensa">Ignacio Iriart </span>
 <br>
 (0221) 156-223491
-</li>
+ </li>
 <div style="clear:both"></div>
 </ul>
 <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
@@ -405,7 +420,7 @@ La Plata (1900)
 <a href="https://twitter.com/@ricardojano" target="_blank">
 @ricardojano<a class="twitter-timeline" href="https://twitter.com/ricardojano" data-widget-id="735728825129046016" data-screen-name="ricardojano">
 Tweets by @ricardojano</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -441,6 +456,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Juan Facundo Moyano | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"UzQ97dqDFDIUGjvnLMcv2kdTR0DKZ_DIqQWnmS2i7QU","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"vDe9NsEf0rbnCDPkcHGexmFSZ5JnXTNozd3xOcY8zvk","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93027 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 25/12/1984 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Mar del Plata, Buenos Aires </li>
+Mar del Plata , Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Soltero </li>
+Soltero , Buenos Aires
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 No tiene </li>
@@ -144,17 +145,17 @@ No tiene </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-No tiene </li>
-</ul>
-</div>
 </li>
+<li></li> <li></li> </ul>
+</div>
+ </li>
 </ul>
 </div>
 </div>
 </div>
 <div class="col-md-6 bloque_central">
 <div class="profile">
- <div class="name">
+<div class="name">
 Juan Facundo Moyano </div>
 <div class="position">
 Diputado Nacional </div>
@@ -196,21 +197,21 @@ Deportes; Derechos Humanos; Transporte; Vivienda; Legislación del Trabajo </li>
 <ul class="tab-content legislative-activity" data-id="1">
 <div class="info-activity comission">
 <span class="titlenombrecomision comisiones nombrecomision">
-Transportes </span>
-(Presidente), <span class="titlenombrecomision comisiones nombrecomision">
+Deportes </span>
+(Vice 2), <span class="titlenombrecomision comisiones nombrecomision">
+Derechos Humanos y Garantías </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
 Legislación del Trabajo </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Transportes </span>
+ (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
 Vivienda y Ordenamiento Urbano </span>
-(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
-Deportes </span>
-(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
-Derechos Humanos y Garantías </span>
 (Vocal). </div>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">1566-D-2015.</span> Otorgamiento oneroso del derecho de construir viviendas accesibles a los sectores de menores recursos.<br><span class="grisimp">2480-D-2016.</span> Negociación colectiva de empleados del poder judicial. Régimen.<br> </li>
+<span class="grisimp">3852-D-2018.</span> Contrato de trabajo - Ley 20.744 -. Modificación e los art. 29, sobre contratación por parte de terceros y 29 Bis, sobre empresas de servicios eventuales (3752-D-2016, reproducido). <br><span class="grisimp">3851-D-2018.</span> Contrato de trabajo -Ley 20.744-. Modificación ed art. 31, sobre empresas subordinadas o relacionadas (3753-D-2016, reproducido).<br> </li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
@@ -220,7 +221,8 @@ No responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Rocío Herrera <span class='grisimp'>(Transportes)</span>; Darío Coceta <span class='grisimp'>(Derechos Humanos)</span>.  </li>
+Rocío Herrera <span class='grisimp'>(Transportes)</span>; Darío Coceta <span class='grisimp'>(Derechos Humanos)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -254,60 +256,39 @@ Rocío Herrera <span class='grisimp'>(Transportes)</span>; Darío Coceta <span c
 Actividad pública previa
 </div>
 <li class="info-activity">
-Diputado Nacional <span class="extra-info">
-- Argentina (2011-2015) 
-</span>
+Diputado Nacional por Buenos Aires <span class="extra-info">
+(2011-2015)
+- Argentina </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 No tiene <span class="grisimp">
-- No hay un partido asignado </span>
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Secretario General <span class="grisimp">
-- Sindicato Único de Trabajadores de Peaje y Afines (SUTPA) (2009) </span>
+- Sindicato Único de Trabajadores de Peaje y Afines (SUTPA)
+(2009 - 2018)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
 <div class="title">Ingresos brutos</div>
 <li class="info-activity">
-Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + Desarraigo: $12.807,04 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres). </li>
+Sueldo bruto: $162.600,86 (dieta: $142.600,86 + gastos de representación: $20.000) + Desarraigo: $23.105,58 + la opción elegida para el régimen de pasajes según resolución 487/2018 </li>
 </div>
 </div>
 </ul>
 </div>
 </div>
 <div class="nominal">
-<div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-<span class="nuestro-legislador voto-ausente"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley 27.249 (Ley de pago a los holdouts)</p>
-<p class="voto-ausente">AUSENTE</p>
-<div style="clear:both"></div>
-</div>
-</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-<span class="nuestro-legislador voto-afirmativo"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley de Emergencia Ocupacional (vetada)</p>
-<p class="voto-afirmativo">Afirmativo</p>
-<div style="clear:both"></div>
-</div>
-</div>
 <div style="clear:both"></div>
 </div>
 </div>
@@ -349,7 +330,7 @@ No tiene
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#dabcb7b5a3bbb4b59abeb3aaafaebbbeb5a9f4bdb5b8f4bba8"><span class="__cf_email__" data-cfemail="7f191210061e11103f1b160f0a0b1e1b100c5118101d511e0d">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#385e555741595657785c51484d4c595c574b165f575a16594a"><span class="__cf_email__" data-cfemail="d3b5bebcaab2bdbc93b7baa3a6a7b2b7bca0fdb4bcb1fdb2a1">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -382,10 +363,10 @@ No Responde
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
 <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
 <li class="tel-number" style="text-transform:lowercase !important;">
- <a href="https://twitter.com/@Facundo_Moyano" target="_blank">
+<a href="https://twitter.com/@Facundo_Moyano" target="_blank">
 @Facundo_Moyano<a class="twitter-timeline" href="https://twitter.com/Facundo_Moyano" data-widget-id="735728825129046016" data-screen-name="Facundo_Moyano">
 Tweets by @Facundo_Moyano</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -421,6 +402,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

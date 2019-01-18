@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://directorio.directoriolegislativo.org/sites/default/files/favicondirectorio_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/94902" />
+<link rel="canonical" href="/node/94902" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<title>A-7126 | Directorio de Legisladores</title>
+<style>
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
+</style>
+<style>
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
+</style>
+<style>
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
+<style>
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
+</style>
+
+<!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
+<script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"D64Q4CqmiGBhgSeAE_WdpmUIro7dbnNH_thDH9_bZ5g","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-94902 node-type-equipo-de-trabajo">
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<div class="container logo">
+<img src="http://directorio.directoriolegislativo.org/sites/default/files/fdlogo.png" alt="Home" width="115" />
+</div>
+<div class="container container_del_header">
+<header id="navbar" role="banner" class="navbar container navbar-default">
+<div class="container">
+<div class="navbar-header">
+<div class="nav">
+<ul class="pull-left nav-left">
+<li class="nav-button ">
+<a href="http://directorio.directoriolegislativo.org">
+Home
+</a>
+</li>
+<li class="nav-button ">
+<a href="http://directorio.directoriolegislativo.org/node/66256">
+Quiénes somos
+</a>
+</li>
+<li class="nav-button ">
+<a href="http://alertas.directoriolegislativo.org/">
+Noticias
+</a>
+
+<div style="clear:both"></div>
+</ul>
+<form id="buscadornoticias" action="http://directorio.directoriolegislativo.org/fichas-de-legisladores" method="GET">
+<div class="pull-right nav-right">
+<div class="icon-search"></div>
+<input name="title" id="title" type="text" class="search " placeholder="BUSCAR...">
+<span class="btn login">
+<a href="http://directorio.directoriolegislativo.org/user" class="simplemodal-login">INGRESAR</a>
+</span>
+<a href="http://www.directoriolegislativo.org/suscribite/" class="suscribe">
+SUSCRIBITE
+</a>
+</div>
+</form>
+<div style="clear:both"></div>
+</div>
+</div>
+</header>
+<div class="main-container container">
+<header role="banner" id="page-header">
+</header> 
+<div class="row">
+<section class="col-sm-12">
+<a id="main-content"></a>
+<h1 class="page-header">A-7126</h1>
+<div class="region region-content">
+<section id="block-system-main" class="block block-system clearfix">
+<article id="node-94902" class="node node-equipo-de-trabajo node-promoted clearfix" about="/node/94902" typeof="sioc:Item foaf:Document">
+<header>
+<span property="dc:title" content="A-7126" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span> <span class="submitted">
+<span property="dc:date dc:created" content="2016-06-13T11:15:23-03:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Mon, 06/13/2016 - 11:15</span> </span>
+</header>
+<div class="field field-name-field-et-id-sa field-type-text field-label-above"><div class="field-label">Id de salesforce:&nbsp;</div><div class="field-items"><div class="field-item even">a0P1600000DbW0YEAV</div></div></div><div class="field field-name-field-et-apellido field-type-text field-label-above"><div class="field-label">Apellido:&nbsp;</div><div class="field-items"><div class="field-item even">González</div></div></div><div class="field field-name-field-et-cargo field-type-text field-label-above"><div class="field-label">Cargo:&nbsp;</div><div class="field-items"><div class="field-item even">Asesor</div></div></div><div class="field field-name-field-et-contacto-rel field-type-text field-label-above"><div class="field-label">Contacto relacionado:&nbsp;</div><div class="field-items"><div class="field-item even">0031600002S4434AAB</div></div></div><div class="field field-name-field-et-espe field-type-text field-label-above"><div class="field-label">Especialización:&nbsp;</div><div class="field-items"><div class="field-item even">Abogado</div></div></div><div class="field field-name-field-et-estado field-type-text field-label-above"><div class="field-label">Estado:&nbsp;</div><div class="field-items"><div class="field-item even">Vigente</div></div></div><div class="field field-name-field-et-ffin field-type-text field-label-above"><div class="field-label">Fecha fin:&nbsp;</div><div class="field-items"><div class="field-item even"></div></div></div><div class="field field-name-field-et-finicio field-type-text field-label-above"><div class="field-label">Fecha inicio:&nbsp;</div><div class="field-items"><div class="field-item even">2015-12-10</div></div></div><div class="field field-name-field-et-nombre field-type-text field-label-above"><div class="field-label">Nombre:&nbsp;</div><div class="field-items"><div class="field-item even">Marcelo</div></div></div> <footer>
+<ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/94902%23comment-form">Log in</a> or <a href="/user/register?destination=node/94902%23comment-form">register</a> to post comments</span></li>
+</ul> </footer>
+</article>
+</section>
+</div>
+</section>
+</div>
+</div>
+<footer class="footer container">
+<div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
+<div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
+2011 Fundación Directorio Legislativo
+</div>
+<div class="text-copy">
+Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A.
+</div>
+<div class="text-copy">
+Tel: 5411-52184647/5411-52364293.
+</div>
+<div class="text-copy">
+TODOS LOS DERECHOS RESERVADOS.
+</div>
+</div>
+<div class="col-lg-3 copyright pull-right">
+<span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
+<span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
+<span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
+<span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
+<span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
+</div>
+<div style="clear:both"></div>
+</footer>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
+</body>
+</html>

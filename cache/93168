@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>José Luis Acevedo | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"P4F7deVACtNkCvDkiwVyFUcXDM6nWw7zd3gFhJl6dI8","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"jzsLFI9wEnc3BKAEXhG5bv4-wWV7n5gCzC_iyvEylko","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93168 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 02/09/1965 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Ciudad Autónoma de Buenos Aires, Ciudad Autónoma de Buenos Aires </li>
+Ciudad Autónoma de Buenos Aires , Ciudad Autónoma de Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con María Marta Trosolino </li>
+Casado , Ciudad Autónoma de Buenos Aires
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 3 (tres) </li>
@@ -144,14 +145,8 @@ Casado con María Marta Trosolino </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Licenciado en Psicología </li>
-<li>
-Especialista (Facultad Latinoamericana de Ciencias Sociales, 2001)
-</li>
-<li>
-Posgrado (Universidad de Buenos Aires, 1.995)
-</li>
-</ul>
+1993: Licenciado en Psicología <span style="text-transform: capitalize;">(Universidad de Buenos Aires)</span> </li>
+<li>2001: Especialista <span style="text-transform: capitalize;">(Facultad Latinoamericana de Ciencias Sociales)</span></li> <li>Posgrado <span style="text-transform: capitalize;">(Universidad de Buenos Aires)</span></li> </ul>
 </div>
 </li>
 </ul>
@@ -163,15 +158,15 @@ Posgrado (Universidad de Buenos Aires, 1.995)
 <div class="name">
 José Luis Acevedo </div>
 <div class="position">
-Legislador </div>
+No Responde </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Propuesta Republicana </div>
+No hay un bloque asignado </div>
 <div class="info status">
 <div class="text">Distrito</div>
-CABA 
+
 </div>
 </div>
 <div class="col-lg-6">
@@ -182,7 +177,7 @@ CABA
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2015-2019 </div>
+No Responde </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -196,7 +191,7 @@ CABA
 <h3 class="title">Especialización:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity specialization">
-Asuntos Constitucionales; Educación; Transporte; Vivienda; Promoción Social; Medio Ambiente; Seguridad Vial </li>
+No Responde </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -204,10 +199,10 @@ Asuntos Constitucionales; Educación; Transporte; Vivienda; Promoción Social; M
 <span class="titlenombrecomision comisiones nombrecomision">
 Asuntos Constitucionales  </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
-Educación, Ciencia y Tecnología   </span>
+Educación, Ciencia y Tecnología  </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
 Políticas de Promoción e Integración Social  </span>
-(Presidente), <span class="titlenombrecomision comisiones nombrecomision">
+ (Presidente), <span class="titlenombrecomision comisiones nombrecomision">
 Tránsito y Transporte  </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
 Vivienda  </span>
@@ -216,17 +211,18 @@ Vivienda  </span>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">495-D-2015.</span> Espacios verdes de uso publico. Permiso de uso precario bares en plazas<br><span class="grisimp">.</span><br> </li>
+</li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-20 </span>
+No Responde </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Alejandro Amestoy <span class='grisimp'>(Promoción Social)</span>; Facundo Ramos <span class='grisimp'>(Reforma Política)</span>; Guillermo Montenegro <span class='grisimp'>(Asuntos Constitucionales)</span>; Federico Gonzalez Rouco <span class='grisimp'>(Vivienda)</span>. </li>
+Alejandro Amestoy <span class='grisimp'>(Promoción Social)</span>; Facundo Ramos <span class='grisimp'>(Reforma Política)</span>; Guillermo Montenegro <span class='grisimp'>(Asuntos Constitucionales)</span>; Federico Gonzalez Rouco <span class='grisimp'>(Vivienda)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -234,21 +230,21 @@ Alejandro Amestoy <span class='grisimp'>(Promoción Social)</span>; Facundo Ramo
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-4 </span>
+No Responde </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-15 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-43.71% </span >
+No hay una lista asignada </span >
 </div>
 </li>
 </ul>
@@ -257,54 +253,64 @@ Alejandro Amestoy <span class='grisimp'>(Promoción Social)</span>; Facundo Ramo
 <ul class="tab-content other-activity" data-id="2">
 <div class="other public-activity">
 <div class="title">
- Actividad pública previa
+Actividad pública previa
 </div>
 <li class="info-activity">
-Legislador <span class="extra-info">
-- CABA, Argentina (2011-2015) 
-</span>
+ Legislador <span class="extra-info">
+(2011-2015)
+- CABA, Argentina </span>
 <br>
 Director de Planeamiento Urbano y Vivienda <span class="extra-info">
-(1995-1997) 
-</span>
+(1995-1997)
+- Municipalidad de Bs.As </span>
 <br>
 Director "Unidad de Articulación y Seguimiento de Programas Sociales destinados a personas con necesidades especiales" <span class="extra-info">
-(2005-2006) 
-</span>
+(2005-2006)
+- Gobierno de la Ciudad de Buenos Aires </span>
 <br>
 Director General de Discapacidad <span class="extra-info">
-(2007) 
-</span>
+(2007)
+- Ministerio de Desarrollo Social </span>
 <br>
 Subsecretario de Fortalecimiento Familiar y Comunitario <span class="extra-info">
-(2008-2011) 
-</span>
+(2008-2011)
+- Ministerio de Desarrollo Social </span>
+<br>
+Legislador <span class="extra-info">
+(2015-2019)
+- CABA, Argentina </span>
 <br>
 Jefe de Despacho del Diputado Diego Santilli <span class="extra-info">
-
-</span>
+- Legislatura de la Ciudad Autónoma de Buenos Aires </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Secretario de Juventud <span class="grisimp">
-- Partido Justicialista </span>
+- Partido Justicialista 
+</span>
 <br>
 Vocal Titular <span class="grisimp">
-- Propuesta Republicana </span>
+- Propuesta Republicana
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Vocal titular <span class="grisimp">
-- Asociación de Formación e Investigación en Psicología Analítica </span>
- <br>
+- Asociación de Formación e Investigación en Psicología Analítica
+</span>
+<br>
 Socio <span class="grisimp">
-- Empresa de artículos para el hogar </span>
+- Empresa de artículos para el hogar
+</span>
 <br>
 </li>
+
 <div class="title">Donaciones </div>
 <li class="info-activity">
 </li>
@@ -359,7 +365,7 @@ Ciudad Autónoma de Buenos Aires (C1067AAD)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#5f35302c3a713e3c3a293a3b301f333a38362c333e2b2a2d3e71383029713e2d"><span class="__cf_email__" data-cfemail="610b0e12044f0002041704050e210d040608120d00151413004f060e174f0013">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#6c06031f09420d0f091a0908032c00090b051f000d18191e0d420b031a420d1e"><span class="__cf_email__" data-cfemail="c7ada8b4a2e9a6a4a2b1a2a3a887aba2a0aeb4aba6b3b2b5a6e9a0a8b1e9a6b5">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -392,10 +398,10 @@ Ciudad Autónoma de Buenos Aires (C1067AAD)
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
 <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
 <li class="tel-number" style="text-transform:lowercase !important;">
- <a href="https://twitter.com/@acevedojluis" target="_blank">
+<a href="https://twitter.com/@acevedojluis" target="_blank">
 @acevedojluis<a class="twitter-timeline" href="https://twitter.com/acevedojluis" data-widget-id="735728825129046016" data-screen-name="acevedojluis">
 Tweets by @acevedojluis</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -431,6 +437,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

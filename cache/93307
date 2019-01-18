@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Patricia Viviana Giménez | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"_HWkiOM33IXe421LNPjiUben-en20rFNH3aONXMHFrw","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"c_hOGwKAt7YyPuH0sz-P5MlDkUMg8HvMazBm0C-pBcI","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93307 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 15/10/1962 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Mendoza, Mendoza </li>
+Mendoza , Mendoza </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casada con José Fernando Rodríguez </li>
+Casada , Mendoza
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
@@ -144,11 +145,8 @@ Casada con José Fernando Rodríguez </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Profesora </li>
-<li>
-Maestría (Universidad Católica de Valparaíso (Chile), 2001)
-</li>
-</ul>
+1986: Profesora <span style="text-transform: capitalize;">(Universidad Agustín Maza)</span> </li>
+ <li>2001: Maestría <span style="text-transform: capitalize;">(Universidad Católica de Valparaíso (Chile))</span></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -227,7 +225,8 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Sergio Lorenzo <span class='grisimp'>(Deportes y comunicación)</span>; Miguel Oliva <span class='grisimp'>(Turismo y población)</span>; María Elisa Boue <span class='grisimp'>(Economías regionales, población y turismo)</span>; María Elisa Bove; Jimena Boland <span class='grisimp'>(Derechos Humanos)</span>; Mauricio Grotz <span class='grisimp'>(Economista/Estadístico)</span>. </li>
+Sergio Lorenzo <span class='grisimp'>(Deportes y comunicación)</span>; Miguel Oliva <span class='grisimp'>(Turismo y población)</span>; María Elisa Boue <span class='grisimp'>(Economías regionales, población y turismo)</span>; María Elisa Bove; Jimena Boland <span class='grisimp'>(Derechos Humanos)</span>; Mauricio Grotz <span class='grisimp'>(Economista/Estadístico)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -261,38 +260,48 @@ No hay una lista asignada </span >
 Actividad pública previa
 </div>
 <li class="info-activity">
-Diputada Nacional <span class="extra-info">
-- Argentina (2013-2017) 
-</span>
+Diputada Nacional por <span class="extra-info">
+(2013-2017)
+- Argentina </span>
 <br>
 Directora de Estadísticas e investigaciones económicas <span class="extra-info">
-- Mendoza (1999-2007) 
-</span>
+(1999-2007)
+- Mendoza  </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 No responde <span class="grisimp">
-- No hay un partido asignado </span>
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Directora titular de Escuela Media <span class="grisimp">
-- 4-601 Dr. Antonio López Aguado (2011-2012) </span>
+- 4-601 Dr. Antonio López Aguado
+(2011 - 2012)
+</span>
 <br>
 Docente <span class="grisimp">
-- Instituto Santa María Goretti (1992) </span>
+- Instituto Santa María Goretti
+1992 -
+</span>
 <br>
 Consultora en educación <span class="grisimp">
-(2008-2014) </span>
+(2008 - 2014)
+ </span>
 <br>
 Consultora <span class="grisimp">
-- PNUD (2011-2013) </span>
+- PNUD
+(2011 - 2013)
+</span>
 <br>
 </li>
+
 <div class="title">Donaciones </div>
 <li class="info-activity">
 Guardería Parroquia Perpetuo Socorro <br>
@@ -307,31 +316,6 @@ Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de rep
 </div>
 </div>
 <div class="nominal">
-<div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-<span class="nuestro-legislador voto-afirmativo"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley 27.249 (Ley de pago a los holdouts)</p>
-<p class="voto-afirmativo">Afirmativo</p>
-<div style="clear:both"></div>
-</div>
-</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
-<span class="nuestro-legislador voto-abstención"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley de Emergencia Ocupacional (vetada)</p>
-<p class="voto-abstención">Abstención</p>
-<div style="clear:both"></div>
-</div>
-</div>
 <div style="clear:both"></div>
 </div>
 </div>
@@ -373,7 +357,7 @@ No tiene
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#69190e00040c070c13290d00191c1d080d061a470e060b47081b"><span class="__cf_email__" data-cfemail="6616010f0b0308031c26020f1613120702091548010904480714">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#0272656b6f676c677842666b72777663666d712c656d602c6370"><span class="__cf_email__" data-cfemail="a9d9cec0c4ccc7ccd3e9cdc0d9dcddc8cdc6da87cec6cb87c8db">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -409,7 +393,7 @@ No tiene
 <a href="https://twitter.com/@PGimenezDC" target="_blank">
 @PGimenezDC<a class="twitter-timeline" href="https://twitter.com/PGimenezDC" data-widget-id="735728825129046016" data-screen-name="PGimenezDC">
 Tweets by @PGimenezDC</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -445,6 +429,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

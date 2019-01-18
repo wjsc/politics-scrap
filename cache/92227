@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Miguel Ángel Bazze | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"Ycls5e-8HNzsenha8HBziVxK6-duqu-mtRmPuXhDZA0","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"qQPL_6b5yvqFizN6tUpheY-dbB8hx74rZZaIqfd1dRM","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92227 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 30/04/1955 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-General Roca, Río Negro </li>
+General Roca , Río Negro </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Olga Virginia Canafoglia </li>
+Casado , Río Negro
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 5 (cinco) </li>
@@ -144,10 +145,10 @@ Casado con Olga Virginia Canafoglia </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-No tiene </li>
-</ul>
-</div>
 </li>
+<li></li> <li></li> </ul>
+</div>
+ </li>
 </ul>
 </div>
 </div>
@@ -177,7 +178,7 @@ Buenos Aires
 <div class="info type">
 <div class="text">Mandato</div>
 2015-2019 </div>
- </div>
+</div>
 <div style="clear:both"></div>
 <div class="activity text">
 <ul class="nav nav-tabs">
@@ -205,22 +206,26 @@ Intereses Marítimos, Fluviales, Pesqueros y Portuarios </span>
 Industria </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
 Ciencia, Tecnología e Innovación productiva </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Libertad de Expresión </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Previsión y Seguridad Social </span>
 (Vocal). </div>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">1019-D-2016.</span> Extinción de dominio de los bienes provenientes de ilícitos (Reproducción del expediente 7269-d-14).<br><span class="grisimp">1595-D-2015.</span> Programa y registro nacional de donación renal cruzada. Creación. Ley 24193: modificación.<br> </li>
+<span class="grisimp">3506-D-2018.</span> Establézcase la obligatoriedad de informar a la Secretaría de Estado de Niñez, Adolescencia y Familia (SENAF), las fichas deportivas de quienes se alojen en residencias deportivas de todo el país. <br><span class="grisimp">4585-D-2017.</span> Cambio de domicilio. modificación de las leyes 17.671 - Identificación, registro y clasificación del potencial humano nacional- Y 19.945 - Código Electoral Nacional -.<br> </li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-14 </span>
+10 </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-No tiene equipo de trabajo
+Cristina Rodríguez Guevara; Satya Divene Marchetti; M. Susana Marino;  Patricia Martin.
 </li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
@@ -229,7 +234,7 @@ No tiene equipo de trabajo
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
- 3º </span>
+3º </span>
 </div>
 </li>
 <li class="info-activity seat">
@@ -255,79 +260,83 @@ No tiene equipo de trabajo
 Actividad pública previa
 </div>
 <li class="info-activity">
-Diputado Nacional <span class="extra-info">
-- Argentina (2011-2015) 
-</span>
-<br>
-Diputado Provincial <span class="extra-info">
-- Buenos Aires (1997-2001) 
-</span>
+Diputado Nacional por Buenos Aires <span class="extra-info">
+(2011-2015)
+- Argentina </span>
 <br>
 Relator de la Comisión de Derechos Humanos <span class="extra-info">
-- Buenos Aires (1983-1985) 
-</span>
+(1983-1985)
+- Buenos Aires </span>
 <br>
 Concejal <span class="extra-info">
-- La Plata, Buenos Aires (1985-1989) 
-</span>
+(1985-1989)
+- La Plata, Buenos Aires </span>
 <br>
-Diputado Provincial Presidente del Bloque U.C.R. <span class="extra-info">
-- Buenos Aires (1989-1993) 
-</span>
+Diputado Provincial <span class="extra-info">
+(1989-1992)
+- Buenos Aires </span>
+<br>
+Diputado Provincial <span class="extra-info">
+(1992-1995)
+- Buenos Aires </span>
+<br>
+Diputado Provincial <span class="extra-info">
+(1995-1998)
+ - Buenos Aires </span>
+<br>
+Diputado Provincial <span class="extra-info">
+(1998-2001)
+- Buenos Aires </span>
+<br>
+Diputado Provincial <span class="extra-info">
+(2001-2004)
+- Buenos Aires </span>
+<br>
+Diputado Provincial <span class="extra-info">
+(2004-2007)
+- Buenos Aires </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Presidente del Comité Provincial <span class="grisimp">
-- Unión Cívica Radical (2010-2012) </span>
+- Unión Cívica Radical
+(2010 - 2012)
+</span>
 <br>
 Presidente de la Convención provincial <span class="grisimp">
-- Unión Cívica Radical (1995-1997) </span>
+- Unión Cívica Radical
+(1993 - 1995)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Propietario <span class="grisimp">
-- Empresa gráfica (PyME) (1980-2016) </span>
+ - Empresa gráfica (PyME)
+(1985 - 2018)
+</span>
 <br>
+</li>
+
+<div class="title">Donaciones </div>
+<li class="info-activity">
+No responde <br>
 </li>
 <div class="other ingr-activity">
 <div class="title">Ingresos brutos</div>
 <li class="info-activity">
-Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres). </li>
+Sueldo bruto: $162.600,86 (dieta: $142.600,86 + gastos de representación: $20.000) + la opción elegida para el régimen de pasajes según resolución 487/2018 </li>
 </div>
 </div>
 </ul>
 </div>
 </div>
 <div class="nominal">
-<div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-<span class="nuestro-legislador voto-afirmativo"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley 27.249 (Ley de pago a los holdouts)</p>
-<p class="voto-afirmativo">Afirmativo</p>
-<div style="clear:both"></div>
-</div>
-</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
-<span class="nuestro-legislador voto-abstención"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley de Emergencia Ocupacional (vetada)</p>
-<p class="voto-abstención">Abstención</p>
-<div style="clear:both"></div>
-</div>
-</div>
 <div style="clear:both"></div>
 </div>
 </div>
@@ -340,10 +349,10 @@ Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de rep
 <ul class="data place">
 <li class="name-place">En el Congreso de la Nación</li>
 <li class="address">
-Av. Rivadavia 1841 </li>
+Av. Rivadavia 1864 </li>
 <li class="zone">
-11º piso, of.
-1139,
+2° piso, of.
+231,
 Ciudad Autónoma de Buenos Aires (C1033AAI)
 </li>
 </ul>
@@ -369,7 +378,7 @@ Ciudad Autónoma de Buenos Aires (C1033AAI)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
- <a class="mail_especial" href="/cdn-cgi/l/email-protection#1b76797a61617e5b7f726b6e6f7a7f7468357c7479357a69"><span class="__cf_email__" data-cfemail="264b44475c5c4366424f5653524742495508414944084754">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#e8858a8992928da8808b8c86c68f878ac6899a"><span class="__cf_email__" data-cfemail="d3beb1b2a9a9b693bbb0b7bdfdb4bcb1fdb2a1">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -392,11 +401,11 @@ Ciudad Autónoma de Buenos Aires (C1033AAI)
 <div style="clear:both"></div>
 </ul>
 <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
-<li class="title">En su distrito</li>
+ <li class="title">En su distrito</li>
 <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
 <li class="advisory-number">Calle 32 N° 632</li>
 <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
-<li class="advisory-number">(0221) 4892888</li>
+<li class="advisory-number">(0221) 489-2888</li>
 <div style="clear:both"></div>
 </ul>
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
@@ -405,7 +414,7 @@ Ciudad Autónoma de Buenos Aires (C1033AAI)
 <a href="https://twitter.com/@bazzemiguel" target="_blank">
 @bazzemiguel<a class="twitter-timeline" href="https://twitter.com/bazzemiguel" data-widget-id="735728825129046016" data-screen-name="bazzemiguel">
 Tweets by @bazzemiguel</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -441,6 +450,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

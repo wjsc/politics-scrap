@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Diego Alejandro Rovella | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"t3wRsaxzEDv2_8ULLnqjMm-56WqVODpmL7yVWmk9DrY","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"2-hWcNt3JawjBVAUkmwsePH7x1SkhcHJpJ6NbN694lw","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93395 node-type-legislador">
 <div id="skip-link">
@@ -135,7 +135,8 @@ SUSCRIBITE
 No Responde </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Marcela Beatriz Ulrich </li>
+Casado
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 No Responde </li>
@@ -144,8 +145,8 @@ No Responde </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Profesor </li>
-</ul>
+2012: Profesor <span style="text-transform: capitalize;">(nst.Superior de formación docente n* 95)</span> </li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -157,15 +158,15 @@ Profesor </li>
 <div class="name">
 Diego Alejandro Rovella </div>
 <div class="position">
-Diputado Provincial </div>
+No Responde </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Unión Cívica Radical </div>
+No hay un bloque asignado </div>
 <div class="info status">
 <div class="text">Distrito</div>
-Buenos Aires - 
+
 </div>
 </div>
 <div class="col-lg-6">
@@ -176,7 +177,7 @@ Buenos Aires -
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2013-2017 </div>
+No Responde </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -190,14 +191,14 @@ Buenos Aires -
 <h3 class="title">Especialización:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity specialization">
-Deportes; Seguridad Interior; Turismo; Prevención de las Adicciones </li>
+No Responde </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <div class="info-activity comission">
- <span class="titlenombrecomision comisiones nombrecomision">
+<span class="titlenombrecomision comisiones nombrecomision">
 Prevención de Adicciones </span>
-(Presidente), <span class="titlenombrecomision comisiones nombrecomision">
+ (Presidente), <span class="titlenombrecomision comisiones nombrecomision">
 Seguridad y Asuntos Penitenciarios </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
 Turismo y Deportes </span>
@@ -206,18 +207,19 @@ Turismo y Deportes </span>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">0217-D-2014.</span> Colegio de Instrumentadores Quirurgicos. <br><span class="grisimp">1262-D-2014.</span> Emergencia Hospitalaria.<br> </li>
+</li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-3 </span>
+No Responde </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
 Alejandro Arach <span class='grisimp'>(Seguridad y
-Adicciones)</span>; Marta Cuña; Daniel Marsico <span class='grisimp'>(Turismo y deporte)</span>; Leandro Bazze. </li>
+Adicciones)</span>; Marta Cuña; Daniel Marsico <span class='grisimp'>(Turismo y deporte)</span>; Leandro Bazze.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -225,21 +227,21 @@ Adicciones)</span>; Marta Cuña; Daniel Marsico <span class='grisimp'>(Turismo y
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-2º </span>
+No Responde </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-2 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-18.3% </span >
+No hay una lista asignada </span >
 </div>
 </li>
 </ul>
@@ -251,25 +253,33 @@ Adicciones)</span>; Marta Cuña; Daniel Marsico <span class='grisimp'>(Turismo y
 Actividad pública previa
 </div>
 <li class="info-activity">
+Diputado Provincial  <span class="extra-info">
+(2013-2017)
+- Buenos Aires </span>
+<br>
 Relator de la comision de seguridad <span class="extra-info">
-(1990) 
-</span>
+(1990)
+- Honorable Camara de Diputados de la Provincia de Buenos Aires </span>
 <br>
 Director de Referencia Legislativa <span class="extra-info">
-(2000-0000) 
-</span>
+(2000-0000)
+- Honorable Camara de Diputados de la Provincia de Buenos Aires </span>
 <br>
 Empleado en el Consejo Deliberante <span class="extra-info">
-(1989-1996) 
-</span>
+(1989-1996)
+- en el Consejo Deliberante </span>
 <br>
 Empleado de Bloque UCR <span class="extra-info">
-(1991-1992) 
+(1991-1992)
+- Honorable Camara de Diputados de la Provincia de Buenos Aires </span>
+<br>
+<span class="extra-info">
 </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title"> </div>
 <li class="info-activity">
 </li>
@@ -287,7 +297,7 @@ No hay datos </li>
 <div class="votacion">
 <div class="recinto">
 <img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
-<span class="nuestro-legislador voto-no-hay-una-votacion-nominal-asignada"></span>
+ <span class="nuestro-legislador voto-no-hay-una-votacion-nominal-asignada"></span>
 </div>
 <div class="law">
 <p> [No hay una votacion nominal asignada]</p>
@@ -312,7 +322,7 @@ Calle 53 e/ 8 y 9 (anexo) </li>
 <li class="zone">
 5º piso, of.
 53,
-La Plata  (1900)
+La Plata (1900)
 </li>
 </ul>
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
@@ -337,7 +347,7 @@ La Plata  (1900)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#83e7e2f1ecf5e6efefe2c3ebe0e7eaf3f6f7e2e7ecf0aee1e2ade4ecf5ade2f1"><span class="__cf_email__" data-cfemail="395d584b564f5c55555879515a5d50494c4d585d564a145b58175e564f17584b">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#e38782918c95868f8f82a38b80878a93969782878c90ce8182cd848c95cd8291"><span class="__cf_email__" data-cfemail="c9ada8bba6bfaca5a5a889a1aaada0b9bcbda8ada6bae4aba8e7aea6bfe7a8bb">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -371,7 +381,7 @@ La Plata  (1900)
 <a href="https://twitter.com/@RovellaDiego" target="_blank">
 @RovellaDiego<a class="twitter-timeline" href="https://twitter.com/RovellaDiego" data-widget-id="735728825129046016" data-screen-name="RovellaDiego">
 Tweets by @RovellaDiego</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -407,6 +417,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

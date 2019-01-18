@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Delia Beatriz Bisutti | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"sIz_uZBZVkuStCShZxAlj9pEQ01LCFQoa2sgrf3Wb50","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"ejf_EZ-JfXN2J_tcIMZqE0uRr6Fc4Jsv_4nLDzZnP8s","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92408 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 31/03/1947 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Ciudad Autónoma de Buenos Aires, No Responde </li>
+Ciudad Autónoma de Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Viuda </li>
+Viuda
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 1 (uno) </li>
@@ -144,11 +145,8 @@ Viuda </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Lic. en Ciencias Sociales y Humanidades </li>
-<li>
-Maestra Normal Nacional (Normal Nacional de San Justo, 1965)
-</li>
-</ul>
+2005: Lic. en Ciencias Sociales y Humanidades <span style="text-transform: capitalize;">(Universidad de Quilmes)</span> </li>
+<li>1965: Maestra Normal Nacional <span style="text-transform: capitalize;">(Normal Nacional de San Justo)</span></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -214,7 +212,8 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Milagros Malamud <span class='grisimp'>(Prensa)</span>; Luz Martinez <span class='grisimp'>(Educación - Derechos Humanos)</span>; Fernando Haber <span class='grisimp'>(Desarrollo Económico)</span>; César Francis <span class='grisimp'>(Deportes)</span>; Agustina . </li>
+Milagros Malamud <span class='grisimp'>(Prensa)</span>; Luz Martinez <span class='grisimp'>(Educación - Derechos Humanos)</span>; Fernando Haber <span class='grisimp'>(Desarrollo Económico)</span>; César Francis <span class='grisimp'>(Deportes)</span>; Agustina .
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -249,46 +248,60 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Legisladora <span class="extra-info">
-- CABA, Argentina (2009-2013) 
-</span>
+(2009-2013)
+- CABA, Argentina </span>
 <br>
-Subsecretaria de Recursos y Acción Comunitaria de la Secretaría de Educación <span class="extra-info">
-- CABA, Argentina (2003-2005) 
-</span>
+Subsecretaria  de Recursos y Acción Comunitaria de la Secretaría de Educación <span class="extra-info">
+(2003-2005)
+- CABA, Argentina </span>
 <br>
 Legisladora provincial <span class="extra-info">
-- CABA, Argentina (1997-2003) 
-</span>
+(1997-2003)
+- CABA, Argentina </span>
 <br>
-Diputada Nacional <span class="extra-info">
-- Argentina (2005-2009) 
-</span>
+Diputada Nacional por <span class="extra-info">
+(2005-2009)
+- Argentina </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Miembro de la Junta Promotora Provisoria <span class="grisimp">
-- Solidaridad e Igualdad (2008) </span>
+- Solidaridad e Igualdad
+2008 -
+</span>
 <br>
 Miembro <span class="grisimp">
-- Frente Grande (1996-2001) </span>
+- Frente Grande
+(1996 - 2001)
+</span>
 <br>
-Miembro <span class="grisimp">
-- Solidaridad e Igualdad -2008) </span>
+ Miembro <span class="grisimp">
+- Solidaridad e Igualdad
+(hasta 2008)
+</span>
 <br>
 Congresal Nacional <span class="grisimp">
-- Afirmación para una República Igualitaria (2004-2009) </span>
+- Afirmación para una República Igualitaria
+(2004 - 2009)
+</span>
 <br>
-Miembro de la Mesa Ejecutiva  <span class="grisimp">
-- Frente Grande (1995-2001) </span>
+Miembro de la Mesa Ejecutiva <span class="grisimp">
+- Frente Grande
+(1995 - 2001)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Secretaria General <span class="grisimp">
-- Unión de los Trabajadores de la Educación (UTE) (1989-2000) </span>
+- Unión de los Trabajadores de la Educación (UTE)
+(1989 - 2000)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -342,7 +355,7 @@ Perú 130 </li>
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#c0a4a5aca9a1eea2a9b3b5b4b4a980aca5a7a9b3aca1b4b5b2a1eea7afb6eea1b2"><span class="__cf_email__" data-cfemail="b7d3d2dbded699d5dec4c2c3c3def7dbd2d0dec4dbd6c3c2c5d699d0d8c199d6c5">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#98fcfdf4f1f9b6faf1ebedececf1d8f4fdfff1ebf4f9ecedeaf9b6fff7eeb6f9ea"><span class="__cf_email__" data-cfemail="92f6f7fefbf3bcf0fbe1e7e6e6fbd2fef7f5fbe1fef3e6e7e0f3bcf5fde4bcf3e0">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -407,10 +420,10 @@ TODOS LOS DERECHOS RESERVADOS.
 <span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
 <span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
 <span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
-<span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
+ <span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

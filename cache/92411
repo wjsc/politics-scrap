@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Axel Kicillof | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"GrIjwbnCk61iPG7_72Gi2vyHHFc7xsPiVRCJrRiSq3I","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"m2VH-stEKouu258HcSv98o3hfCnxDWiqMnePwcd2KjY","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92411 node-type-legislador">
 <div id="skip-link">
@@ -63,7 +63,7 @@ Quiénes somos
 </a>
 </li>
 <li class="nav-button ">
-<a href="http://alertas.directoriolegislativo.org/">
+ <a href="http://alertas.directoriolegislativo.org/">
 Noticias
 </a>
 
@@ -132,10 +132,11 @@ SUSCRIBITE
 25/09/1971 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Ciudad Autónoma de Buenos Aires, No Responde </li>
+Ciudad Autónoma de Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Soledad Quereilhac </li>
+Casado
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
@@ -144,11 +145,8 @@ Casado con Soledad Quereilhac </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Licenciado en Economía </li>
-<li>
-Doctorado (Universidad de Buenos Aires, 2005)
-</li>
-</ul>
+1995: Licenciado en Economía <span style="text-transform: capitalize;">(Universidad de Buenos Aires)</span> </li>
+<li>2005: Doctorado <span style="text-transform: capitalize;">(Universidad de Buenos Aires)</span></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -168,2098 +166,266 @@ Diputado Nacional </div>
 Frente para la Victoria - PJ </div>
 <div class="info status">
 <div class="text">Distrito</div>
-Ciudad Autónoma de Buenos Aires <!-- Legislador Object
-(
-    [undefined_values] => Array
-        (
-            [0] => no hay un partido asignado
-            [1] => no tiene
-            [2] => no hay datos
-        )
-
-    [no_data_string] => No Responde
-    [node] => stdClass Object
-        (
-            [vid] => 92411
-            [uid] => 0
-            [title] => Axel Kicillof
-            [log] => 
-            [status] => 1
-            [comment] => 2
-            [promote] => 1
-            [sticky] => 0
-            [nid] => 92411
-            [type] => legislador
-            [language] => und
-            [created] => 1464802353
-            [changed] => 1530296776
-            [tnid] => 0
-            [translate] => 0
-            [revision_timestamp] => 1530296776
-            [revision_uid] => 0
-            [field_bloque_id_sa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 0031600002S25IIAAZ
-                                    [format] => 
-                                    [safe_value] => 0031600002S25IIAAZ
-                                )
-
-                        )
-
-                )
-
-            [field_bloque_related] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => a0KG0000002dHrXMAU
-                                    [format] => 
-                                    [safe_value] => a0KG0000002dHrXMAU
-                                )
-
-                        )
-
-                )
-
-            [field_l_cobra_desarraigo] => Array
-                (
-                )
-
-            [field_l_contesto_la_ficha] => Array
-                (
-                )
-
-            [field_l_anio] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 1995
-                                    [format] => 
-                                    [safe_value] => 1995
-                                )
-
-                        )
-
-                )
-
-            [field_l_anio_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 2005
-                                    [format] => 
-                                    [safe_value] => 2005
-                                )
-
-                        )
-
-                )
-
-            [field_l_anio_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_asesor_de_prensa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Jesica Rey
-                                    [format] => 
-                                    [safe_value] => Jesica Rey
-                                )
-
-                        )
-
-                )
-
-            [field_l_asesor_de_prensa_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_bloque_comentarios] => Array
-                (
-                )
-
-            [field_l_bloque_estado] => Array
-                (
-                )
-
-            [field_l_fecha_alta] => Array
-                (
-                )
-
-            [field_l_fecha_baja] => Array
-                (
-                )
-
-            [field_l_camara] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Diputados
-                                    [format] => 
-                                    [safe_value] => Diputados
-                                )
-
-                        )
-
-                )
-
-            [field_l_cantidad_de_hi] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 2 (dos)
-                                    [format] => 
-                                    [safe_value] => 2 (dos)
-                                )
-
-                        )
-
-                )
-
-            [field_l_cargo_del_c] => Array
-                (
-                )
-
-            [field_l_cargo_segun_s] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Diputado Nacional
-                                    [format] => 
-                                    [safe_value] => Diputado Nacional
-                                )
-
-                        )
-
-                )
-
-            [field_l_cargo_universal] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Diputado Nacional
-                                    [format] => 
-                                    [safe_value] => Diputado Nacional
-                                )
-
-                        )
-
-                )
-
-            [field_l_cel_del_a_de_p] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (011) 155-605-2259
-                                    [format] => 
-                                    [safe_value] => (011) 155-605-2259
-                                )
-
-                        )
-
-                )
-
-            [field_l_cel_del_leg] => Array
-                (
-                )
-
-            [field_l_cel_del_sec] => Array
-                (
-                )
-
-            [field_l_cel_personal] => Array
-                (
-                )
-
-            [field_l_clasi_del_co] => Array
-                (
-                )
-
-            [field_l_clave_de_data] => Array
-                (
-                )
-
-            [field_l_cod_pos] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => C1033AAV
-                                    [format] => 
-                                    [safe_value] => C1033AAV
-                                )
-
-                        )
-
-                )
-
-            [field_l_com_a_las_pert] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 10
-                                    [format] => 
-                                    [safe_value] => 10
-                                )
-
-                        )
-
-                )
-
-            [field_l_corr_e_alte] => Array
-                (
-                )
-
-            [field_l_corr_de_se] => Array
-                (
-                )
-
-            [field_l_corr_de_as_pr] => Array
-                (
-                )
-
-            [field_l_corr_del_man] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => akicillof@diputados.gob.ar
-                                    [format] => 
-                                    [safe_value] => akicillof@diputados.gob.ar
-                                )
-
-                        )
-
-                )
-
-            [field_l_corr_el_pe] => Array
-                (
-                )
-
-            [field_l_cre_por] => Array
-                (
-                )
-
-            [field_l_c_de_t] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => @kicillofok
-                                    [format] => 
-                                    [safe_value] => @kicillofok
-                                )
-
-                        )
-
-                )
-
-            [field_l_departamento] => Array
-                (
-                )
-
-            [field_l_descripcion] => Array
-                (
-                )
-
-            [field_l_direccion] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Hipólito Yrigoyen 1920
-                                    [format] => 
-                                    [safe_value] => Hipólito Yrigoyen 1920
-                                )
-
-                        )
-
-                )
-
-            [field_l_direccion_2] => Array
-                (
-                )
-
-            [field_l_direccion_de_c] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => No responde
-                                    [format] => 
-                                    [safe_value] => No responde
-                                )
-
-                        )
-
-                )
-
-            [field_l_distrito] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => a06G000000EgcuaIAB
-                                    [format] => 
-                                    [safe_value] => a06G000000EgcuaIAB
-                                )
-
-                        )
-
-                )
-
-            [field_l_dni] => Array
-                (
-                )
-
-            [field_l_edad] => Array
-                (
-                )
-
-            [field_l_eje_t] => Array
-                (
-                )
-
-            [field_l_email_2] => Array
-                (
-                )
-
-            [field_l_email_per] => Array
-                (
-                )
-
-            [field_l_emp_a_car] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 5
-                                    [format] => 
-                                    [safe_value] => 5
-                                )
-
-                        )
-
-                )
-
-            [field_l_esp] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Comercio;Economía;Industria;Presupuesto y Hacienda
-                                    [format] => 
-                                    [safe_value] => Comercio;Economía;Industria;Presupuesto y Hacienda
-                                )
-
-                        )
-
-                )
-
-            [field_l_esp_de_ti_aca] => Array
-                (
-                )
-
-            [field_l_esp_de_ti_aca_2] => Array
-                (
-                )
-
-            [field_l_esp_de_ti_aca_3] => Array
-                (
-                )
-
-            [field_l_esp_de_ca_un] => Array
-                (
-                )
-
-            [field_l_est_civil] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Casado
-                                    [format] => 
-                                    [safe_value] => Casado
-                                )
-
-                        )
-
-                )
-
-            [field_l_est_cont_ge] => Array
-                (
-                )
-
-            [field_l_est_del_ing] => Array
-                (
-                )
-
-            [field_l_est_del_man] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Vigente
-                                    [format] => 
-                                    [safe_value] => Vigente
-                                )
-
-                        )
-
-                )
-
-            [field_l_fax] => Array
-                (
-                )
-
-            [field_l_f_eg] => Array
-                (
-                )
-
-            [field_l_f_in] => Array
-                (
-                )
-
-            [field_l_fecha_de_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 1971-09-25
-                                    [format] => 
-                                    [safe_value] => 1971-09-25
-                                )
-
-                        )
-
-                )
-
-            [field_l_form_dire] => Array
-                (
-                )
-
-            [field_l_foto] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=0031600002S25II&amp;feoid=00NG0000008HdXa&amp;refid=0EM1L000000UsP7" alt="Kicillof, Axel.jpg"></img></p>
-                                    [format] => 
-                                    [safe_value] => &lt;p&gt;&lt;img src=&quot;https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=0031600002S25II&amp;amp;feoid=00NG0000008HdXa&amp;amp;refid=0EM1L000000UsP7&quot; alt=&quot;Kicillof, Axel.jpg&quot;&gt;&lt;/img&gt;&lt;/p&gt;
-                                )
-
-                        )
-
-                )
-
-            [field_l_in_fe_ba] => Array
-                (
-                )
-
-            [field_l_in_fe_in] => Array
-                (
-                )
-
-            [field_l_in_tran] => Array
-                (
-                )
-
-            [field_l_inst] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Universidad de Buenos Aires
-                                    [format] => 
-                                    [safe_value] => Universidad de Buenos Aires
-                                )
-
-                        )
-
-                )
-
-            [field_l_inst_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Universidad de Buenos Aires
-                                    [format] => 
-                                    [safe_value] => Universidad de Buenos Aires
-                                )
-
-                        )
-
-                )
-
-            [field_l_inst_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_int_esp_fdl] => Array
-                (
-                )
-
-            [field_l_link_dl_on] => Array
-                (
-                )
-
-            [field_l_lista] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => a0A1600000dYIFVEA4
-                                    [format] => 
-                                    [safe_value] => a0A1600000dYIFVEA4
-                                )
-
-                        )
-
-                )
-
-            [field_l_loc_de_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Ciudad Autónoma de Buenos Aires
-                                    [format] => 
-                                    [safe_value] => Ciudad Autónoma de Buenos Aires
-                                )
-
-                        )
-
-                )
-
-            [field_l_mandato] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 2015-2019
-                                    [format] => 
-                                    [safe_value] => 2015-2019
-                                )
-
-                        )
-
-                )
-
-            [field_l_mc_subs] => Array
-                (
-                )
-
-            [field_l_niv_de_gob] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Nacional
-                                    [format] => 
-                                    [safe_value] => Nacional
-                                )
-
-                        )
-
-                )
-
-            [field_l_no_ll] => Array
-                (
-                )
-
-            [field_l_nombre] => Array
-                (
-                )
-
-            [field_l_nombre_cuenta] => Array
-                (
-                )
-
-            [field_l_nombre_conyuge] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Soledad Quereilhac
-                                    [format] => 
-                                    [safe_value] => Soledad Quereilhac
-                                )
-
-                        )
-
-                )
-
-            [field_l_n_r_c_e] => Array
-                (
-                )
-
-            [field_l_n_r_f] => Array
-                (
-                )
-
-            [field_l_num_con] => Array
-                (
-                )
-
-            [field_l_num_lis] => Array
-                (
-                )
-
-            [field_l_ofi] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => A
-                                    [format] => 
-                                    [safe_value] => A
-                                )
-
-                        )
-
-                )
-
-            [field_l_ori_del_can] => Array
-                (
-                )
-
-            [field_l_otros] => Array
-                (
-                )
-
-            [field_l_pag_web] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => www.alexkiciloff.com.ar
-                                    [format] => 
-                                    [safe_value] => www.alexkiciloff.com.ar
-                                )
-
-                        )
-
-                )
-
-            [field_l_pai_de_nac] => Array
-                (
-                )
-
-            [field_l_piso] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 3º
-                                    [format] => 
-                                    [safe_value] => 3º
-                                )
-
-                        )
-
-                )
-
-            [field_l_pro_del_con] => Array
-                (
-                )
-
-            [field_l_provincia] => Array
-                (
-                )
-
-            [field_l_provincia_leg_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Ciudad Autónoma de Buenos Aires
-                                    [format] => 
-                                    [safe_value] => Ciudad Autónoma de Buenos Aires
-                                )
-
-                        )
-
-                )
-
-            [field_l_provincia_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_pro_pre] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 1510-D-2018. Paridad de genero en el acceso al empleo. Régimen
-1253-D-2018. Declarase de interés público la protección de las participaciones sociales del estado nacional que integran la cartera de inversiones del "Fondo de garantía de sustentabilidad del sistema integrado previsional argentino"
-                                    [format] => 
-                                    [safe_value] => 1510-D-2018. Paridad de genero en el acceso al empleo. Régimen
-1253-D-2018. Declarase de interés público la protección de las participaciones sociales del estado nacional que integran la cartera de inversiones del &quot;Fondo de garantía de sustentabilidad del sistema integrado previsional argentino&quot;
-                                )
-
-                        )
-
-                )
-
-            [field_l_razo_de_ingr] => Array
-                (
-                )
-
-            [field_l_razo_de_inte] => Array
-                (
-                )
-
-            [field_l_sala_legi] => Array
-                (
-                )
-
-            [field_l_secc_depa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_ayudante] => Array
-                (
-                )
-
-            [field_l_secretario_a] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Nicolás Beltram
-                                    [format] => 
-                                    [safe_value] => Nicolás Beltram
-                                )
-
-                        )
-
-                )
-
-            [field_l_sexo] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Masculino
-                                    [format] => 
-                                    [safe_value] => Masculino
-                                )
-
-                        )
-
-                )
-
-            [field_l_survey] => Array
-                (
-                )
-
-            [field_l_telefono] => Array
-                (
-                )
-
-            [field_l_telefono_int] => Array
-                (
-                )
-
-            [field_l_telefono_del_s] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (011) 155-962-4627
-                                    [format] => 
-                                    [safe_value] => (011) 155-962-4627
-                                )
-
-                        )
-
-                )
-
-            [field_l_telefono_d] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (011) 4952-1381
-                                    [format] => 
-                                    [safe_value] => (011) 4952-1381
-                                )
-
-                        )
-
-                )
-
-            [field_l_telefono_en_di] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_regi_de_cont] => Array
-                (
-                )
-
-            [field_l_titulo] => Array
-                (
-                )
-
-            [field_l_titulo_acad] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Licenciado en Economía
-                                    [format] => 
-                                    [safe_value] => Licenciado en Economía
-                                )
-
-                        )
-
-                )
-
-            [field_l_titulo_acad_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Doctorado
-                                    [format] => 
-                                    [safe_value] => Doctorado
-                                )
-
-                        )
-
-                )
-
-            [field_l_titulo_acad_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_ubi_en_la_lis] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 1
-                                    [format] => 
-                                    [safe_value] => 1
-                                )
-
-                        )
-
-                )
-
-            [field_l_u_f_s_s] => Array
-                (
-                )
-
-            [field_l_u_f_s_s_2] => Array
-                (
-                )
-
-            [field_l_u_m_por] => Array
-                (
-                )
-
-            [field_l_partido] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 001G000000hb2DUIAY
-                                    [format] => 
-                                    [safe_value] => 001G000000hb2DUIAY
-                                )
-
-                        )
-
-                )
-
-            [field_foto2] => Array
-                (
-                )
-
-            [field_bloque_final] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Frente para la Victoria - PJ
-                                    [format] => 
-                                    [safe_value] => Frente para la Victoria - PJ
-                                )
-
-                        )
-
-                )
-
-            [field_distrtito_final] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Argentina
-                                    [format] => 
-                                    [safe_value] => Argentina
-                                )
-
-                        )
-
-                )
-
-            [field_foto_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Kicillof-Axel.jpg
-                                    [format] => 
-                                    [safe_value] => Kicillof-Axel.jpg
-                                )
-
-                        )
-
-                )
-
-            [field_l_ciudad_legislatura] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Ciudad Autónoma de Buenos Aires
-                                    [format] => 
-                                    [safe_value] => Ciudad Autónoma de Buenos Aires
-                                )
-
-                        )
-
-                )
-
-            [rdf_mapping] => Array
-                (
-                    [rdftype] => Array
-                        (
-                            [0] => sioc:Item
-                            [1] => foaf:Document
-                        )
-
-                    [title] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:title
-                                )
-
-                        )
-
-                    [created] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:date
-                                    [1] => dc:created
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                    [changed] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:modified
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                    [body] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => content:encoded
-                                )
-
-                        )
-
-                    [uid] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:has_creator
-                                )
-
-                            [type] => rel
-                        )
-
-                    [name] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => foaf:name
-                                )
-
-                        )
-
-                    [comment_count] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:num_replies
-                                )
-
-                            [datatype] => xsd:integer
-                        )
-
-                    [last_activity] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:last_activity_date
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                )
-
-            [cid] => 0
-            [last_comment_timestamp] => 1464802353
-            [last_comment_name] => 
-            [last_comment_uid] => 0
-            [comment_count] => 0
-            [name] => 
-            [picture] => 0
-            [data] => 
-            [entity_view_prepared] => 1
-        )
-
-    [nombre_del_legislador] => Axel Kicillof
-    [sexo] => Masculino
-    [id_salesforce_legislador] => 0031600002S25IIAAZ
-    [asesor_de_prensa] => Jesica Rey
-    [cantidad_de_hijos] => 2 (dos)
-    [cel_del_asesor_de_prensa] => (011) 155-605-2259
-    [comisiones_a_las_que_pertenece] => 10
-    [correo_del_mandato] => akicillof@diputados.gob.ar
-    [twitter] => @kicillofok
-    [direccion] => No responde
-    [empleados_a_cargo] => 5
-    [especializacion] => Comercio; Economía; Industria; Presupuesto y Hacienda
-    [especializacion_titulo] => No Responde
-    [especializacion_titulo_2] => No Responde
-    [especializacion_titulo_3] => No Responde
-    [estado_civil] => Casado
-    [fecha_de_nacimiento] => 25/09/1971
-    [localidad_de_nacimiento] => Ciudad Autónoma de Buenos Aires
-    [mandato] => 2015-2019
-    [pagina_web] => www.alexkiciloff.com.ar
-    [proyectos_presentados] => 1510-D-2018. Paridad de genero en el acceso al empleo. Régimen
-1253-D-2018. Declarase de interés público la protección de las participaciones sociales del estado nacional que integran la cartera de inversiones del "Fondo de garantía de sustentabilidad del sistema integrado previsional argentino"
-    [proyectos] => Array
-        (
-            [0] => 1510-D-2018. Paridad de genero en el acceso al empleo. Régimen
-            [1] => 1253-D-2018. Declarase de interés público la protección de las participaciones sociales del estado nacional que integran la cartera de inversiones del "Fondo de garantía de sustentabilidad del sistema integrado previsional argentino"
-        )
-
-    [proyectos_presentados_new] => <span class="grisimp">1510-D-2018.</span> Paridad de genero en el acceso al empleo. Régimen<br><span class="grisimp">1253-D-2018.</span> Declarase de interés público la protección de las participaciones sociales del estado nacional que integran la cartera de inversiones del "Fondo de garantía de sustentabilidad del sistema integrado previsional argentino"<br>
-    [val] => 1253-D-2018. Declarase de interés público la protección de las participaciones sociales del estado nacional que integran la cartera de inversiones del "Fondo de garantía de sustentabilidad del sistema integrado previsional argentino"
-    [key] => 1
-    [secretario_a] => Nicolás Beltram
-    [telefono_del_secretario] => (011) 155-962-4627
-    [telefono] => (011) 4952-1381
-    [field_l_telefono_en_di] => No Responde
-    [titulo_academico] => Licenciado en Economía
-    [titulo_academico_2] => Doctorado
-    [titulo_academico_3] => 
-    [anio_titulo_1] => 1995
-    [anio_titulo_2] => 2005
-    [anio_titulo_3] => 
-    [institucion_titulo_1] => Universidad de Buenos Aires
-    [institucion_titulo_2] => Universidad de Buenos Aires
-    [institucion_titulo_3] => 
-    [ubicacion_en_la_lista] => 1
-    [provincia] => Ciudad Autónoma de Buenos Aires
-    [distrito] => Argentina
-    [id_del_partido] => 001G000000hb2DUIAY
-    [foto] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=0031600002S25II&feoid=00NG0000008HdXa&refid=0EM1L000000UsP7" alt="Kicillof, Axel.jpg"></img></p>
-    [cargo_universal] => Diputado Nacional
-    [cargo_segun_sexo] => Diputado Nacional
-    [partido] => Al. Frente Para La Victoria
-    [bloque] => Frente para la Victoria - PJ
-    [lista] => Array
-        (
-            [title] => Alianza Frente para la Victoria
-            [porcentaje_de_votos] => 22.37%
-            [cantidad_de_bancas] => 3
-        )
-
-    [conyuge] => Soledad Quereilhac
-    [provincia_nac] => No Responde
-    [comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => Economía
-                    [cargo] => Presidente
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => Presupuesto y Hacienda
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => Análisis y Seguimiento de Normas Tributarias y Previs.
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => Comercio
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => Economías y Desarrollo Regional
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [5] => Array
-                (
-                    [nombre_de_la_comision] => Finanzas
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [6] => Array
-                (
-                    [nombre_de_la_comision] => Industria
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [7] => Array
-                (
-                    [nombre_de_la_comision] => Mercosur
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [8] => Array
-                (
-                    [nombre_de_la_comision] => Pequeñas y Medianas Empresas
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [9] => Array
-                (
-                    [nombre_de_la_comision] => Comisión Bicameral Permanente de Seguimiento y Control de la Gestión de Contrata
-                    [cargo] => Secretario
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-        )
-
-    [link_comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => Economía
-                    [cargo] => Presidente
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => Presupuesto y Hacienda
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => Análisis y Seguimiento de Normas Tributarias y Previs.
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => Comercio
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => Economías y Desarrollo Regional
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [5] => Array
-                (
-                    [nombre_de_la_comision] => Finanzas
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [6] => Array
-                (
-                    [nombre_de_la_comision] => Industria
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [7] => Array
-                (
-                    [nombre_de_la_comision] => Mercosur
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [8] => Array
-                (
-                    [nombre_de_la_comision] => Pequeñas y Medianas Empresas
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [9] => Array
-                (
-                    [nombre_de_la_comision] => Comisión Bicameral Permanente de Seguimiento y Control de la Gestión de Contrata
-                    [cargo] => Secretario
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-        )
-
-    [ultima_comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => Economía
-                    [cargo] => Presidente
-                    [estado] => No Vigente
-                    [fecha_fin] => 2017-12-10
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => Análisis y Seguimiento de Normas Tributarias y Previs.
-                    [cargo] => Secretario
-                    [estado] => No Vigente
-                    [fecha_fin] => 2016-12-10
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => Economías y Desarrollo Regional
-                    [cargo] => Vocal
-                    [estado] => No Vigente
-                    [fecha_fin] => 2016-12-10
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => Finanzas
-                    [cargo] => Vocal
-                    [estado] => No Vigente
-                    [fecha_fin] => 2016-12-10
-                )
-
-            [5] => Array
-                (
-                    [nombre_de_la_comision] => Industria
-                    [cargo] => Vocal
-                    [estado] => No Vigente
-                    [fecha_fin] => 2016-12-10
-                )
-
-            [6] => Array
-                (
-                    [nombre_de_la_comision] => Mercosur
-                    [cargo] => Vocal
-                    [estado] => No Vigente
-                    [fecha_fin] => 2017-12-10
-                )
-
-            [7] => Array
-                (
-                    [nombre_de_la_comision] => Pequeñas y Medianas Empresas
-                    [cargo] => Vocal
-                    [estado] => No Vigente
-                    [fecha_fin] => 2017-12-10
-                )
-
-            [8] => Array
-                (
-                    [nombre_de_la_comision] => Presupuesto y Hacienda
-                    [cargo] => Vocal
-                    [estado] => No Vigente
-                    [fecha_fin] => 2016-12-10
-                )
-
-            [9] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [10] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [11] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [12] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [13] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [14] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [15] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [16] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [17] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [18] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-        )
-
-    [votacion_nominal] => Array
-        (
-            [0] => Array
-                (
-                    [title] => Ley 27.249 (Ley de pago a los holdouts)
-                    [field_dic_n_pddic] => Ley de pago a los Fondos Buitre
-                    [field_dic_numero] => 
-                    [field_dic_sd_fsd] => 2016-03-31
-                    [voto_del_legislador] => Negativo
-                    [nid] => 95636
-                    [resultado] => Negativo
-                )
-
-            [1] => Array
-                (
-                    [title] => Ley de Emergencia Ocupacional (vetada)
-                    [field_dic_n_pddic] => 
-                    [field_dic_numero] => 
-                    [field_dic_sd_fsd] => 
-                    [voto_del_legislador] => Afirmativo
-                    [nid] => 95637
-                    [resultado] => Afirmativo
-                )
-
-        )
-
-    [equipo_de_trabajo] => Array
-        (
-            [0] => Array
-                (
-                    [nombre] => Laura
-                    [apellido] => Goldberg
-                    [especializacion] => Economía
-                    [estado] => Vigente
-                )
-
-            [1] => Array
-                (
-                    [nombre] => Nicolás
-                    [apellido] => Beltram
-                    [especializacion] => Secretario
-                    [estado] => Vigente
-                )
-
-            [2] => Array
-                (
-                    [nombre] => Jesica
-                    [apellido] => Rey
-                    [especializacion] => Asesor de Prensa
-                    [estado] => Vigente
-                )
-
-        )
-
-    [otras_acti_prev_del_legislador] => Array
-        (
-            [Partidaria] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => No responde
-                            [tipo_de_acti] => Partidaria
-                            [desde] => 
-                            [hasta] => 
-                            [otra_orga] => 
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => No responde
-                        )
-
-                    [1] => Array
-                        (
-                            [cargo] => Investigador Titular
-                            [tipo_de_acti] => Partidaria
-                            [desde] => 
-                            [hasta] => 
-                            [otra_orga] => Instituto de Investigaciones Económicas de la Universidad de Buenos Aires.
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => Investigador Titular
-                        )
-
-                )
-
-            [Privada] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => Investigador
-                            [tipo_de_acti] => Privada
-                            [desde] => 2006
-                            [hasta] => 2016
-                            [otra_orga] => CONICET
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => Investigador
-                        )
-
-                    [1] => Array
-                        (
-                            [cargo] => Profesor
-                            [tipo_de_acti] => Privada
-                            [desde] => 
-                            [hasta] => 
-                            [otra_orga] => Carreras de Economía y Sociología, UBA
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => Profesor
-                        )
-
-                )
-
-            [Donaciones] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => 
-                            [tipo_de_acti] => Donaciones
-                            [desde] => 
-                            [hasta] => 
-                            [otra_orga] => No responde
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => 
-                        )
-
-                )
-
-        )
-
-    [actividades_previas_del_legislador] => Array
-        (
-            [0] => Array
-                (
-                    [cargo] => Ministro
-                    [organizacion] => 
-                    [mandato] => 2013-2015
-                    [espe_univ] => de Economía y Finanzas Públicas
-                    [field_app_ca_un] => Ministro
-                    [field_app_edcu] => de Economía y Finanzas Públicas
-                    [field_app_distrito_reference] => 
-                    [field_app_dis_mad] => 
-                )
-
-            [1] => Array
-                (
-                    [cargo] => Secretario
-                    [organizacion] => 
-                    [mandato] => 2011-2013
-                    [espe_univ] => de Política Económica y Planificación del Desarrollo
-                    [field_app_ca_un] => Secretario
-                    [field_app_edcu] => de Política Económica y Planificación del Desarrollo
-                    [field_app_distrito_reference] => 
-                    [field_app_dis_mad] => 
-                )
-
-            [2] => Array
-                (
-                    [cargo] => Subinterventor
-                    [organizacion] => YPF
-                    [mandato] => 
-                    [espe_univ] => 
-                    [field_app_ca_un] => Subinterventor
-                    [field_app_edcu] => 
-                    [field_app_distrito_reference] => Argentina
-                    [field_app_dis_mad] => 
-                )
-
-            [3] => Array
-                (
-                    [cargo] => Director
-                    [organizacion] => Aerolíneas Argentinas
-                    [mandato] => 2009-2011
-                    [espe_univ] => de Finanzas (CFO)
-                    [field_app_ca_un] => Director
-                    [field_app_edcu] => de Finanzas (CFO)
-                    [field_app_distrito_reference] => Argentina
-                    [field_app_dis_mad] => 
-                )
-
-        )
-
-    [salario] => Array
-        (
-            [0] => Array
-                (
-                    [salario] => Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).
-                )
-
-        )
-
-    [ultimo_salario] => Array
-        (
-            [salario] => Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).
-        )
-
-    [field_l_direccion] => Hipólito Yrigoyen 1920
-    [field_l_piso] => 3º
-    [field_l_ofi] => A
-    [field_l_ciudad_legislatura] => Ciudad Autónoma de Buenos Aires
-    [field_l_cod_pos] => C1033AAV
-    [img_uri] => Kicillof-Axel.jpg
-    [foto_new] => /sites/default/files/legislador/Kicillof-Axel.jpg
-)
- -->
-
-
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="info text-project">
-              <div class="text">Partido</div>
-              <a href="" class="pull-left">Al. Frente Para La Victoria</a>
-              <div style="clear:both"></div>
-            </div>
-            <div class="info type">
-              <div class="text">Mandato</div>
-              2015-2019            </div>
-          </div>
-          <div style="clear:both"></div>
-          <div class="activity text">
-            <ul class="nav nav-tabs">
-              <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
-              <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
-            </ul>
-            <div style="clear:both"></div>
-            <div class="tab-content">
-              <div id="home" class="tab-pane fade in active">
-                <h3 class="title">Especialización:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity specialization">
-                    Comercio; Economía; Industria; Presupuesto y Hacienda                  </li>
-                </ul>
-                <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                                      <div class="info-activity comission">
-                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Economía                          </span>
-                                                                        (Presidente),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Presupuesto y Hacienda                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Análisis y Seguimiento de Normas Tributarias y Previs.                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Comercio                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Economías y Desarrollo Regional                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Finanzas                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Industria                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Mercosur                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Pequeñas y Medianas Empresas                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Comisión Bicameral Permanente de Seguimiento y Control de la Gestión de Contrata                          </span>
-                                                                        (Secretario).                                          </div>
-                                  </ul>
-                <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity projects">
-                    <span class="grisimp">1510-D-2018.</span> Paridad de genero en el acceso al empleo. Régimen<br><span class="grisimp">1253-D-2018.</span> Declarase de interés público la protección de las participaciones sociales del estado nacional que integran la cartera de inversiones del "Fondo de garantía de sustentabilidad del sistema integrado previsional argentino"<br>                  </li>
-                </ul>
-                <h3 class="title alone">
-                  Empleados a cargo:
-                  <span class="empleados-a-cargo-item">
-                    5                  </span>
-                </h3>
-                <h3 class="title">Equipo de trabajo:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity employees">
-                                                                                                            Laura Goldberg <span class='grisimp'>(Economía)</span>;                                                                     Nicolás Beltram <span class='grisimp'>(Secretario)</span>;                                                                     Jesica Rey <span class='grisimp'>(Asesor de Prensa)</span>.                                                            </li>
-                </ul>
-                <h3 class="title">Resultados electorales:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity ubication">
-                  <div>
-                      <strong class="title">Ubicación en la lista:</strong>
-                      <span class="resultados-electorales-item">
-                        1                      </span>
-                    </div>
-                  </li>
-                  <li class="info-activity seat">
-                  <div>
-                      <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
-                      <span class="resultados-electorales-item">
-                                                  3                                              </span >
-                    </div>
-                  </li>
-                  <li class="info-activity votes">
-                  <div>
-                      <strong class="title">Votos obtenidos:</strong>
-                      <span class="resultados-electorales-item">
-                                                  22.37%                                              </span >
-                    </div>
-                  </li>
-                </ul>
-              </div>
-              <div id="menu1" class="tab-pane fade">
-                <ul class="tab-content other-activity" data-id="2">
-                  <div class="other public-activity">
-                    <div class="title">
-                      Actividad pública previa
-                    </div>
-                    <li class="info-activity">
-                                                                        Ministro                          de Economía y Finanzas Públicas                          <span class="extra-info">
-                                                         (2013-2015)                       <!--       -->
-                          </span>
-                          <br>
-                                                  Secretario                          de Política Económica y Planificación del Desarrollo                          <span class="extra-info">
-                                                         (2011-2013)                       <!--       -->
-                          </span>
-                          <br>
-                                                  Subinterventor                                                    <span class="extra-info">
-                            - Argentina                                                   <!--      - YPF -->
-                          </span>
-                          <br>
-                                                  Director                          de Finanzas (CFO)                          <span class="extra-info">
-                            - Argentina                             (2009-2011)                       <!--      - Aerolíneas Argentinas -->
-                          </span>
-                          <br>
-                                                                  </li>
-                  </div>
-                  <div class="other private-activity">
-                                                                                          <div class="title">Partidaria </div>
-                        <li class="info-activity">
-                                                                                                                No responde                              <span class="grisimp">
-                                - No hay un partido asignado                                                              </span>
-                              <br>
-                                                                                                                                            Investigador Titular                              <span class="grisimp">
-                                - No hay un partido asignado                                                              </span>
-                              <br>
-                                                                              </li>
-                                                                                                                <div class="title">Privada </div>
-                        <li class="info-activity">
-                                                                                                                Investigador                              <span class="grisimp">
-                                - CONICET                                (2006-2016)                              </span>
-                              <br>
-                                                                                                                                            Profesor                              <span class="grisimp">
-                                - Carreras de Economía y Sociología, UBA                                                              </span>
-                              <br>
-                                                                              </li>
-                                                                                                                <div class="title">Donaciones </div>
-                        <li class="info-activity">
-                                                                                                                No responde                                                            <br>
-                                                                              </li>
-                                                              <div class="other ingr-activity">
-                      <div class="title">Ingresos brutos</div>
-                      <li class="info-activity">
-                        Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).                      </li>
-                    </div>
-                  </div>
-                </ul>
-              </div>
-            </div>
-            <div class="nominal">
-                            <div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
-                                            <div class="votacion">
-                  <div class="recinto">
-                                          <img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
-                                        <span class="nuestro-legislador voto-negativo"></span>
-                  </div>
-                  <div class="law">
-                   <p></p>
-                    <p>Ley 27.249 (Ley de pago a los holdouts)</p>
-                    <p class="voto-negativo">Negativo</p>
-                  <div style="clear:both"></div>
-                  </div>
-                </div>
-                            <div class="votacion">
-                  <div class="recinto">
-                    
-                      <img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-                                        <span class="nuestro-legislador voto-afirmativo"></span>
-                  </div>
-                  <div class="law">
-                   <p></p>
-                    <p>Ley de Emergencia Ocupacional (vetada)</p>
-                    <p class="voto-afirmativo">Afirmativo</p>
-                  <div style="clear:both"></div>
-                  </div>
-                </div>
-                        <div style="clear:both"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-3 bloque_derecha relations relations-projects">
-    <div class="title">¿Cómo comunicarse?</div>
-    <div class="border"></div>
-    <ul class="data place">
-      <li class="name-place">En el Congreso de la Nación</li>
-      <li class="address">
-        Hipólito Yrigoyen 1920      </li>
-      <li class="zone">
-        3º        piso, of.
-        A,
-        Ciudad Autónoma de Buenos Aires        (C1033AAV)
-      </li>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-phone"></i> Teléfono
-      </li>
-      <li class="tel-number">
-                  (011) 4952-1381              </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-link"></i>&nbsp; Sitio Web
-      </li>
-      <li class="tel-number">
-                  <a href="http://www.alexkiciloff.com.ar" target="_blank">www.alexkiciloff.com.ar</a>
-              </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data email" style="padding: 0px 0px 0px 0px;" >
-      <li class="title" >
-        <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
-      </li>
-      <li class="mail">
-                  <a class="mail_especial" href="mailto:akicillof@diputados.gob.ar">akicillof@diputados.gob.ar</a>
-              </li>
-       <div style="clear:both"></div>
-    </ul>
-    <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-user"></i> Secretario/a
-      </li>
-      <li class="name-secretary">Nicolás Beltram</li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data advisory"  style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
-      </li>
-      <li class="advisory-number">
-                  <span class="asesordeprensa">Jesica Rey </span>
-          <br>
-          (011) 155-605-2259        
-      </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data secretary"  style="padding: 0px 0px 0px 0px;">
-
-      <li class="title">En su distrito</li>
-      <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
-      <li class="advisory-number">No responde</li>
-      <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
-      <li class="advisory-number">No Responde</li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-
-      <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
-      <li class="tel-number" style="text-transform:lowercase !important;">
-                  <a href="https://twitter.com/@kicillofok" target="_blank">
-          @kicillofok<a class="twitter-timeline"
-            href="https://twitter.com/kicillofok"
-            data-widget-id="735728825129046016"
-            data-screen-name="kicillofok">
-            Tweets by @kicillofok</a>
-            <script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>      </a>
-    </li>
-    <div style="clear:both"></div>
-  </ul>
+Ciudad Autónoma de Buenos Aires 
+</div>
+</div>
+<div class="col-lg-6">
+<div class="info text-project">
+<div class="text">Partido</div>
+<a href="" class="pull-left">Al. Frente Para La Victoria</a>
+<div style="clear:both"></div>
+</div>
+<div class="info type">
+<div class="text">Mandato</div>
+2015-2019 </div>
+</div>
+<div style="clear:both"></div>
+<div class="activity text">
+<ul class="nav nav-tabs">
+<li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
+<li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
+</ul>
+<div style="clear:both"></div>
+<div class="tab-content">
+<div id="home" class="tab-pane fade in active">
+<h3 class="title">Especialización:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity specialization">
+Comercio; Economía; Industria; Presupuesto y Hacienda </li>
+</ul>
+<h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<div class="info-activity comission">
+<span class="titlenombrecomision comisiones nombrecomision">
+Economía </span>
+(Presidente), <span class="titlenombrecomision comisiones nombrecomision">
+Presupuesto y Hacienda </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Análisis y Seguimiento de Normas Tributarias y Previs. </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Comercio </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Economías y Desarrollo Regional </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Finanzas </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Industria </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Mercosur </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Pequeñas y Medianas Empresas </span>
+(Vocal). </div>
+</ul>
+<h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity projects">
+<span class="grisimp">3113-D-2018.</span> Pedido de informes al Poder Ejecutivo sobre los movimientos realizados por el fondo de garantía de sustentabilidad del sistema integrado previsional argentina, en el marco de la desvalorización del peso. <br><span class="grisimp">2575-D-2018.</span> Pedido de informes verbales al Presidente del Banco Central de la República Argentina, Dr. Federico Sturzenegger, sobre la venta de reservas de dólares y otras cuestiones conexas.<br> </li>
+</ul>
+<h3 class="title alone">
+Empleados a cargo:
+<span class="empleados-a-cargo-item">
+5 </span>
+</h3>
+<h3 class="title">Equipo de trabajo:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity employees">
+Laura Goldberg <span class='grisimp'>(Economía)</span>; Nicolás Beltram <span class='grisimp'>(Secretario)</span>; Jesica Rey <span class='grisimp'>(Asesora de Prensa)</span>.
+</li>
+</ul>
+<h3 class="title">Resultados electorales:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity ubication">
+<div>
+<strong class="title">Ubicación en la lista:</strong>
+<span class="resultados-electorales-item">
+1 </span>
+</div>
+</li>
+<li class="info-activity seat">
+<div>
+<strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
+<span class="resultados-electorales-item">
+3 </span >
+</div>
+</li>
+<li class="info-activity votes">
+<div>
+<strong class="title">Votos obtenidos:</strong>
+<span class="resultados-electorales-item">
+22.37% </span >
+</div>
+</li>
+</ul>
+</div>
+<div id="menu1" class="tab-pane fade">
+<ul class="tab-content other-activity" data-id="2">
+<div class="other public-activity">
+<div class="title">
+Actividad pública previa
+</div>
+<li class="info-activity">
+Ministro de Economía y Finanzas Públicas de la Nación <span class="extra-info">
+(2013-2015)
+</span>
+<br>
+Secretario de Política Económica y Planificación del Desarrollo de la Nación <span class="extra-info">
+(2011-2013)
+</span>
+<br>
+Subinterventor <span class="extra-info">
+- YPF - Argentina </span>
+<br>
+Director de Finanzas <span class="extra-info">
+(2009-2011)
+- Aerolíneas Argentinas - Argentina </span>
+<br>
+</li>
+</div>
+<div class="other private-activity">
+
+<div class="title">Partidaria </div>
+<li class="info-activity">
+No responde <span class="grisimp">
+</span>
+<br>
+</li>
+
+<div class="title">Privada </div>
+<li class="info-activity">
+Investigador <span class="grisimp">
+ - CONICET
+(2006 - 2016)
+</span>
+<br>
+</li>
+
+<div class="title">Donaciones </div>
+<li class="info-activity">
+No responde <br>
+</li>
+<div class="other ingr-activity">
+<div class="title">Ingresos brutos</div>
+<li class="info-activity">
+Sueldo bruto: $162.600,86 (dieta: $142.600,86 + gastos de representación: $20.000) + la opción elegida para el régimen de pasajes según resolución 487/2018 </li>
+</div>
+</div>
+</ul>
+</div>
+</div>
+<div class="nominal">
+<div style="clear:both"></div>
 </div>
 </div>
 </div>
-
+</div>
+</div>
+<div class="col-md-3 bloque_derecha relations relations-projects">
+<div class="title">¿Cómo comunicarse?</div>
+<div class="border"></div>
+<ul class="data place">
+<li class="name-place">En el Congreso de la Nación</li>
+<li class="address">
+Hipólito Yrigoyen 1920 </li>
+<li class="zone">
+3º piso, of.
+A,
+Ciudad Autónoma de Buenos Aires (C1033AAV)
+</li>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-phone"></i> Teléfono
+</li>
+<li class="tel-number">
+(011) 4952-1381 </li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-link"></i>&nbsp; Sitio Web
+</li>
+<li class="tel-number">
+<a href="http://www.alexkiciloff.com.ar" target="_blank">www.alexkiciloff.com.ar</a>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data email" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
+</li>
+<li class="mail">
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#26474d4f454f4a4a4940664e45424808414944084754"><span class="__cf_email__" data-cfemail="20414b4943494c4c4f46604843444e0e474f420e4152">[email&#160;protected]</span></a>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-user"></i> Secretario/a
+</li>
+<li class="name-secretary">Nicolás Beltram</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data advisory" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
+</li>
+<li class="advisory-number">
+<span class="asesordeprensa">Jesica Rey </span>
+<br>
+(011) 155-605-2259
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+<li class="title">En su distrito</li>
+<li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
+<li class="advisory-number">No responde</li>
+<li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
+<li class="advisory-number">No Responde</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
+<li class="tel-number" style="text-transform:lowercase !important;">
+<a href="https://twitter.com/@kicillofok" target="_blank">
+@kicillofok<a class="twitter-timeline" href="https://twitter.com/kicillofok" data-widget-id="735728825129046016" data-screen-name="kicillofok">
+Tweets by @kicillofok</a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+</li>
+<div style="clear:both"></div>
+</ul>
+</div>
+</div>
+</div>
 </section>
-  </div>
-    </section>
-
-    
-  </div>
 </div>
-
-  <footer class="footer container">
-          <div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
-            <div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
-                2011 Fundación Directorio Legislativo
-            </div>
-            <div class="text-copy">
-              Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A. 
-            </div>
-            <div class="text-copy">
-              Tel: 5411-52184647/5411-52364293.
-            </div>
-            <div class="text-copy">
-              TODOS LOS DERECHOS RESERVADOS.
-            </div>
-          </div>
-
-
-
-          <div class="col-lg-3 copyright pull-right">
-
-  <span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
-  <span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
-  <span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
-  <span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
-  <span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
-
-          </div>
-          <div style="clear:both"></div>
-  </footer>
-
-
-
-
-
-
-</div>    <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</section>
+</div>
+</div>
+<footer class="footer container">
+<div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
+<div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
+2011 Fundación Directorio Legislativo
+</div>
+<div class="text-copy">
+Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A.
+</div>
+<div class="text-copy">
+Tel: 5411-52184647/5411-52364293.
+</div>
+<div class="text-copy">
+TODOS LOS DERECHOS RESERVADOS.
+</div>
+</div>
+<div class="col-lg-3 copyright pull-right">
+<span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
+<span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
+<span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
+<span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
+<span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
+</div>
+<div style="clear:both"></div>
+</footer>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

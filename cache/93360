@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Paula Mariana Oliveto Lago | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"EoEe96qaayZwhP4-uRfEMyUB8bHXDnNbiofjvIdABU0","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"jjm2YmmiFFrYSWpRcgZgNwrGIXSWXMqXt9caml8StRk","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93360 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 10/02/1973 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Ciudad Autónoma de Buenos Aires, Ciudad Autónoma de Buenos Aires </li>
+Ciudad Autónoma de Buenos Aires , Ciudad Autónoma de Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casada con Ernesto García </li>
+Casada , Ciudad Autónoma de Buenos Aires
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
@@ -144,14 +145,8 @@ Casada con Ernesto García </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Abogada </li>
-<li>
-Especialista (Universidad de Buenos Aires, 2002)
-</li>
-<li>
-Especialización (Universidad de Salamanca, 2001)
-</li>
-</ul>
+ 1997: Abogada <span style="text-transform: capitalize;">(Universidad de Buenos Aires)</span> </li>
+<li>2002: Especialista <span style="text-transform: capitalize;">(Universidad de Buenos Aires)</span></li> <li>2001: Especialización <span style="text-transform: capitalize;">(Universidad de Salamanca)</span></li> </ul>
 </div>
 </li>
 </ul>
@@ -163,12 +158,12 @@ Especialización (Universidad de Salamanca, 2001)
 <div class="name">
 Paula Mariana Oliveto Lago </div>
 <div class="position">
-Legisladora </div>
+Diputada Nacional </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Coalicion Civica </div>
+Coalición Cívica </div>
 <div class="info status">
 <div class="text">Distrito</div>
 CABA 
@@ -177,12 +172,12 @@ CABA
 <div class="col-lg-6">
 <div class="info text-project">
 <div class="text">Partido</div>
-<a href="" class="pull-left">Alianza UNEN</a>
+<a href="" class="pull-left">Coalición Cívica</a>
 <div style="clear:both"></div>
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2013-2017 </div>
+2017-2021 </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -216,17 +211,18 @@ Presupuesto y Hacienda </span>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">2303-D-2018 Consejo de la Magistratura –LEY 24937- Modificaciones sobre composición y reformas.</span><br><span class="grisimp">2230-D-2018 Código Penal.</span> Modificación de los artículos 80;82;284 sobre agravamiento de penas cuando se cometa un homicidio de un trabajador de la salud en funciones<br> </li>
+<span class="grisimp">1786-D-2018.</span> Asociaciones mutuales - Ley 20321 -. Modificación de los art. 13, 15, 17 y 29 e incorporación de los art. 17 bis Y 34 bis, sobre pautas de transparencia y control de la gestión de las mutuales. <br><span class="grisimp">1785-D-2018.</span> Carta Orgánica del Banco de la Nación Argentina - Ley 21799 -. Sustitución de los art. 10, 11 y 12 e incorporación del art. 26 bis, sobre designación de presidente, vicepresidente y directores.<br> </li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
 4 </span>
 </h3>
- <h3 class="title">Equipo de trabajo:</h3>
+<h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Franco Benegone; Vanina Barrios; Juan Highton. </li>
+Franco Benegone; Vanina Barrios; Juan Highton.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -234,7 +230,7 @@ Franco Benegone; Vanina Barrios; Juan Highton. </li>
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-5º </span>
+5 </span>
 </div>
 </li>
 <li class="info-activity seat">
@@ -248,7 +244,7 @@ Franco Benegone; Vanina Barrios; Juan Highton. </li>
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-24.68% </span >
+50,08% </span >
 </div>
 </li>
 </ul>
@@ -260,23 +256,50 @@ Franco Benegone; Vanina Barrios; Juan Highton. </li>
 Actividad pública previa
 </div>
 <li class="info-activity">
-No hay actividad pública previa
-</li>
+Auditora General <span class="extra-info">
+(2007-2013)
+- Auditoría General de la Ciudad de Buenos Aires - CABA, Argentina </span>
+<br>
+Asesora Obra Pública <span class="extra-info">
+(2005-2007)
+</span>
+<br>
+Auditora <span class="extra-info">
+(2000-2009)
+</span>
+<br>
+Consultora <span class="extra-info">
+(2013-2015)
+- Facultad de Derecho - UBA </span>
+<br>
+ </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Vicepresidenta <span class="grisimp">
-- Ari - Coalición Cívica (2012-2012) </span>
+- Ari - Coalición Cívica
+(2012 - 2012)
+</span>
 <br>
 Congresal Nacional <span class="grisimp">
-- Ari - Conf. Coalicion Civica (2012-2014) </span>
+- Ari - Conf. Coalicion Civica
+(2012 - 2014)
+</span>
 <br>
 Presidenta <span class="grisimp">
-- Coalición Cívica </span>
+- Coalición Cívica
+</span>
 <br>
 </li>
+
 <div class="title">Donaciones </div>
+<li class="info-activity">
+No responde <br>
+</li>
+
+<div class="title">Privada </div>
 <li class="info-activity">
 No responde <span class="grisimp">
 </span>
@@ -285,7 +308,7 @@ No responde <span class="grisimp">
 <div class="other ingr-activity">
 <div class="title">Ingresos brutos</div>
 <li class="info-activity">
-Sueldo neto: $38.000 </li>
+Sueldo bruto: $162.600,86 (dieta: $142.600,86 + gastos de representación: $20.000) + la opción elegida para el régimen de pasajes según resolución 487/2018 </li>
 </div>
 </div>
 </ul>
@@ -304,7 +327,7 @@ Sueldo neto: $38.000 </li>
 <ul class="data place">
 <li class="name-place">En el Congreso de la Nación</li>
 <li class="address">
-Av. Rivadavia 1864 </li>
+Av. Rivadavia 1841 </li>
 <li class="zone">
 7° piso, of.
 757,
@@ -333,7 +356,7 @@ Ciudad Autónoma de Buenos Aires ()
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#3c4c5350554a594853507c545f5852125b535e125d4e"><span class="__cf_email__" data-cfemail="d4a4bbb8bda2b1a0bbb894bcb7b0bafab3bbb6fab5a6">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#daaab5b6b3acbfaeb5b69ab2b9beb4f4bdb5b8f4bba8"><span class="__cf_email__" data-cfemail="9eeef1f2f7e8fbeaf1f2def6fdfaf0b0f9f1fcb0ffec">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -351,14 +374,14 @@ Ciudad Autónoma de Buenos Aires ()
 <li class="advisory-number">
 <span class="asesordeprensa">Silvina Pontoth </span>
 <br>
-(011) 156-528-1345
+No Responde
 </li>
 <div style="clear:both"></div>
 </ul>
 <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
 <li class="title">En su distrito</li>
 <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
-<li class="advisory-number">No Responde</li>
+<li class="advisory-number">No responde</li>
 <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
 <li class="advisory-number">No Responde</li>
 <div style="clear:both"></div>
@@ -402,6 +425,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

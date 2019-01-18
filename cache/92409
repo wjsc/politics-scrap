@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Juan Cabandié | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"4zYvEC2YS27LPY4GmvF1ovEDOfRQ260S1SFdwij0Tl0","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"k4vdbiWB0L7SP_vo5CcqJY_JIwGeRJj3NQLLxNh5Ocs","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92409 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 16/03/1978 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Ciudad Autónoma de Buenos Aires, Ciudad Autónoma de Buenos Aires </li>
+Ciudad Autónoma de Buenos Aires , Ciudad Autónoma de Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-En convivencia con Cecilia Segura </li>
+En convivencia , Ciudad Autónoma de Buenos Aires
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
@@ -144,8 +145,8 @@ En convivencia con Cecilia Segura </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Maestro </li>
-</ul>
+2001: Maestro <span style="text-transform: capitalize;">(Instituto de Ciencias y Estudios Aplicados)</span> </li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -162,2090 +163,287 @@ Diputado Nacional </div>
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Frente Para la Victoria </div>
+Frente para la Victoria - PJ </div>
 <div class="info status">
 <div class="text">Distrito</div>
-CABA <!-- Legislador Object
-(
-    [undefined_values] => Array
-        (
-            [0] => no hay un partido asignado
-            [1] => no tiene
-            [2] => no hay datos
-        )
-
-    [no_data_string] => No Responde
-    [node] => stdClass Object
-        (
-            [vid] => 92409
-            [uid] => 0
-            [title] => Juan Cabandié
-            [log] => 
-            [status] => 1
-            [comment] => 2
-            [promote] => 1
-            [sticky] => 0
-            [nid] => 92409
-            [type] => legislador
-            [language] => und
-            [created] => 1464802353
-            [changed] => 1529597397
-            [tnid] => 0
-            [translate] => 0
-            [revision_timestamp] => 1529597397
-            [revision_uid] => 0
-            [field_bloque_id_sa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 003G000000xDHnwIAG
-                                    [format] => 
-                                    [safe_value] => 003G000000xDHnwIAG
-                                )
-
-                        )
-
-                )
-
-            [field_bloque_related] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => a0KG000000csbI9MAI
-                                    [format] => 
-                                    [safe_value] => a0KG000000csbI9MAI
-                                )
-
-                        )
-
-                )
-
-            [field_l_cobra_desarraigo] => Array
-                (
-                )
-
-            [field_l_contesto_la_ficha] => Array
-                (
-                )
-
-            [field_l_anio] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 2001
-                                    [format] => 
-                                    [safe_value] => 2001
-                                )
-
-                        )
-
-                )
-
-            [field_l_anio_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_anio_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_asesor_de_prensa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => No responde
-                                    [format] => 
-                                    [safe_value] => No responde
-                                )
-
-                        )
-
-                )
-
-            [field_l_asesor_de_prensa_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_bloque_comentarios] => Array
-                (
-                )
-
-            [field_l_bloque_estado] => Array
-                (
-                )
-
-            [field_l_fecha_alta] => Array
-                (
-                )
-
-            [field_l_fecha_baja] => Array
-                (
-                )
-
-            [field_l_camara] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Diputados
-                                    [format] => 
-                                    [safe_value] => Diputados
-                                )
-
-                        )
-
-                )
-
-            [field_l_cantidad_de_hi] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 2 (dos)
-                                    [format] => 
-                                    [safe_value] => 2 (dos)
-                                )
-
-                        )
-
-                )
-
-            [field_l_cargo_del_c] => Array
-                (
-                )
-
-            [field_l_cargo_segun_s] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Diputado Nacional
-                                    [format] => 
-                                    [safe_value] => Diputado Nacional
-                                )
-
-                        )
-
-                )
-
-            [field_l_cargo_universal] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Diputado Nacional
-                                    [format] => 
-                                    [safe_value] => Diputado Nacional
-                                )
-
-                        )
-
-                )
-
-            [field_l_cel_del_a_de_p] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => No responde
-                                    [format] => 
-                                    [safe_value] => No responde
-                                )
-
-                        )
-
-                )
-
-            [field_l_cel_del_leg] => Array
-                (
-                )
-
-            [field_l_cel_del_sec] => Array
-                (
-                )
-
-            [field_l_cel_personal] => Array
-                (
-                )
-
-            [field_l_clasi_del_co] => Array
-                (
-                )
-
-            [field_l_clave_de_data] => Array
-                (
-                )
-
-            [field_l_cod_pos] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => C1033AAV
-                                    [format] => 
-                                    [safe_value] => C1033AAV
-                                )
-
-                        )
-
-                )
-
-            [field_l_com_a_las_pert] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 4
-                                    [format] => 
-                                    [safe_value] => 4
-                                )
-
-                        )
-
-                )
-
-            [field_l_corr_e_alte] => Array
-                (
-                )
-
-            [field_l_corr_de_se] => Array
-                (
-                )
-
-            [field_l_corr_de_as_pr] => Array
-                (
-                )
-
-            [field_l_corr_del_man] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => jcabandie@hcdn.gob.ar
-                                    [format] => 
-                                    [safe_value] => jcabandie@hcdn.gob.ar
-                                )
-
-                        )
-
-                )
-
-            [field_l_corr_el_pe] => Array
-                (
-                )
-
-            [field_l_cre_por] => Array
-                (
-                )
-
-            [field_l_c_de_t] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => @juancabandie
-                                    [format] => 
-                                    [safe_value] => @juancabandie
-                                )
-
-                        )
-
-                )
-
-            [field_l_departamento] => Array
-                (
-                )
-
-            [field_l_descripcion] => Array
-                (
-                )
-
-            [field_l_direccion] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Callao 86
-                                    [format] => 
-                                    [safe_value] => Callao 86
-                                )
-
-                        )
-
-                )
-
-            [field_l_direccion_2] => Array
-                (
-                )
-
-            [field_l_direccion_de_c] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => No responde
-                                    [format] => 
-                                    [safe_value] => No responde
-                                )
-
-                        )
-
-                )
-
-            [field_l_distrito] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => a06G000000EgcgKIAR
-                                    [format] => 
-                                    [safe_value] => a06G000000EgcgKIAR
-                                )
-
-                        )
-
-                )
-
-            [field_l_dni] => Array
-                (
-                )
-
-            [field_l_edad] => Array
-                (
-                )
-
-            [field_l_eje_t] => Array
-                (
-                )
-
-            [field_l_email_2] => Array
-                (
-                )
-
-            [field_l_email_per] => Array
-                (
-                )
-
-            [field_l_emp_a_car] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 4
-                                    [format] => 
-                                    [safe_value] => 4
-                                )
-
-                        )
-
-                )
-
-            [field_l_esp] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Defensa del Consumidor
-                                    [format] => 
-                                    [safe_value] => Defensa del Consumidor
-                                )
-
-                        )
-
-                )
-
-            [field_l_esp_de_ti_aca] => Array
-                (
-                )
-
-            [field_l_esp_de_ti_aca_2] => Array
-                (
-                )
-
-            [field_l_esp_de_ti_aca_3] => Array
-                (
-                )
-
-            [field_l_esp_de_ca_un] => Array
-                (
-                )
-
-            [field_l_est_civil] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => En convivencia
-                                    [format] => 
-                                    [safe_value] => En convivencia
-                                )
-
-                        )
-
-                )
-
-            [field_l_est_cont_ge] => Array
-                (
-                )
-
-            [field_l_est_del_ing] => Array
-                (
-                )
-
-            [field_l_est_del_man] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Vigente
-                                    [format] => 
-                                    [safe_value] => Vigente
-                                )
-
-                        )
-
-                )
-
-            [field_l_fax] => Array
-                (
-                )
-
-            [field_l_f_eg] => Array
-                (
-                )
-
-            [field_l_f_in] => Array
-                (
-                )
-
-            [field_l_fecha_de_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 1978-03-16
-                                    [format] => 
-                                    [safe_value] => 1978-03-16
-                                )
-
-                        )
-
-                )
-
-            [field_l_form_dire] => Array
-                (
-                )
-
-            [field_l_foto] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHnw&amp;feoid=00NG0000008HdXa&amp;refid=0EM1L000000Us99" alt="Cabandie, Juan.jpg"></img></p>
-                                    [format] => 
-                                    [safe_value] => &lt;p&gt;&lt;img src=&quot;https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHnw&amp;amp;feoid=00NG0000008HdXa&amp;amp;refid=0EM1L000000Us99&quot; alt=&quot;Cabandie, Juan.jpg&quot;&gt;&lt;/img&gt;&lt;/p&gt;
-                                )
-
-                        )
-
-                )
-
-            [field_l_in_fe_ba] => Array
-                (
-                )
-
-            [field_l_in_fe_in] => Array
-                (
-                )
-
-            [field_l_in_tran] => Array
-                (
-                )
-
-            [field_l_inst] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Instituto de Ciencias y Estudios Aplicados
-                                    [format] => 
-                                    [safe_value] => Instituto de Ciencias y Estudios Aplicados
-                                )
-
-                        )
-
-                )
-
-            [field_l_inst_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_inst_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_int_esp_fdl] => Array
-                (
-                )
-
-            [field_l_link_dl_on] => Array
-                (
-                )
-
-            [field_l_lista] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => a0A1600000eWdDmEAK
-                                    [format] => 
-                                    [safe_value] => a0A1600000eWdDmEAK
-                                )
-
-                        )
-
-                )
-
-            [field_l_loc_de_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Ciudad Autónoma de Buenos Aires
-                                    [format] => 
-                                    [safe_value] => Ciudad Autónoma de Buenos Aires
-                                )
-
-                        )
-
-                )
-
-            [field_l_mandato] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_mc_subs] => Array
-                (
-                )
-
-            [field_l_niv_de_gob] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Nacional
-                                    [format] => 
-                                    [safe_value] => Nacional
-                                )
-
-                        )
-
-                )
-
-            [field_l_no_ll] => Array
-                (
-                )
-
-            [field_l_nombre] => Array
-                (
-                )
-
-            [field_l_nombre_cuenta] => Array
-                (
-                )
-
-            [field_l_nombre_conyuge] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Cecilia Segura
-                                    [format] => 
-                                    [safe_value] => Cecilia Segura
-                                )
-
-                        )
-
-                )
-
-            [field_l_n_r_c_e] => Array
-                (
-                )
-
-            [field_l_n_r_f] => Array
-                (
-                )
-
-            [field_l_num_con] => Array
-                (
-                )
-
-            [field_l_num_lis] => Array
-                (
-                )
-
-            [field_l_ofi] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 506
-                                    [format] => 
-                                    [safe_value] => 506
-                                )
-
-                        )
-
-                )
-
-            [field_l_ori_del_can] => Array
-                (
-                )
-
-            [field_l_otros] => Array
-                (
-                )
-
-            [field_l_pag_web] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => www.juancabandie.com.ar
-                                    [format] => 
-                                    [safe_value] => www.juancabandie.com.ar
-                                )
-
-                        )
-
-                )
-
-            [field_l_pai_de_nac] => Array
-                (
-                )
-
-            [field_l_piso] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 5°
-                                    [format] => 
-                                    [safe_value] => 5°
-                                )
-
-                        )
-
-                )
-
-            [field_l_pro_del_con] => Array
-                (
-                )
-
-            [field_l_provincia] => Array
-                (
-                )
-
-            [field_l_provincia_leg_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Ciudad Autónoma de Buenos Aires
-                                    [format] => 
-                                    [safe_value] => Ciudad Autónoma de Buenos Aires
-                                )
-
-                        )
-
-                )
-
-            [field_l_provincia_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Ciudad Autónoma de Buenos Aires
-                                    [format] => 
-                                    [safe_value] => Ciudad Autónoma de Buenos Aires
-                                )
-
-                        )
-
-                )
-
-            [field_l_pro_pre] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 3240-D-2018 Declarar de interés social la regularización dominial de los inmuebles registrados en el "Registro Nacional de Barrios Populares   -RENABAP". Modificación de las leyes 20.396, 21.477, 21.890, 23.967 y 24.374. Derogación del Decreto - Ley 22.423.
-3176-D-2018 Declárase al 2019 como "Año del Centenario del nacimiento de Eva Perón."
-                                    [format] => 
-                                    [safe_value] => 3240-D-2018 Declarar de interés social la regularización dominial de los inmuebles registrados en el &quot;Registro Nacional de Barrios Populares   -RENABAP&quot;. Modificación de las leyes 20.396, 21.477, 21.890, 23.967 y 24.374. Derogación del Decreto - Ley 22.423.
-3176-D-2018 Declárase al 2019 como &quot;Año del Centenario del nacimiento de Eva Perón.&quot;
-                                )
-
-                        )
-
-                )
-
-            [field_l_razo_de_ingr] => Array
-                (
-                )
-
-            [field_l_razo_de_inte] => Array
-                (
-                )
-
-            [field_l_sala_legi] => Array
-                (
-                )
-
-            [field_l_secc_depa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_ayudante] => Array
-                (
-                )
-
-            [field_l_secretario_a] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_sexo] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Masculino
-                                    [format] => 
-                                    [safe_value] => Masculino
-                                )
-
-                        )
-
-                )
-
-            [field_l_survey] => Array
-                (
-                )
-
-            [field_l_telefono] => Array
-                (
-                )
-
-            [field_l_telefono_int] => Array
-                (
-                )
-
-            [field_l_telefono_del_s] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => No Responde
-                                    [format] => 
-                                    [safe_value] => No Responde
-                                )
-
-                        )
-
-                )
-
-            [field_l_telefono_d] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (011) 4127-5030
-                                    [format] => 
-                                    [safe_value] => (011) 4127-5030
-                                )
-
-                        )
-
-                )
-
-            [field_l_telefono_en_di] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => No responde
-                                    [format] => 
-                                    [safe_value] => No responde
-                                )
-
-                        )
-
-                )
-
-            [field_l_regi_de_cont] => Array
-                (
-                )
-
-            [field_l_titulo] => Array
-                (
-                )
-
-            [field_l_titulo_acad] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Maestro
-                                    [format] => 
-                                    [safe_value] => Maestro
-                                )
-
-                        )
-
-                )
-
-            [field_l_titulo_acad_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_titulo_acad_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_ubi_en_la_lis] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_u_f_s_s] => Array
-                (
-                )
-
-            [field_l_u_f_s_s_2] => Array
-                (
-                )
-
-            [field_l_u_m_por] => Array
-                (
-                )
-
-            [field_l_partido] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 001G000000hb2DUIAY
-                                    [format] => 
-                                    [safe_value] => 001G000000hb2DUIAY
-                                )
-
-                        )
-
-                )
-
-            [field_foto2] => Array
-                (
-                )
-
-            [field_bloque_final] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Frente para la Victoria - PJ
-                                    [format] => 
-                                    [safe_value] => Frente para la Victoria - PJ
-                                )
-
-                        )
-
-                )
-
-            [field_distrtito_final] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Argentina
-                                    [format] => 
-                                    [safe_value] => Argentina
-                                )
-
-                        )
-
-                )
-
-            [field_foto_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Cabandie-Juan.jpg
-                                    [format] => 
-                                    [safe_value] => Cabandie-Juan.jpg
-                                )
-
-                        )
-
-                )
-
-            [field_l_ciudad_legislatura] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Ciudad Autónoma de Buenos Aires
-                                    [format] => 
-                                    [safe_value] => Ciudad Autónoma de Buenos Aires
-                                )
-
-                        )
-
-                )
-
-            [rdf_mapping] => Array
-                (
-                    [rdftype] => Array
-                        (
-                            [0] => sioc:Item
-                            [1] => foaf:Document
-                        )
-
-                    [title] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:title
-                                )
-
-                        )
-
-                    [created] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:date
-                                    [1] => dc:created
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                    [changed] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:modified
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                    [body] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => content:encoded
-                                )
-
-                        )
-
-                    [uid] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:has_creator
-                                )
-
-                            [type] => rel
-                        )
-
-                    [name] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => foaf:name
-                                )
-
-                        )
-
-                    [comment_count] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:num_replies
-                                )
-
-                            [datatype] => xsd:integer
-                        )
-
-                    [last_activity] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:last_activity_date
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                )
-
-            [cid] => 0
-            [last_comment_timestamp] => 1464802353
-            [last_comment_name] => 
-            [last_comment_uid] => 0
-            [comment_count] => 0
-            [name] => 
-            [picture] => 0
-            [data] => 
-            [entity_view_prepared] => 1
-        )
-
-    [nombre_del_legislador] => Juan Cabandié
-    [sexo] => Masculino
-    [id_salesforce_legislador] => 003G000000xDHnwIAG
-    [asesor_de_prensa] => No responde
-    [cantidad_de_hijos] => 2 (dos)
-    [cel_del_asesor_de_prensa] => No responde
-    [comisiones_a_las_que_pertenece] => 4
-    [correo_del_mandato] => jcabandie@hcdn.gob.ar
-    [twitter] => @juancabandie
-    [direccion] => No responde
-    [empleados_a_cargo] => 4
-    [especializacion] => Defensa del Consumidor
-    [especializacion_titulo] => No Responde
-    [especializacion_titulo_2] => No Responde
-    [especializacion_titulo_3] => No Responde
-    [estado_civil] => En convivencia
-    [fecha_de_nacimiento] => 16/03/1978
-    [localidad_de_nacimiento] => Ciudad Autónoma de Buenos Aires
-    [mandato] => No Responde
-    [pagina_web] => www.juancabandie.com.ar
-    [proyectos_presentados] => 3240-D-2018 Declarar de interés social la regularización dominial de los inmuebles registrados en el "Registro Nacional de Barrios Populares   -RENABAP". Modificación de las leyes 20.396, 21.477, 21.890, 23.967 y 24.374. Derogación del Decreto - Ley 22.423.
-3176-D-2018 Declárase al 2019 como "Año del Centenario del nacimiento de Eva Perón."
-    [proyectos] => Array
-        (
-            [0] => 3240-D-2018 Declarar de interés social la regularización dominial de los inmuebles registrados en el "Registro Nacional de Barrios Populares   -RENABAP". Modificación de las leyes 20.396, 21.477, 21.890, 23.967 y 24.374. Derogación del Decreto - Ley 22.423.
-            [1] => 3176-D-2018 Declárase al 2019 como "Año del Centenario del nacimiento de Eva Perón."
-        )
-
-    [proyectos_presentados_new] => <span class="grisimp">3240-D-2018 Declarar de interés social la regularización dominial de los inmuebles registrados en el "Registro Nacional de Barrios Populares   -RENABAP".</span> Modificación de las leyes 20.396, 21.477, 21.890, 23.967 y 24.374. Derogación del Decreto - Ley 22.423.<br><span class="grisimp">3176-D-2018 Declárase al 2019 como "Año del Centenario del nacimiento de Eva Perón.</span>"<br>
-    [val] => 3176-D-2018 Declárase al 2019 como "Año del Centenario del nacimiento de Eva Perón."
-    [key] => 1
-    [secretario_a] => No Responde
-    [telefono_del_secretario] => No Responde
-    [telefono] => (011) 4127-5030
-    [field_l_telefono_en_di] => No responde
-    [titulo_academico] => Maestro
-    [titulo_academico_2] => 
-    [titulo_academico_3] => 
-    [anio_titulo_1] => 2001
-    [anio_titulo_2] => 
-    [anio_titulo_3] => 
-    [institucion_titulo_1] => Instituto de Ciencias y Estudios Aplicados
-    [institucion_titulo_2] => 
-    [institucion_titulo_3] => 
-    [ubicacion_en_la_lista] => No Responde
-    [provincia] => CABA
-    [distrito] => CABA
-    [id_del_partido] => 001G000000hb2DUIAY
-    [foto] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHnw&feoid=00NG0000008HdXa&refid=0EM1L000000Us99" alt="Cabandie, Juan.jpg"></img></p>
-    [cargo_universal] => Diputado Nacional
-    [cargo_segun_sexo] => Diputado Nacional
-    [partido] => Al. Frente Para La Victoria
-    [bloque] => Frente Para la Victoria
-    [lista] => Array
-        (
-            [title] => Alianza Frente para la Victoria
-            [porcentaje_de_votos] => 37,75
-            [cantidad_de_bancas] => 1
-        )
-
-    [conyuge] => Cecilia Segura
-    [provincia_nac] => Ciudad Autónoma de Buenos Aires
-    [comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => Transportes
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => Defensa del Consumidor, del Usuario y de la Competencia
-                    [cargo] => Vice 2
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => Presupuesto y Hacienda
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => Legislación General
-                    [cargo] => Secretario
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => Seguridad Interior
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-        )
-
-    [link_comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => Transportes
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => Defensa del Consumidor, del Usuario y de la Competencia
-                    [cargo] => Vice 2
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => Presupuesto y Hacienda
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => Legislación General
-                    [cargo] => Secretario
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => Seguridad Interior
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-        )
-
-    [ultima_comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [5] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [6] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [7] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [8] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [9] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [10] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [11] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [12] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [13] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [14] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [15] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [16] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [17] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [18] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [19] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [20] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [21] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-        )
-
-    [votacion_nominal] => Array
-        (
-            [0] => Array
-                (
-                    [title] => Ley 27.249 (Ley de pago a los holdouts)
-                    [field_dic_n_pddic] => Ley de pago a los Fondos Buitre
-                    [field_dic_numero] => 
-                    [field_dic_sd_fsd] => 2016-03-31
-                    [voto_del_legislador] => Negativo
-                    [nid] => 95636
-                    [resultado] => Negativo
-                )
-
-            [1] => Array
-                (
-                    [title] => Ley de Emergencia Ocupacional (vetada)
-                    [field_dic_n_pddic] => 
-                    [field_dic_numero] => 
-                    [field_dic_sd_fsd] => 
-                    [voto_del_legislador] => Afirmativo
-                    [nid] => 95637
-                    [resultado] => Afirmativo
-                )
-
-        )
-
-    [equipo_de_trabajo] => Array
-        (
-            [0] => Array
-                (
-                    [nombre] => Hernán
-                    [apellido] => Reibel
-                    [especializacion] => No responde
-                    [estado] => No vigente
-                )
-
-            [1] => Array
-                (
-                    [nombre] => Federico
-                    [apellido] => Granato
-                    [especializacion] => Abogado
-                    [estado] => Vigente
-                )
-
-        )
-
-    [otras_acti_prev_del_legislador] => Array
-        (
-            [Partidaria] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => Secretario Nacional de Juventud Peronista
-                            [tipo_de_acti] => Partidaria
-                            [desde] => 2008
-                            [hasta] => 2012
-                            [otra_orga] => 
-                            [partido_organizacion] => Partido Justicialista
-                            [titulo] => Secretario Nacional de Juventud Peronista
-                        )
-
-                    [1] => Array
-                        (
-                            [cargo] => Secretario de Derechos Humanos
-                            [tipo_de_acti] => Partidaria
-                            [desde] => 2014
-                            [hasta] => 2016
-                            [otra_orga] => 
-                            [partido_organizacion] => Partido Justicialista
-                            [titulo] => Secretario de Derechos Humanos
-                        )
-
-                )
-
-            [Privada] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => Empleado
-                            [tipo_de_acti] => Privada
-                            [desde] => 2002
-                            [hasta] => 2006
-                            [otra_orga] => Telefónica
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => Empleado
-                        )
-
-                    [1] => Array
-                        (
-                            [cargo] => Empleado
-                            [tipo_de_acti] => Privada
-                            [desde] => 2002
-                            [hasta] => 2006
-                            [otra_orga] => Banco Galicia
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => Empleado
-                        )
-
-                    [2] => Array
-                        (
-                            [cargo] => Empleado
-                            [tipo_de_acti] => Privada
-                            [desde] => 2002
-                            [hasta] => 2006
-                            [otra_orga] => TecSystem
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => Empleado
-                        )
-
-                    [3] => Array
-                        (
-                            [cargo] => Docente
-                            [tipo_de_acti] => Privada
-                            [desde] => 2000
-                            [hasta] => 2002
-                            [otra_orga] => 
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => Docente
-                        )
-
-                )
-
-            [Donaciones] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => 
-                            [tipo_de_acti] => Donaciones
-                            [desde] => 
-                            [hasta] => 
-                            [otra_orga] => Abuelas de Plaza de Mayo
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => 
-                        )
-
-                )
-
-        )
-
-    [actividades_previas_del_legislador] => Array
-        (
-            [0] => Array
-                (
-                    [cargo] => Legislador
-                    [organizacion] => 
-                    [mandato] => 2007-2011
-                    [espe_univ] => 
-                    [field_app_ca_un] => Legislador
-                    [field_app_edcu] => 
-                    [field_app_distrito_reference] => CABA
-                    [field_app_dis_mad] => Argentina
-                )
-
-            [1] => Array
-                (
-                    [cargo] => Coordinador
-                    [organizacion] => Ministerio de Desarrollo Social
-                    [mandato] => 2005-2007
-                    [espe_univ] => del Consejo Federal de Juventud
-                    [field_app_ca_un] => Coordinador
-                    [field_app_edcu] => del Consejo Federal de Juventud
-                    [field_app_distrito_reference] => CABA
-                    [field_app_dis_mad] => Argentina
-                )
-
-            [2] => Array
-                (
-                    [cargo] => Legislador
-                    [organizacion] => 
-                    [mandato] => 2011-2015
-                    [espe_univ] => 
-                    [field_app_ca_un] => Legislador
-                    [field_app_edcu] => 
-                    [field_app_distrito_reference] => CABA
-                    [field_app_dis_mad] => Argentina
-                )
-
-            [3] => Array
-                (
-                    [cargo] => Diputado Nacional
-                    [organizacion] => 
-                    [mandato] => 2013-2017
-                    [espe_univ] => 
-                    [field_app_ca_un] => Diputado Nacional
-                    [field_app_edcu] => 
-                    [field_app_distrito_reference] => Argentina
-                    [field_app_dis_mad] => 
-                )
-
-            [4] => Array
-                (
-                    [cargo] => Legislador en la Ciudad de Buenos Aires
-                    [organizacion] => Legislatura de la Ciudad
-                    [mandato] => 2007-2013
-                    [espe_univ] => 
-                    [field_app_ca_un] => Legislador en la Ciudad de Buenos Aires
-                    [field_app_edcu] => 
-                    [field_app_distrito_reference] => CABA
-                    [field_app_dis_mad] => Argentina
-                )
-
-            [5] => Array
-                (
-                    [cargo] => Coordinador
-                    [organizacion] => Consejo Federal de Juventud
-                    [mandato] => 2005-2007
-                    [espe_univ] => 
-                    [field_app_ca_un] => Coordinador
-                    [field_app_edcu] => 
-                    [field_app_distrito_reference] => CABA
-                    [field_app_dis_mad] => Argentina
-                )
-
-        )
-
-    [salario] => Array
-        (
-            [0] => Array
-                (
-                    [salario] => Sueldo bruto: $12.835,50
-                )
-
-            [1] => Array
-                (
-                    [salario] => Sueldo bruto: $22.762,123
-                )
-
-            [2] => Array
-                (
-                    [salario] => Sueldo bruto: $58.417,17 (dieta: $48,417,17 + gastos de representación: $10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
-                )
-
-            [3] => Array
-                (
-                    [salario] => Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).
-                )
-
-        )
-
-    [ultimo_salario] => Array
-        (
-            [salario] => Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).
-        )
-
-    [field_l_direccion] => Callao 86
-    [field_l_piso] => 5°
-    [field_l_ofi] => 506
-    [field_l_ciudad_legislatura] => Ciudad Autónoma de Buenos Aires
-    [field_l_cod_pos] => C1033AAV
-    [img_uri] => Cabandie-Juan.jpg
-    [foto_new] => /sites/default/files/legislador/Cabandie-Juan.jpg
-)
- -->
-
-
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="info text-project">
-              <div class="text">Partido</div>
-              <a href="" class="pull-left">Al. Frente Para La Victoria</a>
-              <div style="clear:both"></div>
-            </div>
-            <div class="info type">
-              <div class="text">Mandato</div>
-              No Responde            </div>
-          </div>
-          <div style="clear:both"></div>
-          <div class="activity text">
-            <ul class="nav nav-tabs">
-              <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
-              <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
-            </ul>
-            <div style="clear:both"></div>
-            <div class="tab-content">
-              <div id="home" class="tab-pane fade in active">
-                <h3 class="title">Especialización:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity specialization">
-                    Defensa del Consumidor                  </li>
-                </ul>
-                <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                                      <div class="info-activity comission">
-                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Transportes                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Defensa del Consumidor, del Usuario y de la Competencia                          </span>
-                                                                        (Vice 2),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Presupuesto y Hacienda                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Legislación General                          </span>
-                                                                        (Secretario),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Seguridad Interior                          </span>
-                                                                        (Vocal).                                          </div>
-                                  </ul>
-                <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity projects">
-                    <span class="grisimp">3240-D-2018 Declarar de interés social la regularización dominial de los inmuebles registrados en el "Registro Nacional de Barrios Populares   -RENABAP".</span> Modificación de las leyes 20.396, 21.477, 21.890, 23.967 y 24.374. Derogación del Decreto - Ley 22.423.<br><span class="grisimp">3176-D-2018 Declárase al 2019 como "Año del Centenario del nacimiento de Eva Perón.</span>"<br>                  </li>
-                </ul>
-                <h3 class="title alone">
-                  Empleados a cargo:
-                  <span class="empleados-a-cargo-item">
-                    4                  </span>
-                </h3>
-                <h3 class="title">Equipo de trabajo:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity employees">
-                                                                                                            Federico Granato <span class='grisimp'>(Abogado)</span>                                                            </li>
-                </ul>
-                <h3 class="title">Resultados electorales:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity ubication">
-                  <div>
-                      <strong class="title">Ubicación en la lista:</strong>
-                      <span class="resultados-electorales-item">
-                        No Responde                      </span>
-                    </div>
-                  </li>
-                  <li class="info-activity seat">
-                  <div>
-                      <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
-                      <span class="resultados-electorales-item">
-                                                  1                                              </span >
-                    </div>
-                  </li>
-                  <li class="info-activity votes">
-                  <div>
-                      <strong class="title">Votos obtenidos:</strong>
-                      <span class="resultados-electorales-item">
-                                                  37,75                                              </span >
-                    </div>
-                  </li>
-                </ul>
-              </div>
-              <div id="menu1" class="tab-pane fade">
-                <ul class="tab-content other-activity" data-id="2">
-                  <div class="other public-activity">
-                    <div class="title">
-                      Actividad pública previa
-                    </div>
-                    <li class="info-activity">
-                                                                        Legislador                                                    <span class="extra-info">
-                            - CABA, Argentina                             (2007-2011)                       <!--       -->
-                          </span>
-                          <br>
-                                                  Coordinador                          del Consejo Federal de Juventud                          <span class="extra-info">
-                            - CABA, Argentina                             (2005-2007)                       <!--      - Ministerio de Desarrollo Social -->
-                          </span>
-                          <br>
-                                                  Legislador                                                    <span class="extra-info">
-                            - CABA, Argentina                             (2011-2015)                       <!--       -->
-                          </span>
-                          <br>
-                                                  Diputado Nacional                                                    <span class="extra-info">
-                            - Argentina                             (2013-2017)                       <!--       -->
-                          </span>
-                          <br>
-                                                  Legislador en la Ciudad de Buenos Aires                                                    <span class="extra-info">
-                            - CABA, Argentina                             (2007-2013)                       <!--      - Legislatura de la Ciudad -->
-                          </span>
-                          <br>
-                                                  Coordinador                                                    <span class="extra-info">
-                            - CABA, Argentina                             (2005-2007)                       <!--      - Consejo Federal de Juventud -->
-                          </span>
-                          <br>
-                                                                  </li>
-                  </div>
-                  <div class="other private-activity">
-                                                                                          <div class="title">Partidaria </div>
-                        <li class="info-activity">
-                                                                                                                Secretario Nacional de Juventud Peronista                              <span class="grisimp">
-                                - Partido Justicialista                                (2008-2012)                              </span>
-                              <br>
-                                                                                                                                            Secretario de Derechos Humanos                              <span class="grisimp">
-                                - Partido Justicialista                                (2014-2016)                              </span>
-                              <br>
-                                                                              </li>
-                                                                                                                <div class="title">Privada </div>
-                        <li class="info-activity">
-                                                                                                                Empleado                              <span class="grisimp">
-                                - Telefónica                                (2002-2006)                              </span>
-                              <br>
-                                                                                                                                            Empleado                              <span class="grisimp">
-                                - Banco Galicia                                (2002-2006)                              </span>
-                              <br>
-                                                                                                                                            Empleado                              <span class="grisimp">
-                                - TecSystem                                (2002-2006)                              </span>
-                              <br>
-                                                                                                                                            Docente                              <span class="grisimp">
-                                                                (2000-2002)                              </span>
-                              <br>
-                                                                              </li>
-                                                                                                                <div class="title">Donaciones </div>
-                        <li class="info-activity">
-                                                                                                                Abuelas de Plaza de Mayo                                                            <br>
-                                                                              </li>
-                                                              <div class="other ingr-activity">
-                      <div class="title">Ingresos brutos</div>
-                      <li class="info-activity">
-                        Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).                      </li>
-                    </div>
-                  </div>
-                </ul>
-              </div>
-            </div>
-            <div class="nominal">
-                            <div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
-                                            <div class="votacion">
-                  <div class="recinto">
-                                          <img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
-                                        <span class="nuestro-legislador voto-negativo"></span>
-                  </div>
-                  <div class="law">
-                   <p></p>
-                    <p>Ley 27.249 (Ley de pago a los holdouts)</p>
-                    <p class="voto-negativo">Negativo</p>
-                  <div style="clear:both"></div>
-                  </div>
-                </div>
-                            <div class="votacion">
-                  <div class="recinto">
-                    
-                      <img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-                                        <span class="nuestro-legislador voto-afirmativo"></span>
-                  </div>
-                  <div class="law">
-                   <p></p>
-                    <p>Ley de Emergencia Ocupacional (vetada)</p>
-                    <p class="voto-afirmativo">Afirmativo</p>
-                  <div style="clear:both"></div>
-                  </div>
-                </div>
-                        <div style="clear:both"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-3 bloque_derecha relations relations-projects">
-    <div class="title">¿Cómo comunicarse?</div>
-    <div class="border"></div>
-    <ul class="data place">
-      <li class="name-place">En el Congreso de la Nación</li>
-      <li class="address">
-        Callao 86      </li>
-      <li class="zone">
-        5°        piso, of.
-        506,
-        Ciudad Autónoma de Buenos Aires        (C1033AAV)
-      </li>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-phone"></i> Teléfono
-      </li>
-      <li class="tel-number">
-                  (011) 4127-5030              </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-link"></i>&nbsp; Sitio Web
-      </li>
-      <li class="tel-number">
-                  <a href="http://www.juancabandie.com.ar" target="_blank">www.juancabandie.com.ar</a>
-              </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data email" style="padding: 0px 0px 0px 0px;" >
-      <li class="title" >
-        <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
-      </li>
-      <li class="mail">
-                  <a class="mail_especial" href="mailto:jcabandie@hcdn.gob.ar">jcabandie@hcdn.gob.ar</a>
-              </li>
-       <div style="clear:both"></div>
-    </ul>
-    <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-user"></i> Secretario/a
-      </li>
-      <li class="name-secretary">No Responde</li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data advisory"  style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
-      </li>
-      <li class="advisory-number">
-                  <span class="asesordeprensa">No Responde</span>
-        
-      </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data secretary"  style="padding: 0px 0px 0px 0px;">
-
-      <li class="title">En su distrito</li>
-      <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
-      <li class="advisory-number">No responde</li>
-      <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
-      <li class="advisory-number">No responde</li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-
-      <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
-      <li class="tel-number" style="text-transform:lowercase !important;">
-                  <a href="https://twitter.com/@juancabandie" target="_blank">
-          @juancabandie<a class="twitter-timeline"
-            href="https://twitter.com/juancabandie"
-            data-widget-id="735728825129046016"
-            data-screen-name="juancabandie">
-            Tweets by @juancabandie</a>
-            <script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>      </a>
-    </li>
-    <div style="clear:both"></div>
-  </ul>
+CABA 
+</div>
+</div>
+<div class="col-lg-6">
+<div class="info text-project">
+<div class="text">Partido</div>
+<a href="" class="pull-left">Al. Frente Para La Victoria</a>
+<div style="clear:both"></div>
+</div>
+<div class="info type">
+<div class="text">Mandato</div>
+2017-2021 </div>
+</div>
+<div style="clear:both"></div>
+<div class="activity text">
+<ul class="nav nav-tabs">
+<li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
+<li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
+</ul>
+<div style="clear:both"></div>
+<div class="tab-content">
+<div id="home" class="tab-pane fade in active">
+<h3 class="title">Especialización:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity specialization">
+Defensa del Consumidor </li>
+</ul>
+<h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<div class="info-activity comission">
+<span class="titlenombrecomision comisiones nombrecomision"> 
+Transportes </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Transportes </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Defensa del Consumidor, del Usuario y de la Competencia </span>
+(Vice 2), <span class="titlenombrecomision comisiones nombrecomision">
+Presupuesto y Hacienda </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Legislación General </span>
+(Secretario), <span class="titlenombrecomision comisiones nombrecomision">
+Seguridad Interior </span>
+(Vocal). </div>
+</ul>
+<h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity projects">
+<span class="grisimp">1836-D-2018.</span> Defensa del consumidor - Ley 24240 -. Incorporación de los art. 1 BIS y 47 bis, sobre consumidor<br><span class="grisimp">.</span><br><span class="grisimp">exp.</span> 5288-D-16).<br><span class="grisimp">1835-D-2018.</span> Protección de locaciones urbanas con destino a vivienda única y de habitación permanente. Régimen (Reproducción del exp. 0408-D-16).<br> </li>
+</ul>
+<h3 class="title alone">
+Empleados a cargo:
+<span class="empleados-a-cargo-item">
+4 </span>
+</h3>
+<h3 class="title">Equipo de trabajo:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity employees">
+Federico Granato <span class='grisimp'>(Abogado)</span>
+</li>
+</ul>
+<h3 class="title">Resultados electorales:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity ubication">
+<div>
+<strong class="title">Ubicación en la lista:</strong>
+<span class="resultados-electorales-item">
+3 </span>
+</div>
+</li>
+<li class="info-activity seat">
+<div>
+<strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
+<span class="resultados-electorales-item">
+ 3 </span >
+</div>
+</li>
+<li class="info-activity votes">
+<div>
+<strong class="title">Votos obtenidos:</strong>
+<span class="resultados-electorales-item">
+0,2136 </span >
+</div>
+</li>
+</ul>
+</div>
+<div id="menu1" class="tab-pane fade">
+<ul class="tab-content other-activity" data-id="2">
+<div class="other public-activity">
+<div class="title">
+Actividad pública previa
+</div>
+<li class="info-activity">
+Legislador <span class="extra-info">
+(2007-2011)
+- CABA, Argentina </span>
+<br>
+Coordinador del Consejo Federal de Juventud <span class="extra-info">
+(2005-2007)
+- Ministerio de Desarrollo Social - CABA, Argentina </span>
+<br>
+Legislador <span class="extra-info">
+(2011-2015)
+- CABA, Argentina </span>
+<br>
+Diputado Nacional por CABA <span class="extra-info">
+(2013-2017)
+- Argentina </span>
+<br>
+Coordinador <span class="extra-info">
+(2005-2007)
+- Consejo Federal de Juventud - CABA, Argentina </span>
+<br>
+</li>
+</div>
+<div class="other private-activity">
+
+<div class="title">Partidaria </div>
+<li class="info-activity">
+Secretario Nacional de Juventud Peronista  <span class="grisimp">
+- Partido Justicialista
+(2008 - 2012)
+</span>
+<br>
+Secretario de Derechos Humanos <span class="grisimp">
+- Partido Justicialista
+(2014 - 2016)
+</span>
+<br>
+</li>
+
+<div class="title">Privada </div>
+<li class="info-activity">
+Empleado <span class="grisimp">
+- Telefónica
+(2002 - 2006)
+</span>
+<br>
+Empleado <span class="grisimp">
+- Banco Galicia
+(2002 - 2006)
+</span>
+<br>
+Empleado <span class="grisimp">
+- TecSystem
+(2002 - 2006)
+</span>
+<br>
+Docente <span class="grisimp">
+(2000 - 2002)
+</span>
+<br>
+ </li>
+
+<div class="title">Donaciones </div>
+<li class="info-activity">
+No responde <br>
+</li>
+<div class="other ingr-activity">
+<div class="title">Ingresos brutos</div>
+<li class="info-activity">
+Sueldo bruto: $162.600,86 (dieta: $142.600,86 + gastos de representación: $20.000) + la opción elegida para el régimen de pasajes según resolución 487/2018 </li>
+</div>
+</div>
+</ul>
+</div>
+</div>
+<div class="nominal">
+<div style="clear:both"></div>
 </div>
 </div>
 </div>
-
+</div>
+</div>
+<div class="col-md-3 bloque_derecha relations relations-projects">
+<div class="title">¿Cómo comunicarse?</div>
+<div class="border"></div>
+<ul class="data place">
+<li class="name-place">En el Congreso de la Nación</li>
+<li class="address">
+Callao 86 </li>
+<li class="zone">
+5° piso, of.
+506,
+Ciudad Autónoma de Buenos Aires (C1033AAV)
+</li>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-phone"></i> Teléfono
+</li>
+<li class="tel-number">
+(011) 4127-5030 </li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-link"></i>&nbsp; Sitio Web
+</li>
+<li class="tel-number">
+<a href="http://www.juancabandie.com.ar" target="_blank">www.juancabandie.com.ar</a>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data email" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
+</li>
+<li class="mail">
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#6e040d0f0c0f000a070b2e060d0a004009010c400f1c"><span class="__cf_email__" data-cfemail="7e141d1f1c1f101a171b3e161d1a105019111c501f0c">[email&#160;protected]</span></a>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-user"></i> Secretario/a
+</li>
+<li class="name-secretary">No responde</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data advisory" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
+</li>
+<li class="advisory-number">
+<span class="asesordeprensa">No Responde</span>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+<li class="title">En su distrito</li>
+<li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
+<li class="advisory-number">No responde</li>
+<li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
+<li class="advisory-number">No responde</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
+<li class="tel-number" style="text-transform:lowercase !important;">
+<a href="https://twitter.com/@juancabandie" target="_blank">
+@juancabandie<a class="twitter-timeline" href="https://twitter.com/juancabandie" data-widget-id="735728825129046016" data-screen-name="juancabandie">
+Tweets by @juancabandie</a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+</li>
+<div style="clear:both"></div>
+</ul>
+</div>
+</div>
+</div>
 </section>
-  </div>
-    </section>
-
-    
-  </div>
 </div>
-
-  <footer class="footer container">
-          <div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
-            <div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
-                2011 Fundación Directorio Legislativo
-            </div>
-            <div class="text-copy">
-              Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A. 
-            </div>
-            <div class="text-copy">
-              Tel: 5411-52184647/5411-52364293.
-            </div>
-            <div class="text-copy">
-              TODOS LOS DERECHOS RESERVADOS.
-            </div>
-          </div>
-
-
-
-          <div class="col-lg-3 copyright pull-right">
-
-  <span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
-  <span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
-  <span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
-  <span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
-  <span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
-
-          </div>
-          <div style="clear:both"></div>
-  </footer>
-
-
-
-
-
-
-</div>    <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</section>
+</div>
+</div>
+<footer class="footer container">
+<div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
+<div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
+2011 Fundación Directorio Legislativo
+</div>
+<div class="text-copy">
+Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A.
+</div>
+<div class="text-copy">
+Tel: 5411-52184647/5411-52364293.
+</div>
+<div class="text-copy">
+TODOS LOS DERECHOS RESERVADOS.
+</div>
+</div>
+<div class="col-lg-3 copyright pull-right">
+<span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
+<span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
+<span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
+<span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
+<span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
+</div>
+<div style="clear:both"></div>
+</footer>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

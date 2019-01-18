@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Eduardo Raúl Costa | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"Wl62GB0Q0s2tH_ZrVJuGYB1XySiADx1kQEPa8yptl9M","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"i6elNkwRkAPJbyyVdpS5LzkPqdn38sPX9mg0qjrsnOw","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92559 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 27/08/1961 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Río Gallegos, Santa Cruz </li>
+Río Gallegos , Santa Cruz </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Mariana Zuvic </li>
+Casado , Santa Cruz
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
@@ -144,14 +145,8 @@ Casado con Mariana Zuvic </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Contador Público Nacional </li>
-<li>
-Lic. en Administarción de Empresas (Universidad de Belgrano, 1985)
-</li>
-<li>
-Licenciado (Universidad de Belgrano, 1985)
-</li>
-</ul>
+1985: Contador Público Nacional <span style="text-transform: capitalize;">(Universidad de Belgrano)</span> </li>
+<li>1985: Licenciado en Administración de Empresas <span style="text-transform: capitalize;">(Universidad de Belgrano)</span></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -163,2202 +158,275 @@ Licenciado (Universidad de Belgrano, 1985)
 <div class="name">
 Eduardo Raúl Costa </div>
 <div class="position">
-No Responde </div>
+Senador Nacional </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-No hay un bloque asignado </div>
+Unión Cívica Radical </div>
 <div class="info status">
 <div class="text">Distrito</div>
-<!-- Legislador Object
-(
-    [undefined_values] => Array
-        (
-            [0] => no hay un partido asignado
-            [1] => no tiene
-            [2] => no hay datos
-        )
-
-    [no_data_string] => No Responde
-    [node] => stdClass Object
-        (
-            [vid] => 92559
-            [uid] => 0
-            [title] => Eduardo Raúl Costa
-            [log] => 
-            [status] => 1
-            [comment] => 2
-            [promote] => 1
-            [sticky] => 0
-            [nid] => 92559
-            [type] => legislador
-            [language] => und
-            [created] => 1464802553
-            [changed] => 1530738720
-            [tnid] => 0
-            [translate] => 0
-            [revision_timestamp] => 1530738720
-            [revision_uid] => 0
-            [field_bloque_id_sa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 003G000000xDHraIAG
-                                    [format] => 
-                                    [safe_value] => 003G000000xDHraIAG
-                                )
-
-                        )
-
-                )
-
-            [field_bloque_related] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_cobra_desarraigo] => Array
-                (
-                )
-
-            [field_l_contesto_la_ficha] => Array
-                (
-                )
-
-            [field_l_anio] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 1984
-                                    [format] => 
-                                    [safe_value] => 1984
-                                )
-
-                        )
-
-                )
-
-            [field_l_anio_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 1985
-                                    [format] => 
-                                    [safe_value] => 1985
-                                )
-
-                        )
-
-                )
-
-            [field_l_anio_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 1985
-                                    [format] => 
-                                    [safe_value] => 1985
-                                )
-
-                        )
-
-                )
-
-            [field_l_asesor_de_prensa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Tarek Ibrahim Hallar
-                                    [format] => 
-                                    [safe_value] => Tarek Ibrahim Hallar
-                                )
-
-                        )
-
-                )
-
-            [field_l_asesor_de_prensa_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_bloque_comentarios] => Array
-                (
-                )
-
-            [field_l_bloque_estado] => Array
-                (
-                )
-
-            [field_l_fecha_alta] => Array
-                (
-                )
-
-            [field_l_fecha_baja] => Array
-                (
-                )
-
-            [field_l_camara] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_cantidad_de_hi] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 2 (dos)
-                                    [format] => 
-                                    [safe_value] => 2 (dos)
-                                )
-
-                        )
-
-                )
-
-            [field_l_cargo_del_c] => Array
-                (
-                )
-
-            [field_l_cargo_segun_s] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_cargo_universal] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_cel_del_a_de_p] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (02966) 156-28028
-                                    [format] => 
-                                    [safe_value] => (02966) 156-28028
-                                )
-
-                        )
-
-                )
-
-            [field_l_cel_del_leg] => Array
-                (
-                )
-
-            [field_l_cel_del_sec] => Array
-                (
-                )
-
-            [field_l_cel_personal] => Array
-                (
-                )
-
-            [field_l_clasi_del_co] => Array
-                (
-                )
-
-            [field_l_clave_de_data] => Array
-                (
-                )
-
-            [field_l_cod_pos] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => C1033AAI
-                                    [format] => 
-                                    [safe_value] => C1033AAI
-                                )
-
-                        )
-
-                )
-
-            [field_l_com_a_las_pert] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 9
-                                    [format] => 
-                                    [safe_value] => 9
-                                )
-
-                        )
-
-                )
-
-            [field_l_corr_e_alte] => Array
-                (
-                )
-
-            [field_l_corr_de_se] => Array
-                (
-                )
-
-            [field_l_corr_de_as_pr] => Array
-                (
-                )
-
-            [field_l_corr_del_man] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => eduardo.costa@senado.gob.ar
-                                    [format] => 
-                                    [safe_value] => eduardo.costa@senado.gob.ar
-                                )
-
-                        )
-
-                )
-
-            [field_l_corr_el_pe] => Array
-                (
-                )
-
-            [field_l_cre_por] => Array
-                (
-                )
-
-            [field_l_c_de_t] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => @EduardoCostaSC
-                                    [format] => 
-                                    [safe_value] => @EduardoCostaSC
-                                )
-
-                        )
-
-                )
-
-            [field_l_departamento] => Array
-                (
-                )
-
-            [field_l_descripcion] => Array
-                (
-                )
-
-            [field_l_direccion] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Hipólito Yrigoyen 1708
-                                    [format] => 
-                                    [safe_value] => Hipólito Yrigoyen 1708
-                                )
-
-                        )
-
-                )
-
-            [field_l_direccion_2] => Array
-                (
-                )
-
-            [field_l_direccion_de_c] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Av. San Martín 1090 1°
-                                    [format] => 
-                                    [safe_value] => Av. San Martín 1090 1°
-                                )
-
-                        )
-
-                )
-
-            [field_l_distrito] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_dni] => Array
-                (
-                )
-
-            [field_l_edad] => Array
-                (
-                )
-
-            [field_l_eje_t] => Array
-                (
-                )
-
-            [field_l_email_2] => Array
-                (
-                )
-
-            [field_l_email_per] => Array
-                (
-                )
-
-            [field_l_emp_a_car] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => No responde
-                                    [format] => 
-                                    [safe_value] => No responde
-                                )
-
-                        )
-
-                )
-
-            [field_l_esp] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Energía;Turismo;Desarrollo Local
-                                    [format] => 
-                                    [safe_value] => Energía;Turismo;Desarrollo Local
-                                )
-
-                        )
-
-                )
-
-            [field_l_esp_de_ti_aca] => Array
-                (
-                )
-
-            [field_l_esp_de_ti_aca_2] => Array
-                (
-                )
-
-            [field_l_esp_de_ti_aca_3] => Array
-                (
-                )
-
-            [field_l_esp_de_ca_un] => Array
-                (
-                )
-
-            [field_l_est_civil] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Casado
-                                    [format] => 
-                                    [safe_value] => Casado
-                                )
-
-                        )
-
-                )
-
-            [field_l_est_cont_ge] => Array
-                (
-                )
-
-            [field_l_est_del_ing] => Array
-                (
-                )
-
-            [field_l_est_del_man] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_fax] => Array
-                (
-                )
-
-            [field_l_f_eg] => Array
-                (
-                )
-
-            [field_l_f_in] => Array
-                (
-                )
-
-            [field_l_fecha_de_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 1961-08-27
-                                    [format] => 
-                                    [safe_value] => 1961-08-27
-                                )
-
-                        )
-
-                )
-
-            [field_l_form_dire] => Array
-                (
-                )
-
-            [field_l_foto] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHra&amp;feoid=00NG0000008HdXa&amp;refid=0EM1L000000Us2m" alt="Costa Eduardo Raul.png"></img></p>
-                                    [format] => 
-                                    [safe_value] => &lt;p&gt;&lt;img src=&quot;https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHra&amp;amp;feoid=00NG0000008HdXa&amp;amp;refid=0EM1L000000Us2m&quot; alt=&quot;Costa Eduardo Raul.png&quot;&gt;&lt;/img&gt;&lt;/p&gt;
-                                )
-
-                        )
-
-                )
-
-            [field_l_in_fe_ba] => Array
-                (
-                )
-
-            [field_l_in_fe_in] => Array
-                (
-                )
-
-            [field_l_in_tran] => Array
-                (
-                )
-
-            [field_l_inst] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Universidad de Belgrano
-                                    [format] => 
-                                    [safe_value] => Universidad de Belgrano
-                                )
-
-                        )
-
-                )
-
-            [field_l_inst_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Universidad de Belgrano
-                                    [format] => 
-                                    [safe_value] => Universidad de Belgrano
-                                )
-
-                        )
-
-                )
-
-            [field_l_inst_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Universidad de Belgrano
-                                    [format] => 
-                                    [safe_value] => Universidad de Belgrano
-                                )
-
-                        )
-
-                )
-
-            [field_l_int_esp_fdl] => Array
-                (
-                )
-
-            [field_l_link_dl_on] => Array
-                (
-                )
-
-            [field_l_lista] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_loc_de_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Río Gallegos
-                                    [format] => 
-                                    [safe_value] => Río Gallegos
-                                )
-
-                        )
-
-                )
-
-            [field_l_mandato] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_mc_subs] => Array
-                (
-                )
-
-            [field_l_niv_de_gob] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_no_ll] => Array
-                (
-                )
-
-            [field_l_nombre] => Array
-                (
-                )
-
-            [field_l_nombre_cuenta] => Array
-                (
-                )
-
-            [field_l_nombre_conyuge] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Mariana Zuvic
-                                    [format] => 
-                                    [safe_value] => Mariana Zuvic
-                                )
-
-                        )
-
-                )
-
-            [field_l_n_r_c_e] => Array
-                (
-                )
-
-            [field_l_n_r_f] => Array
-                (
-                )
-
-            [field_l_num_con] => Array
-                (
-                )
-
-            [field_l_num_lis] => Array
-                (
-                )
-
-            [field_l_ofi] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 402
-                                    [format] => 
-                                    [safe_value] => 402
-                                )
-
-                        )
-
-                )
-
-            [field_l_ori_del_can] => Array
-                (
-                )
-
-            [field_l_otros] => Array
-                (
-                )
-
-            [field_l_pag_web] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => www.costagobernador.com.ar
-                                    [format] => 
-                                    [safe_value] => www.costagobernador.com.ar
-                                )
-
-                        )
-
-                )
-
-            [field_l_pai_de_nac] => Array
-                (
-                )
-
-            [field_l_piso] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 4°
-                                    [format] => 
-                                    [safe_value] => 4°
-                                )
-
-                        )
-
-                )
-
-            [field_l_pro_del_con] => Array
-                (
-                )
-
-            [field_l_provincia] => Array
-                (
-                )
-
-            [field_l_provincia_leg_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_provincia_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Santa Cruz
-                                    [format] => 
-                                    [safe_value] => Santa Cruz
-                                )
-
-                        )
-
-                )
-
-            [field_l_pro_pre] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => "Reducción del IVA en alimentos" ,  "Programa primer Empleo" , "Acceso gratuito y universal a Internet", Creación en el ámbito del congreso de la "Comisión Bicameral Investigadora de los posibles hechos ilícitos cometidos por el directorio del Banco Central de la República Argentina"
-                                    [format] => 
-                                    [safe_value] => &quot;Reducción del IVA en alimentos&quot; ,  &quot;Programa primer Empleo&quot; , &quot;Acceso gratuito y universal a Internet&quot;, Creación en el ámbito del congreso de la &quot;Comisión Bicameral Investigadora de los posibles hechos ilícitos cometidos por el directorio del Banco Central de la República Argentina&quot;
-                                )
-
-                        )
-
-                )
-
-            [field_l_razo_de_ingr] => Array
-                (
-                )
-
-            [field_l_razo_de_inte] => Array
-                (
-                )
-
-            [field_l_sala_legi] => Array
-                (
-                )
-
-            [field_l_secc_depa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_ayudante] => Array
-                (
-                )
-
-            [field_l_secretario_a] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Lucía Liébana
-                                    [format] => 
-                                    [safe_value] => Lucía Liébana
-                                )
-
-                        )
-
-                )
-
-            [field_l_sexo] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Masculino
-                                    [format] => 
-                                    [safe_value] => Masculino
-                                )
-
-                        )
-
-                )
-
-            [field_l_survey] => Array
-                (
-                )
-
-            [field_l_telefono] => Array
-                (
-                )
-
-            [field_l_telefono_int] => Array
-                (
-                )
-
-            [field_l_telefono_del_s] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (03388) 15-459-117
-                                    [format] => 
-                                    [safe_value] => (03388) 15-459-117
-                                )
-
-                        )
-
-                )
-
-            [field_l_telefono_d] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (011) 2822-5436
-                                    [format] => 
-                                    [safe_value] => (011) 2822-5436
-                                )
-
-                        )
-
-                )
-
-            [field_l_telefono_en_di] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (02966) 424-557
-                                    [format] => 
-                                    [safe_value] => (02966) 424-557
-                                )
-
-                        )
-
-                )
-
-            [field_l_regi_de_cont] => Array
-                (
-                )
-
-            [field_l_titulo] => Array
-                (
-                )
-
-            [field_l_titulo_acad] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Contador Público Nacional
-                                    [format] => 
-                                    [safe_value] => Contador Público Nacional
-                                )
-
-                        )
-
-                )
-
-            [field_l_titulo_acad_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Lic. en Administarción de Empresas
-                                    [format] => 
-                                    [safe_value] => Lic. en Administarción de Empresas
-                                )
-
-                        )
-
-                )
-
-            [field_l_titulo_acad_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Licenciado
-                                    [format] => 
-                                    [safe_value] => Licenciado
-                                )
-
-                        )
-
-                )
-
-            [field_l_ubi_en_la_lis] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_u_f_s_s] => Array
-                (
-                )
-
-            [field_l_u_f_s_s_2] => Array
-                (
-                )
-
-            [field_l_u_m_por] => Array
-                (
-                )
-
-            [field_l_partido] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 001G000000hb2DaIAI
-                                    [format] => 
-                                    [safe_value] => 001G000000hb2DaIAI
-                                )
-
-                        )
-
-                )
-
-            [field_foto2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [fid] => 170
-                                    [uid] => 184
-                                    [filename] => Costa, Eduardo.png
-                                    [uri] => public://Costa, Eduardo.png
-                                    [filemime] => image/png
-                                    [filesize] => 204638
-                                    [status] => 1
-                                    [timestamp] => 1527529032
-                                    [rdf_mapping] => Array
-                                        (
-                                        )
-
-                                    [alt] => 
-                                    [title] => 
-                                    [width] => 443
-                                    [height] => 443
-                                )
-
-                        )
-
-                )
-
-            [field_bloque_final] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Unión Cívica Radical
-                                    [format] => 
-                                    [safe_value] => Unión Cívica Radical
-                                )
-
-                        )
-
-                )
-
-            [field_distrtito_final] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Argentina
-                                    [format] => 
-                                    [safe_value] => Argentina
-                                )
-
-                        )
-
-                )
-
-            [field_foto_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Costa-EduardoRaul.jpg
-                                    [format] => 
-                                    [safe_value] => Costa-EduardoRaul.jpg
-                                )
-
-                        )
-
-                )
-
-            [field_l_ciudad_legislatura] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Ciudad Autónoma de Buenos Aires
-                                    [format] => 
-                                    [safe_value] => Ciudad Autónoma de Buenos Aires
-                                )
-
-                        )
-
-                )
-
-            [rdf_mapping] => Array
-                (
-                    [rdftype] => Array
-                        (
-                            [0] => sioc:Item
-                            [1] => foaf:Document
-                        )
-
-                    [title] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:title
-                                )
-
-                        )
-
-                    [created] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:date
-                                    [1] => dc:created
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                    [changed] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:modified
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                    [body] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => content:encoded
-                                )
-
-                        )
-
-                    [uid] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:has_creator
-                                )
-
-                            [type] => rel
-                        )
-
-                    [name] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => foaf:name
-                                )
-
-                        )
-
-                    [comment_count] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:num_replies
-                                )
-
-                            [datatype] => xsd:integer
-                        )
-
-                    [last_activity] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:last_activity_date
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                )
-
-            [cid] => 0
-            [last_comment_timestamp] => 1464802553
-            [last_comment_name] => 
-            [last_comment_uid] => 0
-            [comment_count] => 0
-            [name] => 
-            [picture] => 0
-            [data] => 
-            [entity_view_prepared] => 1
-        )
-
-    [nombre_del_legislador] => Eduardo Raúl Costa
-    [sexo] => Masculino
-    [id_salesforce_legislador] => 003G000000xDHraIAG
-    [asesor_de_prensa] => Tarek Ibrahim Hallar
-    [cantidad_de_hijos] => 2 (dos)
-    [cel_del_asesor_de_prensa] => (02966) 156-28028
-    [comisiones_a_las_que_pertenece] => 9
-    [correo_del_mandato] => eduardo.costa@senado.gob.ar
-    [twitter] => @EduardoCostaSC
-    [direccion] => Av. San Martín 1090 1°
-    [empleados_a_cargo] => No responde
-    [especializacion] => Energía; Turismo; Desarrollo Local
-    [especializacion_titulo] => No Responde
-    [especializacion_titulo_2] => No Responde
-    [especializacion_titulo_3] => No Responde
-    [estado_civil] => Casado
-    [fecha_de_nacimiento] => 27/08/1961
-    [localidad_de_nacimiento] => Río Gallegos
-    [mandato] => No Responde
-    [pagina_web] => www.costagobernador.com.ar
-    [proyectos_presentados] => "Reducción del IVA en alimentos" ,  "Programa primer Empleo" , "Acceso gratuito y universal a Internet", Creación en el ámbito del congreso de la "Comisión Bicameral Investigadora de los posibles hechos ilícitos cometidos por el directorio del Banco Central de la República Argentina"
-    [proyectos] => Array
-        (
-            [0] => "Reducción del IVA en alimentos" ,  "Programa primer Empleo" , "Acceso gratuito y universal a Internet", Creación en el ámbito del congreso de la "Comisión Bicameral Investigadora de los posibles hechos ilícitos cometidos por el directorio del Banco Central de la República Argentina"
-        )
-
-    [proyectos_presentados_new] => <span class="grisimp">.</span><br>
-    [val] => "Reducción del IVA en alimentos" ,  "Programa primer Empleo" , "Acceso gratuito y universal a Internet", Creación en el ámbito del congreso de la "Comisión Bicameral Investigadora de los posibles hechos ilícitos cometidos por el directorio del Banco Central de la República Argentina"
-    [key] => 0
-    [secretario_a] => Lucía Liébana
-    [telefono_del_secretario] => (03388) 15-459-117
-    [telefono] => (011) 2822-5436
-    [field_l_telefono_en_di] => (02966) 424-557
-    [titulo_academico] => Contador Público Nacional
-    [titulo_academico_2] => Lic. en Administarción de Empresas
-    [titulo_academico_3] => Licenciado
-    [anio_titulo_1] => 1984
-    [anio_titulo_2] => 1985
-    [anio_titulo_3] => 1985
-    [institucion_titulo_1] => Universidad de Belgrano
-    [institucion_titulo_2] => Universidad de Belgrano
-    [institucion_titulo_3] => Universidad de Belgrano
-    [ubicacion_en_la_lista] => No Responde
-    [provincia] => 
-    [distrito] => 
-    [id_del_partido] => 001G000000hb2DaIAI
-    [foto] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000000xDHra&feoid=00NG0000008HdXa&refid=0EM1L000000Us2m" alt="Costa Eduardo Raul.png"></img></p>
-    [cargo_universal] => No Responde
-    [cargo_segun_sexo] => No Responde
-    [partido] => Al. Fte. Cambiemos Para Crecer
-    [bloque] => No hay un bloque asignado
-    [lista] => Array
-        (
-            [title] => No hay una lista asignada
-            [porcentaje_de_votos] => No hay una lista asignada
-            [cantidad_de_bancas] => No hay una lista asignada
-        )
-
-    [conyuge] => Mariana Zuvic
-    [provincia_nac] => Santa Cruz
-    [comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => Asuntos Administrativos y Municipales
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => Economía Nacional e Inversión
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => Industria y Comercio
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => Minería, Energía y Combustibles
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => Infraestructura, Vivienda y Transporte
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [5] => Array
-                (
-                    [nombre_de_la_comision] => Coparticipación Federal de Impuestos
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [6] => Array
-                (
-                    [nombre_de_la_comision] => Turismo
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [7] => Array
-                (
-                    [nombre_de_la_comision] => Bicameral permanente de promoción y seguimiento de la comunicación audiovisual
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [8] => Array
-                (
-                    [nombre_de_la_comision] => Administradora de la Biblioteca del Congreso de la Nación
-                    [cargo] => Miembro
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-        )
-
-    [link_comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => Asuntos Administrativos y Municipales
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => Economía Nacional e Inversión
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => Industria y Comercio
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => Minería, Energía y Combustibles
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => Infraestructura, Vivienda y Transporte
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [5] => Array
-                (
-                    [nombre_de_la_comision] => Coparticipación Federal de Impuestos
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [6] => Array
-                (
-                    [nombre_de_la_comision] => Turismo
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [7] => Array
-                (
-                    [nombre_de_la_comision] => Bicameral permanente de promoción y seguimiento de la comunicación audiovisual
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [8] => Array
-                (
-                    [nombre_de_la_comision] => Administradora de la Biblioteca del Congreso de la Nación
-                    [cargo] => Miembro
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-        )
-
-    [ultima_comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [5] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [6] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [7] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [8] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [9] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [10] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [11] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [12] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [13] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [14] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [15] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [16] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [17] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [18] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [19] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [20] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [21] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [22] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [23] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [24] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [25] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [26] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [27] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-        )
-
-    [votacion_nominal] => Array
-        (
-            [0] => Array
-                (
-                    [title] => Ley 27.249 (Ley de pago a los holdouts)
-                    [field_dic_n_pddic] => Ley de pago a los Fondos Buitre
-                    [field_dic_numero] => 
-                    [field_dic_sd_fsd] => 2016-03-31
-                    [voto_del_legislador] => Afirmativo
-                    [nid] => 95636
-                    [resultado] => Afirmativo
-                )
-
-            [1] => Array
-                (
-                    [title] => Ley de Emergencia Ocupacional (vetada)
-                    [field_dic_n_pddic] => 
-                    [field_dic_numero] => 
-                    [field_dic_sd_fsd] => 
-                    [voto_del_legislador] => AUSENTE
-                    [nid] => 95637
-                    [resultado] => Abstención
-                )
-
-        )
-
-    [equipo_de_trabajo] => Array
-        (
-            [0] => Array
-                (
-                    [nombre] => Jorge
-                    [apellido] => Freidenberger
-                    [especializacion] => PyMEs
-                    [estado] => No vigente
-                )
-
-            [1] => Array
-                (
-                    [nombre] => Lafuente
-                    [apellido] => Horacio
-                    [especializacion] => Economía
-                    [estado] => No vigente
-                )
-
-            [2] => Array
-                (
-                    [nombre] => Yanina
-                    [apellido] => Gribaudo
-                    [especializacion] => Secretaria privada
-                    [estado] => 
-                )
-
-            [3] => Array
-                (
-                    [nombre] => Luis
-                    [apellido] => Saez
-                    [especializacion] => 
-                    [estado] => No vigente
-                )
-
-            [4] => Array
-                (
-                    [nombre] => Lucia María
-                    [apellido] => Liébana
-                    [especializacion] => Asesora
-                    [estado] => Vigente
-                )
-
-            [5] => Array
-                (
-                    [nombre] => Alan
-                    [apellido] => Fernandez
-                    [especializacion] => Asesor
-                    [estado] => Vigente
-                )
-
-            [6] => Array
-                (
-                    [nombre] => Violeta
-                    [apellido] => Soto
-                    [especializacion] => 
-                    [estado] => Vigente
-                )
-
-            [7] => Array
-                (
-                    [nombre] => Tarek
-                    [apellido] => Hallar
-                    [especializacion] => Comunicación
-                    [estado] => Vigente
-                )
-
-        )
-
-    [otras_acti_prev_del_legislador] => Array
-        (
-            [Privada] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => Presidente
-                            [tipo_de_acti] => Privada
-                            [desde] => 1999
-                            [hasta] => 2014
-                            [otra_orga] => El Tehuelche Sacisi
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => Presidente
-                        )
-
-                    [1] => Array
-                        (
-                            [cargo] => Gerente - Propietario
-                            [tipo_de_acti] => Privada
-                            [desde] => 1995
-                            [hasta] => 2017
-                            [otra_orga] => Hiperte Huelche (Hipermercado de materiales y artículos de construcción)
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => Gerente - Propietario
-                        )
-
-                )
-
-            [Donaciones] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => 
-                            [tipo_de_acti] => Donaciones
-                            [desde] => 
-                            [hasta] => 
-                            [otra_orga] => No realiza
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => 
-                        )
-
-                )
-
-            [Partidaria] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => Presidente del Comité Provincia
-                            [tipo_de_acti] => Partidaria
-                            [desde] => 2011
-                            [hasta] => 2013
-                            [otra_orga] => 
-                            [partido_organizacion] => Unión Cívica Radical
-                            [titulo] => Presidente del Comité Provincia
-                        )
-
-                    [1] => Array
-                        (
-                            [cargo] => Presidente del Comité Provincia
-                            [tipo_de_acti] => Partidaria
-                            [desde] => 2014
-                            [hasta] => 2017
-                            [otra_orga] => 
-                            [partido_organizacion] => Unión Cívica Radical
-                            [titulo] => Presidente del Comité Provincia
-                        )
-
-                )
-
-        )
-
-    [actividades_previas_del_legislador] => Array
-        (
-            [0] => Array
-                (
-                    [cargo] => Diputado Nacional
-                    [organizacion] => 
-                    [mandato] => 2009-2013
-                    [espe_univ] => 
-                    [field_app_ca_un] => Diputado Nacional
-                    [field_app_edcu] => 
-                    [field_app_distrito_reference] => Argentina
-                    [field_app_dis_mad] => 
-                )
-
-            [1] => Array
-                (
-                    [cargo] => Diputado Nacional
-                    [organizacion] => 
-                    [mandato] => 2013-2017
-                    [espe_univ] => 
-                    [field_app_ca_un] => Diputado Nacional
-                    [field_app_edcu] => 
-                    [field_app_distrito_reference] => Argentina
-                    [field_app_dis_mad] => 
-                )
-
-            [2] => Array
-                (
-                    [cargo] => Presidente
-                    [organizacion] => Cámara de Comercio e Industria Río Gallegos
-                    [mandato] => 
-                    [espe_univ] => Presidente de la Cámara de Comercio e Industria Río Gallegos
-                    [field_app_ca_un] => Presidente
-                    [field_app_edcu] => Presidente de la Cámara de Comercio e Industria Río Gallegos
-                    [field_app_distrito_reference] => Río Gallegos
-                    [field_app_dis_mad] => 
-                )
-
-        )
-
-    [salario] => Array
-        (
-            [0] => Array
-                (
-                    [salario] => Sueldo bruto: $12.466,50 (dieta: $3.739,95 + gastos de representación: $8.726,55) + Desarraigo: $4.363,27 + 32 órdenes de pasajes oficiales (20 aéreos + 12 terrestres)
-                )
-
-            [1] => Array
-                (
-                    [salario] => Sueldo bruto: $39.871,11 (dieta: $29.871,11 + gastos de representación:$10.000) + Desarraigo: $5.665,68 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
-                )
-
-            [2] => Array
-                (
-                    [salario] => Sueldo bruto: $58.417,17 (dieta: $48,417,17 + gastos de representación: $10.000) + Desarraigo: $8.301,07 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
-                )
-
-            [3] => Array
-                (
-                    [salario] => Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + Desarraigo: $12.807,04 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).
-                )
-
-        )
-
-    [ultimo_salario] => Array
-        (
-            [salario] => Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + Desarraigo: $12.807,04 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).
-        )
-
-    [field_l_direccion] => Hipólito Yrigoyen 1708
-    [field_l_piso] => 4°
-    [field_l_ofi] => 402
-    [field_l_ciudad_legislatura] => Ciudad Autónoma de Buenos Aires
-    [field_l_cod_pos] => C1033AAI
-    [uri] => public://Costa, Eduardo.png
-    [foto_new] => http://directorio.directoriolegislativo.org/sites/default/files/styles/normal/public/Costa%2C%20Eduardo.png?itok=iLKJGzFb
-)
- -->
-
-
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="info text-project">
-              <div class="text">Partido</div>
-              <a href="" class="pull-left">Al. Fte. Cambiemos Para Crecer</a>
-              <div style="clear:both"></div>
-            </div>
-            <div class="info type">
-              <div class="text">Mandato</div>
-              No Responde            </div>
-          </div>
-          <div style="clear:both"></div>
-          <div class="activity text">
-            <ul class="nav nav-tabs">
-              <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
-              <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
-            </ul>
-            <div style="clear:both"></div>
-            <div class="tab-content">
-              <div id="home" class="tab-pane fade in active">
-                <h3 class="title">Especialización:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity specialization">
-                    Energía; Turismo; Desarrollo Local                  </li>
-                </ul>
-                <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                                      <div class="info-activity comission">
-                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Asuntos Administrativos y Municipales                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Economía Nacional e Inversión                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Industria y Comercio                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Minería, Energía y Combustibles                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Infraestructura, Vivienda y Transporte                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Coparticipación Federal de Impuestos                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Turismo                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Bicameral permanente de promoción y seguimiento de la comunicación audiovisual                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Administradora de la Biblioteca del Congreso de la Nación                          </span>
-                                                                        (Miembro).                                          </div>
-                                  </ul>
-                <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity projects">
-                    <span class="grisimp">.</span><br>                  </li>
-                </ul>
-                <h3 class="title alone">
-                  Empleados a cargo:
-                  <span class="empleados-a-cargo-item">
-                    No responde                  </span>
-                </h3>
-                <h3 class="title">Equipo de trabajo:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity employees">
-                                                                                                            Lucia María Liébana <span class='grisimp'>(Asesora)</span>;                                                                     Alan Fernandez <span class='grisimp'>(Asesor)</span>;                                                                     Violeta Soto;                                                                     Tarek Hallar <span class='grisimp'>(Comunicación)</span>.                                                            </li>
-                </ul>
-                <h3 class="title">Resultados electorales:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity ubication">
-                  <div>
-                      <strong class="title">Ubicación en la lista:</strong>
-                      <span class="resultados-electorales-item">
-                        No Responde                      </span>
-                    </div>
-                  </li>
-                  <li class="info-activity seat">
-                  <div>
-                      <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
-                      <span class="resultados-electorales-item">
-                                                  No hay una lista asignada                                              </span >
-                    </div>
-                  </li>
-                  <li class="info-activity votes">
-                  <div>
-                      <strong class="title">Votos obtenidos:</strong>
-                      <span class="resultados-electorales-item">
-                                                  No hay una lista asignada                                              </span >
-                    </div>
-                  </li>
-                </ul>
-              </div>
-              <div id="menu1" class="tab-pane fade">
-                <ul class="tab-content other-activity" data-id="2">
-                  <div class="other public-activity">
-                    <div class="title">
-                      Actividad pública previa
-                    </div>
-                    <li class="info-activity">
-                                                                        Diputado Nacional                                                    <span class="extra-info">
-                            - Argentina                             (2009-2013)                       <!--       -->
-                          </span>
-                          <br>
-                                                  Diputado Nacional                                                    <span class="extra-info">
-                            - Argentina                             (2013-2017)                       <!--       -->
-                          </span>
-                          <br>
-                                                  Presidente                          Presidente de la Cámara de Comercio e Industria Río Gallegos                          <span class="extra-info">
-                            - Río Gallegos                                                   <!--      - Cámara de Comercio e Industria Río Gallegos -->
-                          </span>
-                          <br>
-                                                                  </li>
-                  </div>
-                  <div class="other private-activity">
-                                                                                          <div class="title">Privada </div>
-                        <li class="info-activity">
-                                                                                                                Presidente                              <span class="grisimp">
-                                - El Tehuelche Sacisi                                (1999-2014)                              </span>
-                              <br>
-                                                                                                                                            Gerente - Propietario                              <span class="grisimp">
-                                - Hiperte Huelche (Hipermercado de materiales y artículos de construcción)                                (1995-2017)                              </span>
-                              <br>
-                                                                              </li>
-                                                                                                                <div class="title">Donaciones </div>
-                        <li class="info-activity">
-                                                                                                                No realiza                                                            <br>
-                                                                              </li>
-                                                                                                                <div class="title">Partidaria </div>
-                        <li class="info-activity">
-                                                                                                                Presidente del Comité Provincia                              <span class="grisimp">
-                                - Unión Cívica Radical                                (2011-2013)                              </span>
-                              <br>
-                                                                                                                                            Presidente del Comité Provincia                              <span class="grisimp">
-                                - Unión Cívica Radical                                (2014-2017)                              </span>
-                              <br>
-                                                                              </li>
-                                                              <div class="other ingr-activity">
-                      <div class="title">Ingresos brutos</div>
-                      <li class="info-activity">
-                        Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + Desarraigo: $12.807,04 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).                      </li>
-                    </div>
-                  </div>
-                </ul>
-              </div>
-            </div>
-            <div class="nominal">
-                            <div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
-                                            <div class="votacion">
-                  <div class="recinto">
-                    
-                      <img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-                                        <span class="nuestro-legislador voto-afirmativo"></span>
-                  </div>
-                  <div class="law">
-                   <p></p>
-                    <p>Ley 27.249 (Ley de pago a los holdouts)</p>
-                    <p class="voto-afirmativo">Afirmativo</p>
-                  <div style="clear:both"></div>
-                  </div>
-                </div>
-                            <div class="votacion">
-                  <div class="recinto">
-                                          <img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
-                                        <span class="nuestro-legislador voto-ausente"></span>
-                  </div>
-                  <div class="law">
-                   <p></p>
-                    <p>Ley de Emergencia Ocupacional (vetada)</p>
-                    <p class="voto-ausente">AUSENTE</p>
-                  <div style="clear:both"></div>
-                  </div>
-                </div>
-                        <div style="clear:both"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-3 bloque_derecha relations relations-projects">
-    <div class="title">¿Cómo comunicarse?</div>
-    <div class="border"></div>
-    <ul class="data place">
-      <li class="name-place">En el Congreso de la Nación</li>
-      <li class="address">
-        Hipólito Yrigoyen 1708      </li>
-      <li class="zone">
-        4°        piso, of.
-        402,
-        Ciudad Autónoma de Buenos Aires        (C1033AAI)
-      </li>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-phone"></i> Teléfono
-      </li>
-      <li class="tel-number">
-                  (011) 2822-5436              </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-link"></i>&nbsp; Sitio Web
-      </li>
-      <li class="tel-number">
-                  <a href="http://www.costagobernador.com.ar" target="_blank">www.costagobernador.com.ar</a>
-              </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data email" style="padding: 0px 0px 0px 0px;" >
-      <li class="title" >
-        <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
-      </li>
-      <li class="mail">
-                  <a class="mail_especial" href="mailto:eduardo.costa@senado.gob.ar">eduardo.costa@senado.gob.ar</a>
-              </li>
-       <div style="clear:both"></div>
-    </ul>
-    <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-user"></i> Secretario/a
-      </li>
-      <li class="name-secretary">Lucía Liébana</li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data advisory"  style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
-      </li>
-      <li class="advisory-number">
-                  <span class="asesordeprensa">Tarek Ibrahim Hallar </span>
-          <br>
-          (02966) 156-28028        
-      </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data secretary"  style="padding: 0px 0px 0px 0px;">
-
-      <li class="title">En su distrito</li>
-      <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
-      <li class="advisory-number">Av. San Martín 1090 1°</li>
-      <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
-      <li class="advisory-number">(02966) 424-557</li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-
-      <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
-      <li class="tel-number" style="text-transform:lowercase !important;">
-                  <a href="https://twitter.com/@EduardoCostaSC" target="_blank">
-          @EduardoCostaSC<a class="twitter-timeline"
-            href="https://twitter.com/EduardoCostaSC"
-            data-widget-id="735728825129046016"
-            data-screen-name="EduardoCostaSC">
-            Tweets by @EduardoCostaSC</a>
-            <script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>      </a>
-    </li>
-    <div style="clear:both"></div>
-  </ul>
+Santa Cruz 
+</div>
+</div>
+<div class="col-lg-6">
+<div class="info text-project">
+<div class="text">Partido</div>
+<a href="" class="pull-left">Unión Cívica Radical</a>
+<div style="clear:both"></div>
+</div>
+<div class="info type">
+<div class="text">Mandato</div>
+2017-2023 </div>
+</div>
+<div style="clear:both"></div>
+<div class="activity text">
+<ul class="nav nav-tabs">
+<li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
+<li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
+</ul>
+<div style="clear:both"></div>
+<div class="tab-content">
+<div id="home" class="tab-pane fade in active">
+<h3 class="title">Especialización:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity specialization">
+Energía; Turismo; Desarrollo Local </li>
+</ul>
+<h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<div class="info-activity comission">
+<span class="titlenombrecomision comisiones nombrecomision">
+Asuntos Administrativos y Municipales </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Economía Nacional e Inversión </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Industria y Comercio </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Minería, Energía y Combustibles </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Infraestructura, Vivienda y Transporte </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Coparticipación Federal de Impuestos </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Turismo </span>
+(Vocal). </div>
+</ul>
+<h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity projects">
+<span class="grisimp">S-1155/18.</span> Proyecto de ley que incorpora como inc. 3 del art. 74 de la ley 19.101 (personal militar) y s/m, el suplemento por la zona al haber personal retirado y pensionado con residencia en las provincias patagónicas. <br><span class="grisimp">S-1054/18.</span> Proyecto de ley que designa al 1 de abril de 2020 como feriado extraordinario en todo el territorio nacional, en conmemoración del quinto centenario de la primera misa celebrada en suelo patrio, en Puerto San Julián, Prov. de Santa Cruz.<br> </li>
+</ul>
+<h3 class="title alone">
+Empleados a cargo:
+<span class="empleados-a-cargo-item">
+No responde </span>
+</h3>
+<h3 class="title">Equipo de trabajo:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity employees">
+Lucia María Liébana <span class='grisimp'>(Asesora)</span>; Alan Fernández <span class='grisimp'>(Asesor)</span>; Violeta Soto; Tarek Hallar <span class='grisimp'>(Comunicación)</span>.
+</li>
+</ul>
+<h3 class="title">Resultados electorales:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity ubication">
+<div>
+<strong class="title">Ubicación en la lista:</strong>
+<span class="resultados-electorales-item">
+1 </span>
+</div>
+</li>
+<li class="info-activity seat">
+<div>
+<strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
+<span class="resultados-electorales-item">
+2  </span >
+</div>
+</li>
+<li class="info-activity votes">
+<div>
+<strong class="title">Votos obtenidos:</strong>
+<span class="resultados-electorales-item">
+41,94% </span >
+</div>
+</li>
+</ul>
+</div>
+<div id="menu1" class="tab-pane fade">
+<ul class="tab-content other-activity" data-id="2">
+<div class="other public-activity">
+<div class="title">
+Actividad pública previa
+</div>
+<li class="info-activity">
+Diputado Nacional por Santa Cruz <span class="extra-info">
+(2009-2013)
+- Argentina </span>
+<br>
+Diputado Nacional por Santa Cruz <span class="extra-info">
+(2013-2017)
+- Argentina </span>
+<br>
+</li>
+</div>
+<div class="other private-activity">
+
+<div class="title">Donaciones </div>
+<li class="info-activity">
+No realiza <br>
+</li>
+
+<div class="title">Partidaria </div>
+<li class="info-activity">
+Presidente del Comité Provincial <span class="grisimp">
+- Unión Cívica Radical
+(2011 - 2013)
+</span>
+<br>
+ Presidente del Comité Provincial <span class="grisimp">
+- Unión Cívica Radical
+(2014 - 2017)
+</span>
+<br>
+</li>
+
+<div class="title">Privada </div>
+<li class="info-activity">
+Gerente - Propietario <span class="grisimp">
+- Hiperte Huelche (Hipermercado de materiales y artículos de construcción)
+(1995 - 2017)
+</span>
+<br>
+Presidente <span class="grisimp">
+- Cámara de Comercio e Industria
+1998 -
+</span>
+<br>
+</li>
+<div class="other ingr-activity">
+<div class="title">Ingresos brutos</div>
+<li class="info-activity">
+"Sueldo bruto: $162.600,85 (dieta: $142.600,85 + gastos de representación: $20.000) + Desarraigo: $23.105,58 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)." </li>
+</div>
+</div>
+</ul>
+</div>
+</div>
+<div class="nominal">
+<div style="clear:both"></div>
 </div>
 </div>
 </div>
-
+</div>
+</div>
+<div class="col-md-3 bloque_derecha relations relations-projects">
+<div class="title">¿Cómo comunicarse?</div>
+<div class="border"></div>
+<ul class="data place">
+<li class="name-place">En el Congreso de la Nación</li>
+<li class="address">
+Hipólito Yrigoyen 1708 </li>
+<li class="zone">
+4° piso, of.
+402,
+Ciudad Autónoma de Buenos Aires (C1033AAI)
+</li>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-phone"></i> Teléfono
+</li>
+<li class="tel-number">
+(011) 2822-5436 </li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-link"></i>&nbsp; Sitio Web
+</li>
+<li class="tel-number">
+<a href="http://www.costagobernador.com.ar" target="_blank">www.costagobernador.com.ar</a>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data email" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
+</li>
+<li class="mail">
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#27424352465543480944485453466754424946434809404845094655"><span class="__cf_email__" data-cfemail="7b1e1f0e1a091f14551814080f1a3b081e151a1f14551c1419551a09">[email&#160;protected]</span></a>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-user"></i> Secretario/a
+</li>
+<li class="name-secretary">Lucía Liébana</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data advisory" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
+</li>
+<li class="advisory-number">
+<span class="asesordeprensa">Tarek Ibrahim Hallar </span>
+<br>
+(02966) 156-280-28
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+<li class="title">En su distrito</li>
+<li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
+<li class="advisory-number">Av. San Martín 1090 1°</li>
+<li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
+<li class="advisory-number">(02966) 424-557</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
+<li class="tel-number" style="text-transform:lowercase !important;">
+<a href="https://twitter.com/@EduardoCostaSC" target="_blank">
+@EduardoCostaSC<a class="twitter-timeline" href="https://twitter.com/EduardoCostaSC" data-widget-id="735728825129046016" data-screen-name="EduardoCostaSC">
+Tweets by @EduardoCostaSC</a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+</li>
+<div style="clear:both"></div>
+</ul>
+</div>
+</div>
+</div>
 </section>
-  </div>
-    </section>
-
-    
-  </div>
 </div>
-
-  <footer class="footer container">
-          <div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
-            <div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
-                2011 Fundación Directorio Legislativo
-            </div>
-            <div class="text-copy">
-              Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A. 
-            </div>
-            <div class="text-copy">
-              Tel: 5411-52184647/5411-52364293.
-            </div>
-            <div class="text-copy">
-              TODOS LOS DERECHOS RESERVADOS.
-            </div>
-          </div>
-
-
-
-          <div class="col-lg-3 copyright pull-right">
-
-  <span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
-  <span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
-  <span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
-  <span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
-  <span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
-
-          </div>
-          <div style="clear:both"></div>
-  </footer>
-
-
-
-
-
-
-</div>    <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</section>
+</div>
+</div>
+<footer class="footer container">
+<div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
+<div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
+2011 Fundación Directorio Legislativo
+</div>
+<div class="text-copy">
+Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A.
+</div>
+<div class="text-copy">
+Tel: 5411-52184647/5411-52364293.
+</div>
+<div class="text-copy">
+TODOS LOS DERECHOS RESERVADOS.
+</div>
+</div>
+<div class="col-lg-3 copyright pull-right">
+<span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
+<span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
+<span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
+<span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
+<span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
+</div>
+<div style="clear:both"></div>
+</footer>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

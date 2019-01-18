@@ -9,22 +9,22 @@
 <link rel="shortlink" href="/node/91943" />
 <link rel="canonical" href="/node/91943" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<title>Sergio Raúl Zilotto | Directorio de Legisladores</title>
+<title>Sergio Raúl Ziliotto | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"9UuVR01PFMlKElf3vSleuE_a8fQoWTWSgir3A8mbLJY","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"XWNOtB9wdh3EH6rHt5Ya6WF2XuqM200dAAWdKUftY-w","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-91943 node-type-legislador">
 <div id="skip-link">
@@ -91,7 +91,7 @@ SUSCRIBITE
 <div class="row">
 <section class="col-sm-12">
 <a id="main-content"></a>
-<h1 class="page-header">Sergio Raúl Zilotto</h1>
+<h1 class="page-header">Sergio Raúl Ziliotto</h1>
 <div class="region region-content">
 <section id="block-system-main" class="block block-system clearfix">
 <style>
@@ -116,7 +116,7 @@ SUSCRIBITE
 <div class="arrow-right"></div>
 <li href="javascript:void(0)" class="category"><a href="http://directorio.directoriolegislativo.org/fichas-de-legisladores">Directorio de Legisladores</a></li>
 <div class="arrow-right"></div>
-<li class="category active"><a href="javascript:void(0)">Sergio Raúl Zilotto</a></li>
+<li class="category active"><a href="javascript:void(0)">Sergio Raúl Ziliotto</a></li>
 <div style="clear:both"></div>
 </ul>
 <div class="col-md-3 bloque_izquierda">
@@ -132,10 +132,11 @@ SUSCRIBITE
 24/09/1962 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-General Pico, La Pampa </li>
+General Pico , La Pampa </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-No responde </li>
+No responde , La Pampa
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 No responde </li>
@@ -144,8 +145,8 @@ No responde </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-No responde </li>
-</ul>
+</li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -155,7 +156,7 @@ No responde </li>
 <div class="col-md-6 bloque_central">
 <div class="profile">
 <div class="name">
-Sergio Raúl Zilotto </div>
+Sergio Raúl Ziliotto </div>
 <div class="position">
 Diputado Nacional </div>
 <div class="info-project">
@@ -190,31 +191,27 @@ La Pampa
 <h3 class="title">Especialización:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity specialization">
-Presupuesto y Hacienda; Políticas Sociales; Coparticipación federal </li>
+No responde </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <div class="info-activity comission">
 <span class="titlenombrecomision comisiones nombrecomision">
-Obras Públicas </span>
+Legislación del Trabajo </span>
 (Presidente), <span class="titlenombrecomision comisiones nombrecomision">
-Pequeñas y Medianas Empresas </span>
- (Secretario), <span class="titlenombrecomision comisiones nombrecomision">
-Acción Social y Salud Pública </span>
+Defensa del Consumidor, del Usuario y de la Competencia </span>
+(Secretario), <span class="titlenombrecomision comisiones nombrecomision">
+Comunicaciones e Informática </span>
+ (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Economía </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
-Deportes </span>
-(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
-Discapacidad </span>
-(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
-Presupuesto y Hacienda </span>
-(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
-Previsión y Seguridad Social </span>
+Obras Públicas </span>
 (Vocal). </div>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">0747-D-2016.</span> Programa Nacional de preservación de unidades productivas rurales familiares. Creación.<br><span class="grisimp">3178-D-2016.</span> Prestación del servicio publico de gas natural. régimen. modificación de la Ley 24076.<br> </li>
+<span class="grisimp">1820-D-2018.</span> Criterios tarifarios diferenciales para la protección del empleo PYME. Creación. <br><span class="grisimp">1819-D-2018.</span> Sistema de tarifa social universal para los servicios públicos. Creación<br> </li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
@@ -224,7 +221,7 @@ No responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-No tiene equipo de trabajo
+No responde
 </li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
@@ -260,82 +257,63 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Director Provincial de Transporte <span class="extra-info">
-- La Pampa (1991-1995) 
-</span>
-<br>
+(1991-1995)
+- La Pampa </span>
+ <br>
 Subsecretario de Política Social <span class="extra-info">
-- La Pampa (2003-2006) 
-</span>
+(2003-2006)
+- La Pampa </span>
 <br>
 Ministro de Bienestar Social <span class="extra-info">
-- La Pampa (2006-2007) 
-</span>
+(2006-2007)
+- La Pampa </span>
 <br>
 <span class="extra-info">
-
 </span>
 <br>
 Asesor de la Presidencia de la Comisión de Coparticipación Federal de Impuestos <span class="extra-info">
-- Argentina (2011-2015) 
-</span>
+(2011-2015)
+- Senado de la Nación - Argentina </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Presidente de la Unidad Básica <span class="grisimp">
-- Partido Justicialista (2009-2014) </span>
+- Partido Justicialista
+(2009 - 2014)
+</span>
 <br>
 Secretario de finanzas <span class="grisimp">
-- Partido Justicialista (2010-2016) </span>
+- Partido Justicialista
+(2010 - 2016)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
-<li class="info-activity">
+ <li class="info-activity">
 No responde <span class="grisimp">
 </span>
 <br>
 </li>
+
 <div class="title">Donaciones </div>
 <li class="info-activity">
-No responde  <br>
+No responde <br>
 </li>
 <div class="other ingr-activity">
 <div class="title">Ingresos brutos</div>
 <li class="info-activity">
-Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + Desarraigo: $12.807,04 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres). </li>
+Sueldo bruto: $162.600,86 (dieta: $142.600,86 + gastos de representación: $20.000) + Desarraigo: $23.105,58 + la opción elegida para el régimen de pasajes según resolución 487/2018 </li>
 </div>
 </div>
 </ul>
 </div>
 </div>
 <div class="nominal">
-<div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-<span class="nuestro-legislador voto-afirmativo"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley 27.249 (Ley de pago a los holdouts)</p>
-<p class="voto-afirmativo">Afirmativo</p>
-<div style="clear:both"></div>
-</div>
-</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-<span class="nuestro-legislador voto-afirmativo"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley de Emergencia Ocupacional (vetada)</p>
-<p class="voto-afirmativo">Afirmativo</p>
-<div style="clear:both"></div>
-</div>
-</div>
 <div style="clear:both"></div>
 </div>
 </div>
@@ -377,7 +355,7 @@ No tiene
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#d0a3aab9bcb9bfa4a4bf90b4b9a0a5a4b1b4bfa3feb7bfb2feb1a2"><span class="__cf_email__" data-cfemail="6c1f16050005031818032c08051c19180d08031f420b030e420d1e">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#f98a83909590968d8d96b9919a9d97d79e969bd7988b"><span class="__cf_email__" data-cfemail="fc8f8695909593888893bc949f9892d29b939ed29d8e">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -400,7 +378,7 @@ No tiene
 <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
 <li class="title">En su distrito</li>
 <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
-<li class="advisory-number">No Responde</li>
+<li class="advisory-number">No responde</li>
 <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
 <li class="advisory-number">No Responde</li>
 <div style="clear:both"></div>
@@ -411,7 +389,7 @@ No tiene
 <a href="https://twitter.com/@ZiliottoSergio" target="_blank">
 @ZiliottoSergio<a class="twitter-timeline" href="https://twitter.com/ZiliottoSergio" data-widget-id="735728825129046016" data-screen-name="ZiliottoSergio">
 Tweets by @ZiliottoSergio</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -447,6 +425,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

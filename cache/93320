@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Martín Lousteau | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"eM8hIH7FdSS6IBqYXgtM4g3tgbQgVWe7vizpFjdX4Dc","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"MbSYv-D0r_8uyJqIN5fFm_88vX1YhBu5ARyEovnUvdk","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93320 node-type-legislador">
 <div id="skip-link">
@@ -123,7 +123,7 @@ SUSCRIBITE
 <div class="contenedor_bloque_celeste">
 <div class="personal-info">
 <div class="photo">
-<img src="/sites/default/files/default_images/12198090531909861341man-silhouette.svg_.hi_-400x400.png" width="100%" alt="">
+<img src="http://directorio.directoriolegislativo.org/sites/default/files/styles/normal/public/Lousteau.jpeg?itok=C69a-63W" width="100%" alt="">
 </div>
 <div class="title" style="margin-bottom: 17px !important; color: #333;">Datos personales</div>
 <ul class="info">
@@ -132,10 +132,11 @@ SUSCRIBITE
 08/12/1970 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Ciudad Autónoma de Buenos Aires, No Responde </li>
+Ciudad Autónoma de Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Carla Peterson </li>
+Casado
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 1 (uno) </li>
@@ -144,11 +145,8 @@ Casado con Carla Peterson </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Licenciado en Economía </li>
-<li>
-Maestría (London School of Economics and Policial Science, 1994)
-</li>
-</ul>
+1993: Licenciado en Economía <span style="text-transform: capitalize;">(Universidad de San Andrés)</span> </li>
+<li>1994: Maestría <span style="text-transform: capitalize;">(London School of Economics and Policial Science)</span></li> <li>1995: Doctorado <span style="text-transform: capitalize;">(University College London)</span></li> </ul>
 </div>
 </li>
 </ul>
@@ -160,26 +158,26 @@ Maestría (London School of Economics and Policial Science, 1994)
 <div class="name">
 Martín Lousteau </div>
 <div class="position">
-No Responde </div>
+Diputado Nacional </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-No hay un bloque asignado </div>
+Evolución Radical </div>
 <div class="info status">
 <div class="text">Distrito</div>
-
+CABA 
 </div>
 </div>
 <div class="col-lg-6">
 <div class="info text-project">
 <div class="text">Partido</div>
-<a href="" class="pull-left">Al. Unen</a>
+<a href="" class="pull-left">Unión Cívica Radical</a>
 <div style="clear:both"></div>
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-No Responde </div>
+2017-2021 </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -193,33 +191,35 @@ No Responde </div>
 <h3 class="title">Especialización:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity specialization">
-No Responde </li>
+Economía; Presupuesto y Hacienda </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <div class="info-activity comission">
 <span class="titlenombrecomision comisiones nombrecomision">
-Energía y Combustibles </span>
+Comunicaciones e Informática </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Educación </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
 Presupuesto y Hacienda </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
-Recursos Naturales y Conservacion del Ambiente Humano </span>
+Relaciones Exteriores y Culto </span>
 (Vocal). </div>
-</ul>
- <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
+ </ul>
+<h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-</li>
+<span class="grisimp">3980-D-2018.</span> Educación Nacional - Ley 26206 -. Modificación del articulo 4°, sobre garantía de educación laica. <br><span class="grisimp">3590-D-2018.</span> "Oficina de análisis y control presupuestario del Congreso de la Nación- OACP -" - Ley 27343 -. Modificación del art. 2, sobre funciones de la misma.<br> </li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-No Responde </span>
+4 </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-No tiene equipo de trabajo
+Victoria García Labari <span class='grisimp'>(Relaciones Internacionales)</span>; María Paz Borrescio <span class='grisimp'>(Comunicación)</span>; Cintia Marquez Lila <span class='grisimp'>(Abogacía)</span>; Bárbara Bonelli <span class='grisimp'>(Políticas Públicas)</span>.
 </li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
@@ -228,21 +228,21 @@ No tiene equipo de trabajo
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-No Responde </span>
+1 </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-No hay una lista asignada </span >
+2 </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-No hay una lista asignada </span >
+0,1208 </span >
 </div>
 </li>
 </ul>
@@ -254,44 +254,53 @@ No hay una lista asignada </span >
 Actividad pública previa
 </div>
 <li class="info-activity">
-Diputado Nacional <span class="extra-info">
-- Argentina (2013-2017) 
-</span>
+Diputado Nacional por CABA <span class="extra-info">
+(2013-2015)
+- Argentina </span>
 <br>
-Ministro de Economía <span class="extra-info">
-- Argentina (2007-2008) 
-</span>
+Ministro  de Economía y Producción <span class="extra-info">
+(2007-2008)
+- Argentina </span>
 <br>
-Presidente del Directorio y Presidente del Grupo BAPRO <span class="extra-info">
-- Buenos Aires (2005-2007) 
-</span>
+Presidente del Directorio y del Grupo BAPRO <span class="extra-info">
+(2005-2007)
+- Buenos Aires </span>
+<br>
+Embajador <span class="extra-info">
+(2015-2017)
+- Cancillería Argentina en Estados Unidos </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
-No responde <span class="grisimp">
-- No hay un partido asignado </span>
+Candidato a Jefe de Gobierno <span class="grisimp">
+- ECO
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Consultor de Servicios Empresariales, profesionales y técnicos <span class="grisimp">
-- LCG S. A. (2009-2014) </span>
+- LCG S. A.
+(2009 - 2014)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
 <div class="title">Ingresos brutos</div>
 <li class="info-activity">
-Sueldo bruto: $58.417,17 (dieta: $48,417,17 + gastos de representación: $10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres) </li>
+Sueldo bruto: $162.600,86 (dieta: $142.600,86 + gastos de representación: $20.000) + la opción elegida para el régimen de pasajes según resolución 487/2018 </li>
 </div>
 </div>
 </ul>
 </div>
 </div>
 <div class="nominal">
-<div style="clear:both"></div>
+ <div style="clear:both"></div>
 </div>
 </div>
 </div>
@@ -305,8 +314,8 @@ Sueldo bruto: $58.417,17 (dieta: $48,417,17 + gastos de representación: $10.000
 <li class="address">
 Av. Rivadavia 1841 </li>
 <li class="zone">
-7° piso, of.
-728,
+11° piso, of.
+1161,
 Ciudad Autónoma de Buenos Aires (C1033AAV)
 </li>
 </ul>
@@ -315,7 +324,7 @@ Ciudad Autónoma de Buenos Aires (C1033AAV)
 <i class="fa fa-phone"></i> Teléfono
 </li>
 <li class="tel-number">
-(011) 4127-7628 </li>
+(011) 4127-7159 </li>
 <div style="clear:both"></div>
 </ul>
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
@@ -332,7 +341,7 @@ Ciudad Autónoma de Buenos Aires (C1033AAV)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#caa7a6a5bfb9beafabbf8aa2a9aea4e4ada5a8e4abb8"><span class="__cf_email__" data-cfemail="187574776d6b6c7d796d58707b7c76367f777a36796a">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#fa9796958f898e9f9b8fba92999e94d49d9598d49b88"><span class="__cf_email__" data-cfemail="402d2c2f353334252135002823242e6e272f226e2132">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -340,7 +349,7 @@ Ciudad Autónoma de Buenos Aires (C1033AAV)
 <li class="title">
 <i class="fa fa-user"></i> Secretario/a
 </li>
-<li class="name-secretary">Laura Curi y Raúl Iza</li>
+<li class="name-secretary">Sofía Lippa</li>
 <div style="clear:both"></div>
 </ul>
 <ul class="data advisory" style="padding: 0px 0px 0px 0px;">
@@ -350,14 +359,14 @@ Ciudad Autónoma de Buenos Aires (C1033AAV)
 <li class="advisory-number">
 <span class="asesordeprensa">Roy Rigotti </span>
 <br>
-(011) 155-135-3001
+(011) 155135-3001
 </li>
 <div style="clear:both"></div>
 </ul>
 <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
 <li class="title">En su distrito</li>
 <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
-<li class="advisory-number">No responde</li>
+<li class="advisory-number">No tiene</li>
 <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
 <li class="advisory-number">No Responde</li>
 <div style="clear:both"></div>
@@ -368,7 +377,7 @@ Ciudad Autónoma de Buenos Aires (C1033AAV)
 <a href="https://twitter.com/@GugaLusto" target="_blank">
 @GugaLusto<a class="twitter-timeline" href="https://twitter.com/GugaLusto" data-widget-id="735728825129046016" data-screen-name="GugaLusto">
 Tweets by @GugaLusto</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -404,6 +413,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

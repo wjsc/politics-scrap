@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Ana María Corradi de Beltrán | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"jXZzY6ZqNJzBvKJe0S7LHYcYjCs3A34cYly4ik4Ks_E","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"i59OWDu9TtKz9kq1NThbq5Mg2qq7r9ys0OzBYU6Ruf0","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93124 node-type-legislador">
 <div id="skip-link">
@@ -59,7 +59,7 @@ Home
 </li>
 <li class="nav-button ">
 <a href="http://directorio.directoriolegislativo.org/node/66256">
-Quiénes somos
+ Quiénes somos
 </a>
 </li>
 <li class="nav-button ">
@@ -132,10 +132,11 @@ SUSCRIBITE
 25/04/1962 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-La Banda, Santiago del Estero </li>
+La Banda , Santiago del Estero </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casada con José Alberto Beltrán </li>
+Casada , Santiago del Estero
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 3 (tres) </li>
@@ -144,11 +145,8 @@ Casada con José Alberto Beltrán </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Profesora </li>
-<li>
-Contador Público Nacional (Universidad Católica de Santiago del Estero, 1991)
-</li>
-</ul>
+1982: Profesora <span style="text-transform: capitalize;">(Profesorado Provincial Nº 1)</span> </li>
+<li>1991: Contadora Pública Nacional <span style="text-transform: capitalize;">(Universidad Católica de Santiago del Estero)</span></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -214,7 +212,9 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Ana Skripnik; Agustín Richard <span class='grisimp'>(Lic. en Relaciones Internacionales)</span>. </li>
+
+Ana Skripnik; Agustín Richard <span class='grisimp'>(Lic. en Relaciones Internacionales)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -249,48 +249,56 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Senadora Nacional <span class="extra-info">
-- Argentina (2007-2013) 
-</span>
+(2007-2013)
+- Argentina </span>
 <br>
 Diputada Provincial <span class="extra-info">
-(2005-2007)  
+(2005-2007)
 </span>
 <br>
 Concejal <span class="extra-info">
-- La Banda, Santiago Del Estero (1995-1999) 
-</span>
+(1995-1999)
+- La Banda, Santiago Del Estero </span>
 <br>
 Directora Directora de Rentas - Jefe de comercio, Municipalidad de La Banda <span class="extra-info">
-(1992-1995) 
+(1992-1995)
 </span>
 <br>
 Concejal <span class="extra-info">
-- La Banda, Santiago Del Estero (1999-2003) 
-</span>
+(1999-2003)
+- La Banda, Santiago Del Estero  </span>
 <br>
 Secretaria de Gobierno <span class="extra-info">
-- La Rioja (2004-2005) 
-</span>
+(2004-2005)
+- La Rioja </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Secretaria <span class="grisimp">
-- Movimiento Santiago Viable (2007) </span>
+- Movimiento Santiago Viable
+2007 -
+</span>
 <br>
 Presidente Departamental <span class="grisimp">
-- Movimiento Santiago Viable (2002-2007) </span>
+- Movimiento Santiago Viable
+(2002 - 2007)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Maestra jardinera <span class="grisimp">
-- Escuela 646, Jardín Nº 88 (1983-1995) </span>
+- Escuela 646, Jardín Nº 88
+(1983 - 1995)
+</span>
 <br>
 Estudio Contable Impositivo <br>
-</li>
+ </li>
 <div class="other ingr-activity">
 <div class="title">Ingresos brutos</div>
 <li class="info-activity">
@@ -301,7 +309,7 @@ Sueldo Bruto: $10.787,92 (dieta: $3.236,38.- ­+ gastos de representación: $7.5
 </div>
 </div>
 <div class="nominal">
- <div style="clear:both"></div>
+<div style="clear:both"></div>
 </div>
 </div>
 </div>
@@ -342,7 +350,7 @@ Ciudad Autónoma de Buenos Aires (C1089AAI)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#4c2d222d622f233e3e2d28250c3f29222d2823622b233a622d3e"><span class="__cf_email__" data-cfemail="d1b0bfb0ffb2bea3a3b0b5b891a2b4bfb0b5beffb6bea7ffb0a3">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#a6c7c8c788c5c9d4d4c7c2cfe6d5c3c8c7c2c988c1c9d088c7d4"><span class="__cf_email__" data-cfemail="45242b246b262a373724212c0536202b24212a6b222a336b2437">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -378,7 +386,7 @@ Ciudad Autónoma de Buenos Aires (C1089AAI)
 <a href="https://twitter.com/@anacorradi" target="_blank">
 @anacorradi<a class="twitter-timeline" href="https://twitter.com/anacorradi" data-widget-id="735728825129046016" data-screen-name="anacorradi">
 Tweets by @anacorradi</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -396,7 +404,7 @@ Tweets by @anacorradi</a>
 2011 Fundación Directorio Legislativo
 </div>
 <div class="text-copy">
-Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A. 
+Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A.
 </div>
 <div class="text-copy">
 Tel: 5411-52184647/5411-52364293.
@@ -414,6 +422,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

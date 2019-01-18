@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Omar Bruno De Marchi | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"al1lRbARUY0M2EtyRSoPEGmMoNvEcwdo467dl1oizcE","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"he-v5C4TXym6CWr5_3YO1cEdhQd3CS-mMdLAlGvqZEM","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92568 node-type-legislador">
 <div id="skip-link">
@@ -63,7 +63,7 @@ Quiénes somos
 </a>
 </li>
 <li class="nav-button ">
- <a href="http://alertas.directoriolegislativo.org/">
+<a href="http://alertas.directoriolegislativo.org/">
 Noticias
 </a>
 
@@ -132,10 +132,11 @@ SUSCRIBITE
 28/05/1966 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Luján de Cuyo, Mendoza </li>
+Luján de Cuyo , Mendoza </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con María Fernanda Manitta </li>
+Casado , Mendoza
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
@@ -144,11 +145,8 @@ Casado con María Fernanda Manitta </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Maestría </li>
-<li>
-Abogado (Universidad Nacional de Córdoba, 1991)
-</li>
- </ul>
+2009: Maestría <span style="text-transform: capitalize;">(Universidad Francisco de Vittoria, Madrid, España)</span> </li>
+<li>1991: Abogado <span style="text-transform: capitalize;">(Universidad Nacional de Córdoba)</span></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -186,7 +184,7 @@ No Responde </div>
 <ul class="nav nav-tabs">
 <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
 <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
-</ul>
+ </ul>
 <div style="clear:both"></div>
 <div class="tab-content">
 <div id="home" class="tab-pane fade in active">
@@ -214,7 +212,8 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Alejandro Krüeger French <span class='grisimp'>(Derecho Parlamentario)</span>; Agustín Giménez <span class='grisimp'>(Energía)</span>; Adrián Bertola <span class='grisimp'>(Vivienda)</span>; Jaime Grimalt <span class='grisimp'>(Urbanismo)</span>. </li>
+Alejandro Krüeger French <span class='grisimp'>(Derecho Parlamentario)</span>; Agustín Giménez <span class='grisimp'>(Energía)</span>; Adrián Bertola <span class='grisimp'>(Vivienda)</span>; Jaime Grimalt <span class='grisimp'>(Urbanismo)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -246,51 +245,59 @@ No hay una lista asignada </span >
 <div class="other public-activity">
 <div class="title">
 Actividad pública previa
-</div>
+ </div>
 <li class="info-activity">
-Diputado Nacional <span class="extra-info">
-- Argentina (2009-2013) 
-</span>
+Diputado Nacional por <span class="extra-info">
+(2009-2013)
+- Argentina </span>
 <br>
 Diputado Provincial <span class="extra-info">
-- Mendoza (1998-1999)  
-</span>
+(1998-1999)
+- Mendoza </span>
 <br>
-Diputado Nacional <span class="extra-info">
-- Argentina (2005-2009) 
-</span>
-<br>
-Intendente <span class="extra-info">
-- Luján de Cuyo, Mendoza (1999-2001) 
-</span>
+Diputado Nacional por <span class="extra-info">
+(2005-2009)
+- Argentina </span>
 <br>
 Intendente <span class="extra-info">
-- Luján de Cuyo, Mendoza (2001-2005) 
-</span>
+(1999-2001)
+- Luján de Cuyo, Mendoza </span>
+<br>
+Intendente <span class="extra-info">
+(2001-2005)
+- Luján de Cuyo, Mendoza </span>
 <br>
 Concejal <span class="extra-info">
-- Luján de Cuyo, Mendoza (1994-1998) 
-</span>
+(1994-1998)
+- Luján de Cuyo, Mendoza </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 Presidente <span class="grisimp">
-- Partido Demócrata (2004-2009) </span>
+- Partido Demócrata
+(2004 - 2009)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Abogado <span class="grisimp">
-- Estudio Jurídico DMMRP y Asoc. (1991) </span>
+- Estudio Jurídico DMMRP y Asoc.
+1991 -
+</span>
 <br>
 Empresario <span class="grisimp">
-(1991) </span>
+1991 -
+</span>
 <br>
 Ejercicio de la profesión de abogado <span class="grisimp">
-(1991-2008) </span>
+(1991 - 2008)
+</span>
 <br>
 Actividad empresarial <span class="grisimp">
 </span>
@@ -299,7 +306,7 @@ Actividad empresarial <span class="grisimp">
 <div class="other ingr-activity">
 <div class="title">Ingresos brutos</div>
 <li class="info-activity">
- Sueldo Bruto: $9.027,55.- (dieta: $2.708,22.- + gastos de representación: $6.319,28.-) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres) </li>
+Sueldo Bruto: $9.027,55.- (dieta: $2.708,22.- + gastos de representación: $6.319,28.-) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres) </li>
 </div>
 </div>
 </ul>
@@ -331,7 +338,7 @@ Ciudad Autónoma de Buenos Aires (C1025ABA)
 </li>
 <li class="tel-number">
 (011) 4127-7171 </li>
-<div style="clear:both"></div>
+ <div style="clear:both"></div>
 </ul>
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
 <li class="title">
@@ -347,7 +354,7 @@ Ciudad Autónoma de Buenos Aires (C1025ABA)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#b7d8d3d2dad6c5d4dfdef7d3dec7c2c3d6d3d8c499d0d8c199d6c5"><span class="__cf_email__" data-cfemail="204f44454d415243484960444950555441444f530e474f560e4152">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#563932333b3724353e3f16323f2623223732392578313920783724"><span class="__cf_email__" data-cfemail="7a151e1f171b081912133a1e130a0f0e1b1e1509541d150c541b08">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -383,7 +390,7 @@ Ciudad Autónoma de Buenos Aires (C1025ABA)
 <a href="https://twitter.com/@omardemarchi" target="_blank">
 @omardemarchi<a class="twitter-timeline" href="https://twitter.com/omardemarchi" data-widget-id="735728825129046016" data-screen-name="omardemarchi">
 Tweets by @omardemarchi</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -419,6 +426,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

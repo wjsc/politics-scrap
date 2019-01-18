@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Néstor Pares | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"U7J7ZUrcUhb4dULPIDLoN-a4_e_VRekaCLGX-kcTNFY","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"OlkYnTDjV_aqfqNhLv0vCWj5Q9cfJjs7nN2pmAAKlzk","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92887 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 16/01/1964 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Las Heras, Mendoza </li>
+Las Heras , Mendoza </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Soltero </li>
+Soltero , Mendoza
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 2 (dos) </li>
@@ -144,8 +145,8 @@ Soltero </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Abogado </li>
-</ul>
+1993: Abogado <span style="text-transform: capitalize;">(Universidad Nacional de Córdoba)</span> </li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -157,15 +158,15 @@ Abogado </li>
 <div class="name">
 Néstor Pares </div>
 <div class="position">
-Diputado Provincial </div>
+No Responde </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Unión Cívica Radical </div>
+No hay un bloque asignado </div>
 <div class="info status">
 <div class="text">Distrito</div>
-Mendoza - Primera Sección 
+
 </div>
 </div>
 <div class="col-lg-6">
@@ -176,7 +177,7 @@ Mendoza - Primera Sección
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2014-2018 </div>
+No Responde </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -211,7 +212,8 @@ No Responde </span>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Leli Meli <span class='grisimp'>(Seguridad y Finanzas)</span>; Sergio Vergara <span class='grisimp'>(Salud)</span>; Gustavo Gil <span class='grisimp'>(Temas sociales y Derecho)</span>; Jorge González <span class='grisimp'>(Seguridad)</span>. </li>
+Leli Meli <span class='grisimp'>(Seguridad y Finanzas)</span>; Sergio Vergara <span class='grisimp'>(Salud)</span>; Gustavo Gil <span class='grisimp'>(Temas sociales y Derecho)</span>; Jorge González <span class='grisimp'>(Seguridad)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -233,7 +235,7 @@ No hay una lista asignada </span >
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-No hay una lista asignada </span >
+No hay una lista asignada  </span >
 </div>
 </li>
 </ul>
@@ -246,43 +248,57 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Diputado Provincial <span class="extra-info">
-- Mendoza (2010-2014) 
-</span>
+(2010-2014)
+- Mendoza </span>
 <br>
 Director <span class="extra-info">
-- Mendoza (2006-2007) 
-</span>
+(2006-2007)
+- Registro Cívil - Mendoza </span>
 <br>
 Director de Control y Relaciones Laborales <span class="extra-info">
-- Mendoza (2004-2006) 
-</span>
+(2004-2006)
+- Subsecretaría de Trabajo - Mendoza </span>
+<br>
+Diputado Provincial <span class="extra-info">
+(2014-2018)
+- Mendoza </span>
 <br>
 Intendente <span class="extra-info">
-- Godoy Cruz, Mendoza 
-</span>
+- Godoy Cruz, Mendoza </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
-Presidente de la Junta Electoral <span class="grisimp">
-- Unión Cívica Radical (2010-2012) </span>
+ Presidente de la Junta Electoral <span class="grisimp">
+- Unión Cívica Radical
+(2010 - 2012)
+</span>
 <br>
 Secretario de la Junta Nacional de Juventud <span class="grisimp">
-- Unión Cívica Radical (1983-1984) </span>
+- Unión Cívica Radical
+(1983 - 1984)
+</span>
 <br>
 Apoderado <span class="grisimp">
-- Unión Cívica Radical (2009-2012) </span>
+- Unión Cívica Radical
+(2009 - 2012)
+</span>
 <br>
 Presidente <span class="grisimp">
-- Unión Cívica Radical (2014) </span>
+- Unión Cívica Radical
+2014 -
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Abogado <span class="grisimp">
-(1993-2012) </span>
+(1993 - 2012)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -311,7 +327,7 @@ Patricias Mendocinas 1141 </li>
 <li class="zone">
 3° piso, of.
 ,
-Mendoza (5500)
+Mendoza  (5500)
 </li>
 </ul>
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
@@ -336,7 +352,7 @@ Mendoza (5500)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#2b455b4a594e586b43484f46514a054c445d054a59"><span class="__cf_email__" data-cfemail="1f716f7e6d7a6c5f777c7b72657e31787069317e6d">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#ec829c8d9e899fac848f8881968dc28b839ac28d9e"><span class="__cf_email__" data-cfemail="3c524c5d4e594f7c545f5851465d125b534a125d4e">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -347,7 +363,7 @@ Mendoza (5500)
 <li class="name-secretary">Ángela Floridia</li>
 <div style="clear:both"></div>
 </ul>
- <ul class="data advisory" style="padding: 0px 0px 0px 0px;">
+<ul class="data advisory" style="padding: 0px 0px 0px 0px;">
 <li class="title">
 <i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
 </li>
@@ -405,6 +421,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

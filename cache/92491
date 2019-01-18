@@ -9,22 +9,22 @@
 <link rel="shortlink" href="/node/92491" />
 <link rel="canonical" href="/node/92491" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<title>María Cristina Fernández de Kirchner | Directorio de Legisladores</title>
+<title>Cristina E. Fernández de Kirchner | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"wOJZmaIJxz6PyvNe4-5suy3oRLRPt0cSOO-IzZkMEAs","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"Wn4m82h5h7mLFx_EuBvxaqruMaypdktuoWtJx3lTx7E","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92491 node-type-legislador">
 <div id="skip-link">
@@ -91,7 +91,7 @@ SUSCRIBITE
 <div class="row">
 <section class="col-sm-12">
 <a id="main-content"></a>
-<h1 class="page-header">María Cristina Fernández de Kirchner</h1>
+<h1 class="page-header">Cristina E. Fernández de Kirchner</h1>
 <div class="region region-content">
 <section id="block-system-main" class="block block-system clearfix">
 <style>
@@ -113,39 +113,40 @@ SUSCRIBITE
 <div class="row">
 <ul class="col-lg-12 categories">
 <li class="category"><a href="http://alertas.directoriolegislativo.org/">Inicio</a></li>
-<div class="arrow-right"></div>
+<div class="arrow-right"></div> 
 <li href="javascript:void(0)" class="category"><a href="http://directorio.directoriolegislativo.org/fichas-de-legisladores">Directorio de Legisladores</a></li>
 <div class="arrow-right"></div>
-<li class="category active"><a href="javascript:void(0)">María Cristina Fernández de Kirchner</a></li>
+<li class="category active"><a href="javascript:void(0)">Cristina E. Fernández de Kirchner</a></li>
 <div style="clear:both"></div>
 </ul>
 <div class="col-md-3 bloque_izquierda">
 <div class="contenedor_bloque_celeste">
 <div class="personal-info">
 <div class="photo">
-<img src="/sites/default/files/default_images/12198090531909861341man-silhouette.svg_.hi_-400x400.png" width="100%" alt="">
+<img src="http://directorio.directoriolegislativo.org/sites/default/files/styles/normal/public/CFK.png?itok=37JxdVEd" width="100%" alt="">
 </div>
 <div class="title" style="margin-bottom: 17px !important; color: #333;">Datos personales</div>
 <ul class="info">
 <li class="born">
 <div class="text-info">Fecha de Nacimiento</div>
-No hay datos </li>
+19/02/1956 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-No Responde </li>
+La Plata , Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-No Responde </li>
+Viuda , Buenos Aires
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
-No Responde </li>
+2 (dos) </li>
 <li class="academy">
 <div class="text-info">Títulos académicos</div>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-No Responde </li>
-</ul>
+Abogada <span style="text-transform: capitalize;">(Universidad Nacional de La Plata)</span> </li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -155,17 +156,17 @@ No Responde </li>
 <div class="col-md-6 bloque_central">
 <div class="profile">
 <div class="name">
-María Cristina Fernández de Kirchner </div>
+Cristina E. Fernández de Kirchner </div>
 <div class="position">
-No Responde </div>
+Senadora Nacional </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-No hay un bloque asignado </div>
+Frente para la Victoria - PJ </div>
 <div class="info status">
 <div class="text">Distrito</div>
-
+Buenos Aires 
 </div>
 </div>
 <div class="col-lg-6">
@@ -176,11 +177,11 @@ No hay un bloque asignado </div>
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-No Responde </div>
+2017-2023 </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
- <ul class="nav nav-tabs">
+<ul class="nav nav-tabs">
 <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
 <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
 </ul>
@@ -194,24 +195,31 @@ No Responde </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
-<li class="info-activity comission">
-<span class="titlenombrecomision comisiones nombrecomision">No hay comisiones vigentes</span>
-</li>
+<div class="info-activity comission">
+<span class="titlenombrecomision comisiones nombrecomision">
+Asuntos Constitucionales </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Presupuesto y Hacienda </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Banca de la Mujer </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Relaciones Exteriores y Culto </span>
+(Miembro). </div>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-</li>
+<span class="grisimp">S-1107/18.</span> Proyecto de ley que declara la emergencia tarifaria para hogares, pymes y cooperativas.<br><span class="grisimp">S-663/18.</span> Proyecto de ley que establece el pago de las compensaciones extraordinarias ocasionado por la reforma previsional.<br> </li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-No Responde </span>
-</h3>
+No responde </span>
+ </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-No tiene equipo de trabajo
+No responde
 </li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
@@ -220,21 +228,21 @@ No tiene equipo de trabajo
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-No Responde </span>
+1º </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-No hay una lista asignada </span >
+1 </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-No hay una lista asignada </span >
+36,20% </span >
 </div>
 </li>
 </ul>
@@ -246,20 +254,59 @@ No hay una lista asignada </span >
 Actividad pública previa
 </div>
 <li class="info-activity">
-No hay datos <span class="extra-info">
-- No hay datos (No hay datos) 
+Presidenta de la Nación <span class="extra-info">
+(2011-2015)
 </span>
+<br>
+Senadora Nacional <span class="extra-info">
+(1995-1997)
+- Santa Cruz </span>
+<br>
+Diputada Nacional por Buenos Aires <span class="extra-info">
+(1997-2001)
+</span>
+<br>
+Senadora Nacional <span class="extra-info">
+(2001-2005)
+- Santa Cruz </span>
+<br>
+Presidenta de la Nación <span class="extra-info">
+(2007-2011)
+</span>
+<br>
+Diputada Provincial <span class="extra-info">
+(1989-1993)
+- Santa Cruz </span>
+<br>
+Diputada Provincial <span class="extra-info">
+(1993-1995)
+- Santa Cruz </span>
+<br>
+Senadora Nacional <span class="extra-info">
+(2005-2007)
+- Buenos Aires </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
- <div class="title"> </div>
+
+<div class="title">Partidaria </div>
 <li class="info-activity">
+No responde <span class="grisimp">
+</span>
+<br>
+</li>
+
+<div class="title">Privada </div>
+<li class="info-activity">
+No responde <span class="grisimp">
+</span>
+<br>
 </li>
 <div class="other ingr-activity">
 <div class="title">Ingresos brutos</div>
 <li class="info-activity">
-No hay datos </li>
+"Sueldo bruto: $162.600,85 (dieta: $142.600,85 + gastos de representación: $20.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)." </li>
 </div>
 </div>
 </ul>
@@ -270,7 +317,7 @@ No hay datos </li>
 <div class="votacion">
 <div class="recinto">
 <img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
-<span class="nuestro-legislador voto-no-hay-una-votacion-nominal-asignada"></span>
+ <span class="nuestro-legislador voto-no-hay-una-votacion-nominal-asignada"></span>
 </div>
 <div class="law">
 <p> [No hay una votacion nominal asignada]</p>
@@ -291,11 +338,11 @@ No hay datos </li>
 <ul class="data place">
 <li class="name-place">En el Congreso de la Nación</li>
 <li class="address">
-</li>
+Hipólito Yrigoyen 1849 </li>
 <li class="zone">
-piso, of.
+2° Entrepiso piso, of.
 ,
-(C1089AAI)
+Ciudad Autónoma de Buenos Aires (C1089AAI)
 </li>
 </ul>
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
@@ -311,7 +358,7 @@ No Responde </li>
 <i class="fa fa-link"></i>&nbsp; Sitio Web
 </li>
 <li class="tel-number">
-<a href="http://No Responde" target="_blank">No Responde</a>
+<a href="http://www.cfkargentina.com" target="_blank">www.cfkargentina.com</a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -320,7 +367,7 @@ No Responde </li>
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#e7a988c7b582949788898382">No Responde</a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#4e2d3c273d3a27202f60282b3c202f202a2b340e3d2b202f2a216029212c602f3c"><span class="__cf_email__" data-cfemail="284b5a415b5c414649064e4d5a4649464c4d52685b4d46494c47064f474a06495a">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -328,7 +375,7 @@ No Responde </li>
 <li class="title">
 <i class="fa fa-user"></i> Secretario/a
 </li>
-<li class="name-secretary">No Responde</li>
+<li class="name-secretary">No responde</li>
 <div style="clear:both"></div>
 </ul>
 <ul class="data advisory" style="padding: 0px 0px 0px 0px;">
@@ -341,9 +388,9 @@ No Responde </li>
 <div style="clear:both"></div>
 </ul>
 <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
- <li class="title">En su distrito</li>
+<li class="title">En su distrito</li>
 <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
-<li class="advisory-number">No Responde</li>
+<li class="advisory-number">Rodríguez Peña 80, Instituto Patria</li>
 <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
 <li class="advisory-number">No Responde</li>
 <div style="clear:both"></div>
@@ -351,7 +398,10 @@ No Responde </li>
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
 <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
 <li class="tel-number" style="text-transform:lowercase !important;">
-No hay datos en este momento </a>
+<a href="https://twitter.com/@CFKArgentina" target="_blank">
+@CFKArgentina<a class="twitter-timeline" href="https://twitter.com/CFKArgentina" data-widget-id="735728825129046016" data-screen-name="CFKArgentina">
+Tweets by @CFKArgentina</a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -387,6 +437,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

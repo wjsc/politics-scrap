@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Juan De Jesús | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"AfC-1SSdHHsP7tbNgZLm2Nc12rkabDXKr1Oae3td2vE","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"Dnu60H2gklDQpxgspyaAYznbYs3Rfp2mgzY7Zc84uBY","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92317 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 19/12/1942 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Ciudad Autónoma de Buenos Aires, No Responde </li>
+Ciudad Autónoma de Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Casado con Marina Moretti </li>
+Casado
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 5 (cinco) </li>
@@ -144,11 +145,8 @@ Casado con Marina Moretti </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Médico </li>
-<li>
-Médico (Colegio Médico de la provincia de Buenos Aires - Ministerio de Salud, 1971)
-</li>
-</ul>
+1967: Médico <span style="text-transform: capitalize;">(Universidad Nacional de Córdoba)</span> </li>
+<li>1971: Médico <span style="text-transform: capitalize;">(Colegio Médico de la provincia de Buenos Aires - Ministerio de Salud)</span></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -160,15 +158,15 @@ Médico (Colegio Médico de la provincia de Buenos Aires - Ministerio de Salud, 
 <div class="name">
 Juan De Jesús </div>
 <div class="position">
-Diputado Provincial </div>
+No Responde </div>
 <div class="info-project">
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Frente para la Victoria </div>
+No hay un bloque asignado </div>
 <div class="info status">
 <div class="text">Distrito</div>
-Buenos Aires - Quinta Sección 
+
 </div>
 </div>
 <div class="col-lg-6">
@@ -179,7 +177,7 @@ Buenos Aires - Quinta Sección
 </div>
 <div class="info type">
 <div class="text">Mandato</div>
-2011-2015 </div>
+No Responde </div>
 </div>
 <div style="clear:both"></div>
 <div class="activity text">
@@ -193,14 +191,14 @@ Buenos Aires - Quinta Sección
 <h3 class="title">Especialización:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity specialization">
-Salud Pública; Asuntos Constitucionales; Asuntos Municipales </li>
+No Responde </li>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <div class="info-activity comission">
 <span class="titlenombrecomision comisiones nombrecomision">
 Salud Pública </span>
-(Presidente),  <span class="titlenombrecomision comisiones nombrecomision">
+(Presidente), <span class="titlenombrecomision comisiones nombrecomision">
 Asuntos Constitucionales y Justicia </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
 Igualdad Real de Oportunidades y Trato </span>
@@ -213,17 +211,18 @@ Intereses Marítimos, Portuarios y Pesca </span>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">2117-D-2014 Modificación de la ley 14208, de Fertilizacion Asistida.</span> <br><span class="grisimp">1205-D-2014.</span> Derechos de los Niños Hospitalizados en su relación con el Sistema de Salud.<br> </li>
+</li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-5 </span>
+No Responde </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Ignacio Gil Miranda <span class='grisimp'>(Médico)</span>; Carolina San Román <span class='grisimp'>(Derecho Constitucional)</span>; Román Vera <span class='grisimp'>(Derecho Administrativo)</span>; Silvia Delgado <span class='grisimp'>(Médica Sanitarista)</span>. </li>
+Ignacio Gil Miranda <span class='grisimp'>(Médico)</span>; Carolina San Román <span class='grisimp'>(Derecho Constitucional)</span>; Román Vera <span class='grisimp'>(Derecho Administrativo)</span>; Silvia Delgado <span class='grisimp'>(Médica Sanitarista)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -231,21 +230,21 @@ Ignacio Gil Miranda <span class='grisimp'>(Médico)</span>; Carolina San Román 
 <div>
 <strong class="title">Ubicación en la lista:</strong>
 <span class="resultados-electorales-item">
-2º </span>
+No Responde </span>
 </div>
 </li>
 <li class="info-activity seat">
 <div>
 <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
 <span class="resultados-electorales-item">
-6 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 <li class="info-activity votes">
 <div>
 <strong class="title">Votos obtenidos:</strong>
 <span class="resultados-electorales-item">
-50,78 </span >
+No hay una lista asignada </span >
 </div>
 </li>
 </ul>
@@ -258,51 +257,69 @@ Actividad pública previa
 </div>
 <li class="info-activity">
 Diputado Provincial <span class="extra-info">
-- Buenos Aires (2007-2011) 
-</span>
+(2007-2011)
+- Buenos Aires </span>
 <br>
 Intendente <span class="extra-info">
-- Partido de la Costa, Buenos Aires (2003-2007) 
-</span>
+(2003-2007)
+- Partido de la Costa, Buenos Aires </span>
 <br>
 Intendente <span class="extra-info">
-- Partido de la Costa, Buenos Aires (1991-1995) 
-</span>
+(1991-1995)
+- Partido de la Costa, Buenos Aires </span>
 <br>
 Intendente <span class="extra-info">
-- Partido de la Costa, Buenos Aires (1987-1991) 
-</span>
+(1987-1991)
+- Partido de la Costa, Buenos Aires </span>
 <br>
 Intendente <span class="extra-info">
-- Partido de la Costa, Buenos Aires (1983-1987) 
-</span>
+(1983-1987)
+- Partido de la Costa, Buenos Aires </span>
 <br>
 Convencional Constituyente Nacional <span class="extra-info">
-- Argentina (1994-1234) 
+(1994-1234)
+- Argentina </span>
+<br>
+Diputado Provincial <span class="extra-info">
+(2011-2015)
+- Buenos Aires </span>
+<br>
+<span class="extra-info">
 </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
-Presidente <span class="grisimp">
-- Partido Justicialista (1983-2012) </span>
+ Presidente <span class="grisimp">
+- Partido Justicialista
+(1983 - 2012)
+</span>
 <br>
 Consejero Provincial <span class="grisimp">
-- Partido Justicialista (1985-2012) </span>
+- Partido Justicialista
+(1985 - 2012)
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
 Director Médico <span class="grisimp">
-- Clínica Santa Teresita y Clínica San Bernardo (1973-2003) </span>
+- Clínica Santa Teresita y Clínica San Bernardo
+(1973 - 2003)
+</span>
 <br>
 Médico pediatra <span class="grisimp">
-(1971-2003) </span>
+(1971 - 2003)
+</span>
 <br>
 Vicepresidente <span class="grisimp">
-- Fundación ISalud (1987-1994) </span>
+- Fundación ISalud
+(1987 - 1994)
+</span>
 <br>
 </li>
 <div class="other ingr-activity">
@@ -315,7 +332,7 @@ Sueldo bruto: $30.187 (dieta: $17.490,80 + gastos de representación: $12.696,20
 </div>
 </div>
 <div class="nominal">
-<div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
+ <div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
 <div class="votacion">
 <div class="recinto">
 <img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
@@ -369,7 +386,7 @@ La Plata (1900)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#234947464946505650634b40474a53565742474c500e41420d444c550d4251"><span class="__cf_email__" data-cfemail="cda7a9a8a7a8beb8be8da5aea9a4bdb8b9aca9a2bee0aface3aaa2bbe3acbf">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#b2d8d6d7d8d7c1c7c1f2dad1d6dbc2c7c6d3d6ddc19fd0d39cd5ddc49cd3c0"><span class="__cf_email__" data-cfemail="8ee4eaebe4ebfdfbfdcee6edeae7fefbfaefeae1fda3ecefa0e9e1f8a0effc">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -438,6 +455,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

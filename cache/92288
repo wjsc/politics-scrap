@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Karina Verónica Banfi | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"5hdr1DXowhb1flLys9Vy4Et1VIgHJISP9YuT8C7oM-U","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"1zCbk2GEnui2FQtYRx0_HG2neSmJLg5qpBK_m6ZGTu0","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-92288 node-type-legislador">
 <div id="skip-link">
@@ -132,26 +132,21 @@ SUSCRIBITE
 27/02/1972 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Bahía Blanca, Buenos Aires </li>
+Bahía Blanca , Buenos Aires </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-No responde </li>
+Casada , Buenos Aires
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
-No Responde </li>
+No tiene </li>
 <li class="academy">
 <div class="text-info">Títulos académicos</div>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Abogada </li>
-<li>
-Posgrado (Universidad de Oxford, )
-</li>
- <li>
-Posgrado (American University & Washington College of Law, )
-</li>
-</ul>
+Abogada <span style="text-transform: capitalize;">(Universidad de Buenos Aires)</span> </li>
+<li>2007: Posgrado <span style="text-transform: capitalize;">(en Derecho y Políticas Comparadas de Medios de Comunicación - Universidad de Oxford)</span></li> <li>2009: Posgrado <span style="text-transform: capitalize;">(en Sistemas Interamericano e Internacional de Protección de DDHH - American University & Washington College of Law)</span></li> </ul>
 </div>
 </li>
 </ul>
@@ -208,25 +203,32 @@ Peticiones, Poderes y Reglamento </span>
 (Secretaria), <span class="titlenombrecomision comisiones nombrecomision">
 Asuntos Constitucionales </span>
 (Vocal), <span class="titlenombrecomision comisiones nombrecomision">
-Derechos Humanos y Garantías </span>
-(Vocal),  <span class="titlenombrecomision comisiones nombrecomision">
 Relaciones Exteriores y Culto </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Comunicaciones e Informática </span>
+(Vice 1), <span class="titlenombrecomision comisiones nombrecomision">
+Legislación General </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Juicio Político </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Defensa del Consumidor, del Usuario y de la Competencia </span>
 (Vocal). </div>
 </ul>
 <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
 <ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity projects">
-<span class="grisimp">6593-D-2015.</span> Régimen de acceso a la información publica.<br><span class="grisimp">1666-D-2016.</span> Regularización impositiva y protección del empleo rural, para productores agropecuarios en estado de emergencia y desastre agropecuario. Régimen.<br> </li>
+<span class="grisimp">0183-D-2018.</span> Evaluación nacional - Ley 26.206 -. Modificación del art. 97, sobre publicación de datos, indicadores y resultados concernientes a toda investigación o evaluación educativa. <br><span class="grisimp">0131-D-2018.</span> Desclasificación de toda información relativa a casos de graves violaciones de derechos humanos, genocidio, crímenes de guerra o delitos de lesa humanidad. Régimen. Modificación del art. 16 de la ley 25.520 - Inteligencia nacional -, sobre la prohibición de la clasificación de dichas violaciones. (Reproducción del exp. 6373-D-16).<br> </li>
 </ul>
 <h3 class="title alone">
 Empleados a cargo:
 <span class="empleados-a-cargo-item">
-6 </span>
+5 </span>
 </h3>
 <h3 class="title">Equipo de trabajo:</h3>
- <ul class="tab-content legislative-activity" data-id="1">
+<ul class="tab-content legislative-activity" data-id="1">
 <li class="info-activity employees">
-Ana Sol Minervini <span class='grisimp'>(Jefa de despacho)</span> </li>
+M. Virginia S. Baena <span class='grisimp'>(Asistente Ejecutiva)</span>; Bárbara M. Fernández <span class='grisimp'>(Ayudante de Secretaria)</span>; Florencia Karakachoff <span class='grisimp'>(Asesora)</span>; Carolina Aldunate; Irina Dambrauskas <span class='grisimp'>(Fotógrafa)</span>.
+</li>
 </ul>
 <h3 class="title">Resultados electorales:</h3>
 <ul class="tab-content legislative-activity" data-id="1">
@@ -260,36 +262,40 @@ Ana Sol Minervini <span class='grisimp'>(Jefa de despacho)</span> </li>
 Actividad pública previa
 </div>
 <li class="info-activity">
-Directora General de Acceso a la Información Pública <span class="extra-info">
-- CABA, Argentina (2015) 
-</span>
+Directora General de la Oficina Acceso a la Información Pública <span class="extra-info">
+(2015)
+- Universidad de Buenos Aires - CABA, Argentina </span>
 <br>
 Coordinadora Regional de Programas de Transparencia y Gobernabilidad <span class="extra-info">
-
-</span>
+- Organización de los Estados Americanos </span>
 <br>
 Consultora para la Relatoría Especial de Libertad de Expresión <span class="extra-info">
-
-</span>
+- Comisión Interamericana de Derechos Humanos </span>
 <br>
 </li>
 </div>
 <div class="other private-activity">
+
 <div class="title">Partidaria </div>
 <li class="info-activity">
 No tiene <span class="grisimp">
-- No hay un partido asignado </span>
+</span>
 <br>
 </li>
+
 <div class="title">Privada </div>
 <li class="info-activity">
-Secretaria Ejecutiva <span class="grisimp">
-- Alianza Regional por la Libre Expresión e Información (2006-2013) </span>
+Co- Fundadora y Secretaria Ejecutiva <span class="grisimp">
+- Alianza Regional por la Libre Expresión e Información
+(2006 - 2013)
+</span>
 <br>
-Consultora Institucional <span class="grisimp">
-- Red Internacional Pro Bono </span>
+ Consultora Institucional <span class="grisimp">
+- Red Internacional Pro Bono - Santiago de Chile
+</span>
 <br>
 </li>
+
 <div class="title">Donaciones </div>
 <li class="info-activity">
 No responde <br>
@@ -297,38 +303,13 @@ No responde <br>
 <div class="other ingr-activity">
 <div class="title">Ingresos brutos</div>
 <li class="info-activity">
-Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres). </li>
+Sueldo bruto: $162.600,86 (dieta: $142.600,86 + gastos de representación: $20.000) + la opción elegida para el régimen de pasajes según resolución 487/2018 </li>
 </div>
 </div>
 </ul>
 </div>
 </div>
 <div class="nominal">
-<div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-<span class="nuestro-legislador voto-afirmativo"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley 27.249 (Ley de pago a los holdouts)</p>
-<p class="voto-afirmativo">Afirmativo</p>
-<div style="clear:both"></div>
-</div>
-</div>
-<div class="votacion">
-<div class="recinto">
-<img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
-<span class="nuestro-legislador voto-abstención"></span>
-</div>
-<div class="law">
-<p></p>
-<p>Ley de Emergencia Ocupacional (vetada)</p>
-<p class="voto-abstención">Abstención</p>
-<div style="clear:both"></div>
-</div>
-</div>
 <div style="clear:both"></div>
 </div>
 </div>
@@ -353,7 +334,7 @@ Ciudad Autónoma de Buenos Aires (C1033AAI)
 <i class="fa fa-phone"></i> Teléfono
 </li>
 <li class="tel-number">
- (011) 4127-7603 </li>
+(011) 4127-7603 </li>
 <div style="clear:both"></div>
 </ul>
 <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
@@ -370,7 +351,7 @@ Ciudad Autónoma de Buenos Aires (C1033AAI)
 <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
 </li>
 <li class="mail">
-<a class="mail_especial" href="/cdn-cgi/l/email-protection#cba0a9aaa5ada28bafa2bbbebfaaafa4b8e5aca4a9e5aab9"><span class="__cf_email__" data-cfemail="6e050c0f0008072e0a071e1b1a0f0a011d4009010c400f1c">[email&#160;protected]</span></a>
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#563d343738303f163e35323878313934783724"><span class="__cf_email__" data-cfemail="5a31383b343c331a32393e34743d3538743b28">[email&#160;protected]</span></a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -406,7 +387,7 @@ Ciudad Autónoma de Buenos Aires (C1033AAI)
 <a href="https://twitter.com/@KBanfi" target="_blank">
 @KBanfi<a class="twitter-timeline" href="https://twitter.com/KBanfi" data-widget-id="735728825129046016" data-screen-name="KBanfi">
 Tweets by @KBanfi</a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
 </li>
 <div style="clear:both"></div>
 </ul>
@@ -442,6 +423,6 @@ TODOS LOS DERECHOS RESERVADOS.
 </div>
 <div style="clear:both"></div>
 </footer>
-</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>

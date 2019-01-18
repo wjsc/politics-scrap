@@ -11,20 +11,20 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <title>Sandra Daniela Castro | Directorio de Legisladores</title>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/system/system.base.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?padims");
-@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?padims");
+@import url("http://directorio.directoriolegislativo.org/modules/field/theme/field.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/modules/node/node.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/views/css/views.css?pgango");
 </style>
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/modules/contrib/ctools/css/ctools.css?pgango");
 </style>
 <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css" media="all" />
 <style>
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?padims");
-@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?padims");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/css/3.3.6/overrides.min.css?pgango");
+@import url("http://directorio.directoriolegislativo.org/sites/all/themes/salesforce_directorio/css/style.css?pgango");
 </style>
 
 <!--[if lt IE 9]>
@@ -33,11 +33,11 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
 <script src="http://directorio.directoriolegislativo.org/misc/jquery.once.js?v=1.2"></script>
-<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/misc/drupal.js?pgango"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
-<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?padims"></script>
+<script src="http://directorio.directoriolegislativo.org/sites/all/modules/google_analytics/googleanalytics.js?pgango"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-50075426-1", {"cookieDomain":".directoriolegislativo.org"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"-fXliCKqTguit4J198Tgoh-vq5XKwNDKmWAIcYnkb18","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"salesforce_directorio","theme_token":"h4ih0noH5l1PFI-8I1D7Oe5HfLC2pCdjRFzzTzngXu0","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/all\/themes\/salesforce_directorio\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93295 node-type-legislador">
 <div id="skip-link">
@@ -132,10 +132,11 @@ SUSCRIBITE
 13/01/1985 </li>
 <li class="city-born">
 <div class="text-info">Lugar de Nacimiento</div>
-Caucete, San Juan </li>
+Caucete , San Juan </li>
 <li class="personal-status">
 <div class="text-info">Estado Civil</div>
-Soltera </li>
+Soltera , San Juan
+</li>
 <li class="sons">
 <div class="text-info">Hijos</div>
 No tiene </li>
@@ -144,8 +145,8 @@ No tiene </li>
 <div class="titles">
 <ul class="estudio_alineado">
 <li>
-Licenciada en Ciencia Política </li>
-</ul>
+2010: Licenciada en Ciencia Política <span style="text-transform: capitalize;">(Universidad Nacional de San Juan)</span> </li>
+<li></li> <li></li> </ul>
 </div>
 </li>
 </ul>
@@ -162,2045 +163,268 @@ Diputada Nacional </div>
 <div class="col-lg-6">
 <div class="info num-exp">
 <div class="text">Bloque</div>
-Pj - Frente para la Victoria </div>
+Frente para la Victoria - PJ </div>
 <div class="info status">
 <div class="text">Distrito</div>
-San Juan <!-- Legislador Object
-(
-    [undefined_values] => Array
-        (
-            [0] => no hay un partido asignado
-            [1] => no tiene
-            [2] => no hay datos
-        )
-
-    [no_data_string] => No Responde
-    [node] => stdClass Object
-        (
-            [vid] => 93295
-            [uid] => 0
-            [title] => Sandra Daniela Castro
-            [log] => 
-            [status] => 1
-            [comment] => 2
-            [promote] => 1
-            [sticky] => 0
-            [nid] => 93295
-            [type] => legislador
-            [language] => und
-            [created] => 1464803417
-            [changed] => 1530296776
-            [tnid] => 0
-            [translate] => 0
-            [revision_timestamp] => 1530296776
-            [revision_uid] => 0
-            [field_bloque_id_sa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 003G000001Xut4gIAB
-                                    [format] => 
-                                    [safe_value] => 003G000001Xut4gIAB
-                                )
-
-                        )
-
-                )
-
-            [field_bloque_related] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => a0KG0000006ui0gMAA
-                                    [format] => 
-                                    [safe_value] => a0KG0000006ui0gMAA
-                                )
-
-                        )
-
-                )
-
-            [field_l_cobra_desarraigo] => Array
-                (
-                )
-
-            [field_l_contesto_la_ficha] => Array
-                (
-                )
-
-            [field_l_anio] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 2010
-                                    [format] => 
-                                    [safe_value] => 2010
-                                )
-
-                        )
-
-                )
-
-            [field_l_anio_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_anio_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_asesor_de_prensa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Gastón Aballay
-                                    [format] => 
-                                    [safe_value] => Gastón Aballay
-                                )
-
-                        )
-
-                )
-
-            [field_l_asesor_de_prensa_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_bloque_comentarios] => Array
-                (
-                )
-
-            [field_l_bloque_estado] => Array
-                (
-                )
-
-            [field_l_fecha_alta] => Array
-                (
-                )
-
-            [field_l_fecha_baja] => Array
-                (
-                )
-
-            [field_l_camara] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Diputados
-                                    [format] => 
-                                    [safe_value] => Diputados
-                                )
-
-                        )
-
-                )
-
-            [field_l_cantidad_de_hi] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => No tiene
-                                    [format] => 
-                                    [safe_value] => No tiene
-                                )
-
-                        )
-
-                )
-
-            [field_l_cargo_del_c] => Array
-                (
-                )
-
-            [field_l_cargo_segun_s] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Diputada Nacional
-                                    [format] => 
-                                    [safe_value] => Diputada Nacional
-                                )
-
-                        )
-
-                )
-
-            [field_l_cargo_universal] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Diputado Nacional
-                                    [format] => 
-                                    [safe_value] => Diputado Nacional
-                                )
-
-                        )
-
-                )
-
-            [field_l_cel_del_a_de_p] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (0264) 155-749-304
-                                    [format] => 
-                                    [safe_value] => (0264) 155-749-304
-                                )
-
-                        )
-
-                )
-
-            [field_l_cel_del_leg] => Array
-                (
-                )
-
-            [field_l_cel_del_sec] => Array
-                (
-                )
-
-            [field_l_cel_personal] => Array
-                (
-                )
-
-            [field_l_clasi_del_co] => Array
-                (
-                )
-
-            [field_l_clave_de_data] => Array
-                (
-                )
-
-            [field_l_cod_pos] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => C1033AAV
-                                    [format] => 
-                                    [safe_value] => C1033AAV
-                                )
-
-                        )
-
-                )
-
-            [field_l_com_a_las_pert] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 8
-                                    [format] => 
-                                    [safe_value] => 8
-                                )
-
-                        )
-
-                )
-
-            [field_l_corr_e_alte] => Array
-                (
-                )
-
-            [field_l_corr_de_se] => Array
-                (
-                )
-
-            [field_l_corr_de_as_pr] => Array
-                (
-                )
-
-            [field_l_corr_del_man] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => scastro@diputados.gob.ar
-                                    [format] => 
-                                    [safe_value] => scastro@diputados.gob.ar
-                                )
-
-                        )
-
-                )
-
-            [field_l_corr_el_pe] => Array
-                (
-                )
-
-            [field_l_cre_por] => Array
-                (
-                )
-
-            [field_l_c_de_t] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => @d_castrooficial
-                                    [format] => 
-                                    [safe_value] => @d_castrooficial
-                                )
-
-                        )
-
-                )
-
-            [field_l_departamento] => Array
-                (
-                )
-
-            [field_l_descripcion] => Array
-                (
-                )
-
-            [field_l_direccion] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Av. Rivadavia 1841
-                                    [format] => 
-                                    [safe_value] => Av. Rivadavia 1841
-                                )
-
-                        )
-
-                )
-
-            [field_l_direccion_2] => Array
-                (
-                )
-
-            [field_l_direccion_de_c] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Ignacio de la Roza 697 (Oeste) Piso 2
-                                    [format] => 
-                                    [safe_value] => Ignacio de la Roza 697 (Oeste) Piso 2
-                                )
-
-                        )
-
-                )
-
-            [field_l_distrito] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => a06G000000EgcgaIAB
-                                    [format] => 
-                                    [safe_value] => a06G000000EgcgaIAB
-                                )
-
-                        )
-
-                )
-
-            [field_l_dni] => Array
-                (
-                )
-
-            [field_l_edad] => Array
-                (
-                )
-
-            [field_l_eje_t] => Array
-                (
-                )
-
-            [field_l_email_2] => Array
-                (
-                )
-
-            [field_l_email_per] => Array
-                (
-                )
-
-            [field_l_emp_a_car] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => No responde
-                                    [format] => 
-                                    [safe_value] => No responde
-                                )
-
-                        )
-
-                )
-
-            [field_l_esp] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Cultura;Deportes;Relaciones Exteriores;Ciencia y Tecnología
-                                    [format] => 
-                                    [safe_value] => Cultura;Deportes;Relaciones Exteriores;Ciencia y Tecnología
-                                )
-
-                        )
-
-                )
-
-            [field_l_esp_de_ti_aca] => Array
-                (
-                )
-
-            [field_l_esp_de_ti_aca_2] => Array
-                (
-                )
-
-            [field_l_esp_de_ti_aca_3] => Array
-                (
-                )
-
-            [field_l_esp_de_ca_un] => Array
-                (
-                )
-
-            [field_l_est_civil] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Soltero
-                                    [format] => 
-                                    [safe_value] => Soltero
-                                )
-
-                        )
-
-                )
-
-            [field_l_est_cont_ge] => Array
-                (
-                )
-
-            [field_l_est_del_ing] => Array
-                (
-                )
-
-            [field_l_est_del_man] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Vigente
-                                    [format] => 
-                                    [safe_value] => Vigente
-                                )
-
-                        )
-
-                )
-
-            [field_l_fax] => Array
-                (
-                )
-
-            [field_l_f_eg] => Array
-                (
-                )
-
-            [field_l_f_in] => Array
-                (
-                )
-
-            [field_l_fecha_de_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 1985-01-13
-                                    [format] => 
-                                    [safe_value] => 1985-01-13
-                                )
-
-                        )
-
-                )
-
-            [field_l_form_dire] => Array
-                (
-                )
-
-            [field_l_foto] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000001Xut4g&amp;feoid=00NG0000008HdXa&amp;refid=0EM1L000000UsAW" alt="Castro, Sandra Daniela.jpg"></img></p>
-                                    [format] => 
-                                    [safe_value] => &lt;p&gt;&lt;img src=&quot;https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000001Xut4g&amp;amp;feoid=00NG0000008HdXa&amp;amp;refid=0EM1L000000UsAW&quot; alt=&quot;Castro, Sandra Daniela.jpg&quot;&gt;&lt;/img&gt;&lt;/p&gt;
-                                )
-
-                        )
-
-                )
-
-            [field_l_in_fe_ba] => Array
-                (
-                )
-
-            [field_l_in_fe_in] => Array
-                (
-                )
-
-            [field_l_in_tran] => Array
-                (
-                )
-
-            [field_l_inst] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Universidad Nacional de San Juan
-                                    [format] => 
-                                    [safe_value] => Universidad Nacional de San Juan
-                                )
-
-                        )
-
-                )
-
-            [field_l_inst_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_inst_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_int_esp_fdl] => Array
-                (
-                )
-
-            [field_l_link_dl_on] => Array
-                (
-                )
-
-            [field_l_lista] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_loc_de_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Caucete
-                                    [format] => 
-                                    [safe_value] => Caucete
-                                )
-
-                        )
-
-                )
-
-            [field_l_mandato] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 2015-2021
-                                    [format] => 
-                                    [safe_value] => 2015-2021
-                                )
-
-                        )
-
-                )
-
-            [field_l_mc_subs] => Array
-                (
-                )
-
-            [field_l_niv_de_gob] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Nacional
-                                    [format] => 
-                                    [safe_value] => Nacional
-                                )
-
-                        )
-
-                )
-
-            [field_l_no_ll] => Array
-                (
-                )
-
-            [field_l_nombre] => Array
-                (
-                )
-
-            [field_l_nombre_cuenta] => Array
-                (
-                )
-
-            [field_l_nombre_conyuge] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_n_r_c_e] => Array
-                (
-                )
-
-            [field_l_n_r_f] => Array
-                (
-                )
-
-            [field_l_num_con] => Array
-                (
-                )
-
-            [field_l_num_lis] => Array
-                (
-                )
-
-            [field_l_ofi] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (Anexo C)
-                                    [format] => 
-                                    [safe_value] => (Anexo C)
-                                )
-
-                        )
-
-                )
-
-            [field_l_ori_del_can] => Array
-                (
-                )
-
-            [field_l_otros] => Array
-                (
-                )
-
-            [field_l_pag_web] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => www.danicastro.com.ar
-                                    [format] => 
-                                    [safe_value] => www.danicastro.com.ar
-                                )
-
-                        )
-
-                )
-
-            [field_l_pai_de_nac] => Array
-                (
-                )
-
-            [field_l_piso] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 7º
-                                    [format] => 
-                                    [safe_value] => 7º
-                                )
-
-                        )
-
-                )
-
-            [field_l_pro_del_con] => Array
-                (
-                )
-
-            [field_l_provincia] => Array
-                (
-                )
-
-            [field_l_provincia_leg_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_provincia_nac] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => San Juan
-                                    [format] => 
-                                    [safe_value] => San Juan
-                                )
-
-                        )
-
-                )
-
-            [field_l_pro_pre] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 3387-D-2018. Ley etica publica -Ley 25188-. Incorporacion del capitulo viii, sobre oficina de anticorrupcion.
-3240-D-2018. Ley declarar de interes social la regularizacion dominial de los inmuebles registrados en el "Registro nacional de barrios populars -renabap-". Modificacion de las leyes 20396, 21477, 21890, 23967 y 24374. Derogacion del decreto - Ley 22423.
-                                    [format] => 
-                                    [safe_value] => 3387-D-2018. Ley etica publica -Ley 25188-. Incorporacion del capitulo viii, sobre oficina de anticorrupcion.
-3240-D-2018. Ley declarar de interes social la regularizacion dominial de los inmuebles registrados en el &quot;Registro nacional de barrios populars -renabap-&quot;. Modificacion de las leyes 20396, 21477, 21890, 23967 y 24374. Derogacion del decreto - Ley 22423.
-                                )
-
-                        )
-
-                )
-
-            [field_l_razo_de_ingr] => Array
-                (
-                )
-
-            [field_l_razo_de_inte] => Array
-                (
-                )
-
-            [field_l_sala_legi] => Array
-                (
-                )
-
-            [field_l_secc_depa] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_ayudante] => Array
-                (
-                )
-
-            [field_l_secretario_a] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Mauricio León Mancuso
-                                    [format] => 
-                                    [safe_value] => Mauricio León Mancuso
-                                )
-
-                        )
-
-                )
-
-            [field_l_sexo] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Femenino
-                                    [format] => 
-                                    [safe_value] => Femenino
-                                )
-
-                        )
-
-                )
-
-            [field_l_survey] => Array
-                (
-                )
-
-            [field_l_telefono] => Array
-                (
-                )
-
-            [field_l_telefono_int] => Array
-                (
-                )
-
-            [field_l_telefono_del_s] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (011) 155-220-3797
-                                    [format] => 
-                                    [safe_value] => (011) 155-220-3797
-                                )
-
-                        )
-
-                )
-
-            [field_l_telefono_d] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => No tiene
-                                    [format] => 
-                                    [safe_value] => No tiene
-                                )
-
-                        )
-
-                )
-
-            [field_l_telefono_en_di] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => (0264) 422-3237
-                                    [format] => 
-                                    [safe_value] => (0264) 422-3237
-                                )
-
-                        )
-
-                )
-
-            [field_l_regi_de_cont] => Array
-                (
-                )
-
-            [field_l_titulo] => Array
-                (
-                )
-
-            [field_l_titulo_acad] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Licenciado en Ciencia Política
-                                    [format] => 
-                                    [safe_value] => Licenciado en Ciencia Política
-                                )
-
-                        )
-
-                )
-
-            [field_l_titulo_acad_2] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_titulo_acad_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_ubi_en_la_lis] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 
-                                    [format] => 
-                                    [safe_value] => 
-                                )
-
-                        )
-
-                )
-
-            [field_l_u_f_s_s] => Array
-                (
-                )
-
-            [field_l_u_f_s_s_2] => Array
-                (
-                )
-
-            [field_l_u_m_por] => Array
-                (
-                )
-
-            [field_l_partido] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => 001G000000hb2DUIAY
-                                    [format] => 
-                                    [safe_value] => 001G000000hb2DUIAY
-                                )
-
-                        )
-
-                )
-
-            [field_foto2] => Array
-                (
-                )
-
-            [field_bloque_final] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Frente para la Victoria - PJ
-                                    [format] => 
-                                    [safe_value] => Frente para la Victoria - PJ
-                                )
-
-                        )
-
-                )
-
-            [field_distrtito_final] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Argentina
-                                    [format] => 
-                                    [safe_value] => Argentina
-                                )
-
-                        )
-
-                )
-
-            [field_foto_3] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Castro-SandraDaniela.jpg
-                                    [format] => 
-                                    [safe_value] => Castro-SandraDaniela.jpg
-                                )
-
-                        )
-
-                )
-
-            [field_l_ciudad_legislatura] => Array
-                (
-                    [und] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [value] => Ciudad Autónoma de Buenos Aires
-                                    [format] => 
-                                    [safe_value] => Ciudad Autónoma de Buenos Aires
-                                )
-
-                        )
-
-                )
-
-            [rdf_mapping] => Array
-                (
-                    [rdftype] => Array
-                        (
-                            [0] => sioc:Item
-                            [1] => foaf:Document
-                        )
-
-                    [title] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:title
-                                )
-
-                        )
-
-                    [created] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:date
-                                    [1] => dc:created
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                    [changed] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => dc:modified
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                    [body] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => content:encoded
-                                )
-
-                        )
-
-                    [uid] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:has_creator
-                                )
-
-                            [type] => rel
-                        )
-
-                    [name] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => foaf:name
-                                )
-
-                        )
-
-                    [comment_count] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:num_replies
-                                )
-
-                            [datatype] => xsd:integer
-                        )
-
-                    [last_activity] => Array
-                        (
-                            [predicates] => Array
-                                (
-                                    [0] => sioc:last_activity_date
-                                )
-
-                            [datatype] => xsd:dateTime
-                            [callback] => date_iso8601
-                        )
-
-                )
-
-            [cid] => 0
-            [last_comment_timestamp] => 1464803417
-            [last_comment_name] => 
-            [last_comment_uid] => 0
-            [comment_count] => 0
-            [name] => 
-            [picture] => 0
-            [data] => 
-            [entity_view_prepared] => 1
-        )
-
-    [nombre_del_legislador] => Sandra Daniela Castro
-    [sexo] => Femenino
-    [id_salesforce_legislador] => 003G000001Xut4gIAB
-    [asesor_de_prensa] => Gastón Aballay
-    [cantidad_de_hijos] => No tiene
-    [cel_del_asesor_de_prensa] => (0264) 155-749-304
-    [comisiones_a_las_que_pertenece] => 8
-    [correo_del_mandato] => scastro@diputados.gob.ar
-    [twitter] => @d_castrooficial
-    [direccion] => Ignacio de la Roza 697 (Oeste) Piso 2
-    [empleados_a_cargo] => No responde
-    [especializacion] => Cultura; Deportes; Relaciones Exteriores; Ciencia y Tecnología
-    [especializacion_titulo] => No Responde
-    [especializacion_titulo_2] => No Responde
-    [especializacion_titulo_3] => No Responde
-    [estado_civil] => Soltero
-    [fecha_de_nacimiento] => 13/01/1985
-    [localidad_de_nacimiento] => Caucete
-    [mandato] => 2015-2021
-    [pagina_web] => www.danicastro.com.ar
-    [proyectos_presentados] => 3387-D-2018. Ley etica publica -Ley 25188-. Incorporacion del capitulo viii, sobre oficina de anticorrupcion.
-3240-D-2018. Ley declarar de interes social la regularizacion dominial de los inmuebles registrados en el "Registro nacional de barrios populars -renabap-". Modificacion de las leyes 20396, 21477, 21890, 23967 y 24374. Derogacion del decreto - Ley 22423.
-    [proyectos] => Array
-        (
-            [0] => 3387-D-2018. Ley etica publica -Ley 25188-. Incorporacion del capitulo viii, sobre oficina de anticorrupcion.
-            [1] => 3240-D-2018. Ley declarar de interes social la regularizacion dominial de los inmuebles registrados en el "Registro nacional de barrios populars -renabap-". Modificacion de las leyes 20396, 21477, 21890, 23967 y 24374. Derogacion del decreto - Ley 22423.
-        )
-
-    [proyectos_presentados_new] => <span class="grisimp">3387-D-2018.</span> Ley etica publica -Ley 25188-. Incorporacion del capitulo viii, sobre oficina de anticorrupcion.<br><span class="grisimp">3240-D-2018.</span> Ley declarar de interes social la regularizacion dominial de los inmuebles registrados en el "Registro nacional de barrios populars -renabap-". Modificacion de las leyes 20396, 21477, 21890, 23967 y 24374. Derogacion del decreto - Ley 22423.<br>
-    [val] => 3240-D-2018. Ley declarar de interes social la regularizacion dominial de los inmuebles registrados en el "Registro nacional de barrios populars -renabap-". Modificacion de las leyes 20396, 21477, 21890, 23967 y 24374. Derogacion del decreto - Ley 22423.
-    [key] => 1
-    [secretario_a] => Mauricio León Mancuso
-    [telefono_del_secretario] => (011) 155-220-3797
-    [telefono] => 
-    [field_l_telefono_en_di] => (0264) 422-3237
-    [titulo_academico] => Licenciado en Ciencia Política
-    [titulo_academico_2] => 
-    [titulo_academico_3] => 
-    [anio_titulo_1] => 2010
-    [anio_titulo_2] => 
-    [anio_titulo_3] => 
-    [institucion_titulo_1] => Universidad Nacional de San Juan
-    [institucion_titulo_2] => 
-    [institucion_titulo_3] => 
-    [ubicacion_en_la_lista] => No Responde
-    [provincia] => San Juan
-    [distrito] => San Juan
-    [id_del_partido] => 001G000000hb2DUIAY
-    [foto] => <p><img src="https://directoriolegislativo--c.na76.content.force.com/servlet/rtaImage?eid=003G000001Xut4g&feoid=00NG0000008HdXa&refid=0EM1L000000UsAW" alt="Castro, Sandra Daniela.jpg"></img></p>
-    [cargo_universal] => Diputado Nacional
-    [cargo_segun_sexo] => Diputada Nacional
-    [partido] => Al. Frente Para La Victoria
-    [bloque] => Pj - Frente para la Victoria
-    [lista] => Array
-        (
-            [title] => No hay una lista asignada
-            [porcentaje_de_votos] => No hay una lista asignada
-            [cantidad_de_bancas] => No hay una lista asignada
-        )
-
-    [conyuge] => 
-    [provincia_nac] => San Juan
-    [comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => Ciencia, Tecnología e Innovación productiva
-                    [cargo] => Presidente
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => Cultura
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => Educación
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => Recursos Naturales y Conservacion del Ambiente Humano
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => Relaciones Exteriores y Culto
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [5] => Array
-                (
-                    [nombre_de_la_comision] => Discapacidad
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [6] => Array
-                (
-                    [nombre_de_la_comision] => Prevención de las Adicciones
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [7] => Array
-                (
-                    [nombre_de_la_comision] => Prevención de Adicciones y Control del Narcotráfico
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-        )
-
-    [link_comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => Ciencia, Tecnología e Innovación productiva
-                    [cargo] => Presidente
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => Cultura
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => Educación
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => Recursos Naturales y Conservacion del Ambiente Humano
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => Relaciones Exteriores y Culto
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [5] => Array
-                (
-                    [nombre_de_la_comision] => Discapacidad
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [6] => Array
-                (
-                    [nombre_de_la_comision] => Prevención de las Adicciones
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-            [7] => Array
-                (
-                    [nombre_de_la_comision] => Prevención de Adicciones y Control del Narcotráfico
-                    [cargo] => Vocal
-                    [estado] => Vigente
-                    [link_de_la_comision] => 
-                )
-
-        )
-
-    [ultima_comision] => Array
-        (
-            [0] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [1] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [2] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [3] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [4] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [5] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [6] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [7] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [8] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [9] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [10] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [11] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-            [12] => Array
-                (
-                    [nombre_de_la_comision] => No hay comisiones vigentes
-                    [cargo] => No hay comisiones vigentes
-                    [estado] => No hay comisiones vigentes
-                )
-
-        )
-
-    [votacion_nominal] => Array
-        (
-            [0] => Array
-                (
-                    [title] => Ley 27.249 (Ley de pago a los holdouts)
-                    [field_dic_n_pddic] => Ley de pago a los Fondos Buitre
-                    [field_dic_numero] => 
-                    [field_dic_sd_fsd] => 2016-03-31
-                    [voto_del_legislador] => Negativo
-                    [nid] => 95636
-                    [resultado] => Negativo
-                )
-
-            [1] => Array
-                (
-                    [title] => Ley de Emergencia Ocupacional (vetada)
-                    [field_dic_n_pddic] => 
-                    [field_dic_numero] => 
-                    [field_dic_sd_fsd] => 
-                    [voto_del_legislador] => Afirmativo
-                    [nid] => 95637
-                    [resultado] => Afirmativo
-                )
-
-        )
-
-    [equipo_de_trabajo] => Array
-        (
-            [0] => Array
-                (
-                    [nombre] => Omar Antonio
-                    [apellido] => Bojos
-                    [especializacion] => Secretario
-                    [estado] => No vigente
-                )
-
-            [1] => Array
-                (
-                    [nombre] => Eduardo
-                    [apellido] => Leonardelli
-                    [especializacion] => Educación
-                    [estado] => Vigente
-                )
-
-            [2] => Array
-                (
-                    [nombre] => Mauricio León
-                    [apellido] => Mancuso
-                    [especializacion] => Cultura
-                    [estado] => Vigente
-                )
-
-            [3] => Array
-                (
-                    [nombre] => Gonzalo Alexis
-                    [apellido] => Bustos
-                    [especializacion] => Politólogo (Com. de Relaciones Exteriores y Culto, y de la Com. de Cultura
-                    [estado] => No vigente
-                )
-
-            [4] => Array
-                (
-                    [nombre] => Claudio
-                    [apellido] => García
-                    [especializacion] => Trabajo
-                    [estado] => Vigente
-                )
-
-            [5] => Array
-                (
-                    [nombre] => Fernanda
-                    [apellido] => Manzano
-                    [especializacion] => Derecho Penal
-                    [estado] => Vigente
-                )
-
-        )
-
-    [otras_acti_prev_del_legislador] => Array
-        (
-            [Privada] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => No responde
-                            [tipo_de_acti] => Privada
-                            [desde] => 
-                            [hasta] => 
-                            [otra_orga] => 
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => No responde
-                        )
-
-                )
-
-            [Partidaria] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => Triunvira de la Juventud Peronista
-                            [tipo_de_acti] => Partidaria
-                            [desde] => 2011
-                            [hasta] => 2014
-                            [otra_orga] => 
-                            [partido_organizacion] => Partido Justicialista
-                            [titulo] => Triunvira de la Juventud Peronista
-                        )
-
-                    [1] => Array
-                        (
-                            [cargo] => Secretaria de Juventud
-                            [tipo_de_acti] => Partidaria
-                            [desde] => 2014
-                            [hasta] => 
-                            [otra_orga] => 
-                            [partido_organizacion] => Partido Justicialista
-                            [titulo] => Secretaria de Juventud
-                        )
-
-                    [2] => Array
-                        (
-                            [cargo] => Consejera Nacional
-                            [tipo_de_acti] => Partidaria
-                            [desde] => 2014
-                            [hasta] => 
-                            [otra_orga] => 
-                            [partido_organizacion] => Partido Justicialista
-                            [titulo] => Consejera Nacional
-                        )
-
-                )
-
-            [Donaciones] => Array
-                (
-                    [0] => Array
-                        (
-                            [cargo] => 
-                            [tipo_de_acti] => Donaciones
-                            [desde] => 
-                            [hasta] => 
-                            [otra_orga] => No responde
-                            [partido_organizacion] => No hay un partido asignado
-                            [titulo] => 
-                        )
-
-                )
-
-        )
-
-    [actividades_previas_del_legislador] => Array
-        (
-            [0] => Array
-                (
-                    [cargo] => Diputado Nacional
-                    [organizacion] => 
-                    [mandato] => 2013-2017
-                    [espe_univ] => 
-                    [field_app_ca_un] => Diputado Nacional
-                    [field_app_edcu] => 
-                    [field_app_distrito_reference] => Argentina
-                    [field_app_dis_mad] => 
-                )
-
-            [1] => Array
-                (
-                    [cargo] => Directora
-                    [organizacion] => Secretaría de Ciencia, Tecnología e Innovación
-                    [mandato] => 2012-2013
-                    [espe_univ] => de Promoción Científica y Cooperación Internacional
-                    [field_app_ca_un] => Directora
-                    [field_app_edcu] => de Promoción Científica y Cooperación Internacional
-                    [field_app_distrito_reference] => San Juan
-                    [field_app_dis_mad] => 
-                )
-
-            [2] => Array
-                (
-                    [cargo] => Empleado
-                    [organizacion] => Ministerio de Salud
-                    [mandato] => 2010-2012
-                    [espe_univ] => administrativa
-                    [field_app_ca_un] => Empleado
-                    [field_app_edcu] => administrativa
-                    [field_app_distrito_reference] => San Juan
-                    [field_app_dis_mad] => 
-                )
-
-            [3] => Array
-                (
-                    [cargo] => Empleado
-                    [organizacion] => Ministerio de Desarrollo Humano
-                    [mandato] => 2004-2010
-                    [espe_univ] => Administrativa
-                    [field_app_ca_un] => Empleado
-                    [field_app_edcu] => Administrativa
-                    [field_app_distrito_reference] => San Juan
-                    [field_app_dis_mad] => 
-                )
-
-        )
-
-    [salario] => Array
-        (
-            [0] => Array
-                (
-                    [salario] => Sueldo bruto: $58.417,17 (dieta: $48,417,17 + gastos de representación: $10.000) + Desarraigo: $8.301,07 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres)
-                )
-
-            [1] => Array
-                (
-                    [salario] => Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + Desarraigo: $12.807,04 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).
-                )
-
-        )
-
-    [ultimo_salario] => Array
-        (
-            [salario] => Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + Desarraigo: $12.807,04 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).
-        )
-
-    [field_l_direccion] => Av. Rivadavia 1841
-    [field_l_piso] => 7º
-    [field_l_ofi] => (Anexo C)
-    [field_l_ciudad_legislatura] => Ciudad Autónoma de Buenos Aires
-    [field_l_cod_pos] => C1033AAV
-    [img_uri] => Castro-SandraDaniela.jpg
-    [foto_new] => /sites/default/files/legislador/Castro-SandraDaniela.jpg
-)
- -->
-
-
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="info text-project">
-              <div class="text">Partido</div>
-              <a href="" class="pull-left">Al. Frente Para La Victoria</a>
-              <div style="clear:both"></div>
-            </div>
-            <div class="info type">
-              <div class="text">Mandato</div>
-              2015-2021            </div>
-          </div>
-          <div style="clear:both"></div>
-          <div class="activity text">
-            <ul class="nav nav-tabs">
-              <li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
-              <li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
-            </ul>
-            <div style="clear:both"></div>
-            <div class="tab-content">
-              <div id="home" class="tab-pane fade in active">
-                <h3 class="title">Especialización:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity specialization">
-                    Cultura; Deportes; Relaciones Exteriores; Ciencia y Tecnología                  </li>
-                </ul>
-                <h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                                      <div class="info-activity comission">
-                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Ciencia, Tecnología e Innovación productiva                          </span>
-                                                                        (Presidenta),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Cultura                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Educación                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Recursos Naturales y Conservacion del Ambiente Humano                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Relaciones Exteriores y Culto                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Discapacidad                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Prevención de las Adicciones                          </span>
-                                                                        (Vocal),                                                                        <span class="titlenombrecomision comisiones nombrecomision">
-                            Prevención de Adicciones y Control del Narcotráfico                          </span>
-                                                                        (Vocal).                                          </div>
-                                  </ul>
-                <h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity projects">
-                    <span class="grisimp">3387-D-2018.</span> Ley etica publica -Ley 25188-. Incorporacion del capitulo viii, sobre oficina de anticorrupcion.<br><span class="grisimp">3240-D-2018.</span> Ley declarar de interes social la regularizacion dominial de los inmuebles registrados en el "Registro nacional de barrios populars -renabap-". Modificacion de las leyes 20396, 21477, 21890, 23967 y 24374. Derogacion del decreto - Ley 22423.<br>                  </li>
-                </ul>
-                <h3 class="title alone">
-                  Empleados a cargo:
-                  <span class="empleados-a-cargo-item">
-                    No responde                  </span>
-                </h3>
-                <h3 class="title">Equipo de trabajo:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity employees">
-                                                                                                            Eduardo Leonardelli <span class='grisimp'>(Educación)</span>;                                                                     Mauricio León Mancuso <span class='grisimp'>(Cultura)</span>;                                                                     Claudio García <span class='grisimp'>(Trabajo)</span>;                                                                     Fernanda Manzano <span class='grisimp'>(Derecho Penal)</span>.                                                            </li>
-                </ul>
-                <h3 class="title">Resultados electorales:</h3>
-                <ul class="tab-content legislative-activity" data-id="1">
-                  <li class="info-activity ubication">
-                  <div>
-                      <strong class="title">Ubicación en la lista:</strong>
-                      <span class="resultados-electorales-item">
-                        No Responde                      </span>
-                    </div>
-                  </li>
-                  <li class="info-activity seat">
-                  <div>
-                      <strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
-                      <span class="resultados-electorales-item">
-                                                  No hay una lista asignada                                              </span >
-                    </div>
-                  </li>
-                  <li class="info-activity votes">
-                  <div>
-                      <strong class="title">Votos obtenidos:</strong>
-                      <span class="resultados-electorales-item">
-                                                  No hay una lista asignada                                              </span >
-                    </div>
-                  </li>
-                </ul>
-              </div>
-              <div id="menu1" class="tab-pane fade">
-                <ul class="tab-content other-activity" data-id="2">
-                  <div class="other public-activity">
-                    <div class="title">
-                      Actividad pública previa
-                    </div>
-                    <li class="info-activity">
-                                                                        Diputada Nacional                                                    <span class="extra-info">
-                            - Argentina                             (2013-2017)                       <!--       -->
-                          </span>
-                          <br>
-                                                  Directora                          de Promoción Científica y Cooperación Internacional                          <span class="extra-info">
-                            - San Juan                             (2012-2013)                       <!--      - Secretaría de Ciencia, Tecnología e Innovación -->
-                          </span>
-                          <br>
-                                                  Empleada                          administrativa                          <span class="extra-info">
-                            - San Juan                             (2010-2012)                       <!--      - Ministerio de Salud -->
-                          </span>
-                          <br>
-                                                  Empleada                          Administrativa                          <span class="extra-info">
-                            - San Juan                             (2004-2010)                       <!--      - Ministerio de Desarrollo Humano -->
-                          </span>
-                          <br>
-                                                                  </li>
-                  </div>
-                  <div class="other private-activity">
-                                                                                          <div class="title">Privada </div>
-                        <li class="info-activity">
-                                                                                                                No responde                              <span class="grisimp">
-                                                                                              </span>
-                              <br>
-                                                                              </li>
-                                                                                                                <div class="title">Partidaria </div>
-                        <li class="info-activity">
-                                                                                                                Triunvira de la Juventud Peronista                              <span class="grisimp">
-                                - Partido Justicialista                                (2011-2014)                              </span>
-                              <br>
-                                                                                                                                            Secretaria de Juventud                              <span class="grisimp">
-                                - Partido Justicialista                                (2014)                              </span>
-                              <br>
-                                                                                                                                            Consejera Nacional                              <span class="grisimp">
-                                - Partido Justicialista                                (2014)                              </span>
-                              <br>
-                                                                              </li>
-                                                                                                                <div class="title">Donaciones </div>
-                        <li class="info-activity">
-                                                                                                                No responde                                                            <br>
-                                                                              </li>
-                                                              <div class="other ingr-activity">
-                      <div class="title">Ingresos brutos</div>
-                      <li class="info-activity">
-                        Sueldo bruto sujeto a deducciones: $90.126,96 (dieta: $80.126,96 + gastos de representación: $10.000) + Desarraigo: $12.807,04 + 40 órdenes de pasajes oficiales (20 aéreos y 20 terrestres).                      </li>
-                    </div>
-                  </div>
-                </ul>
-              </div>
-            </div>
-            <div class="nominal">
-                            <div class="title" style="margin-bottom: 22px !important;">Votaciones Nominales</div>
-                                            <div class="votacion">
-                  <div class="recinto">
-                                          <img src="/sites/all/themes/salesforce_directorio/img/senadores.svg" alt="">
-                                        <span class="nuestro-legislador voto-negativo"></span>
-                  </div>
-                  <div class="law">
-                   <p></p>
-                    <p>Ley 27.249 (Ley de pago a los holdouts)</p>
-                    <p class="voto-negativo">Negativo</p>
-                  <div style="clear:both"></div>
-                  </div>
-                </div>
-                            <div class="votacion">
-                  <div class="recinto">
-                    
-                      <img src="/sites/all/themes/salesforce_directorio/img/senadores_v.svg" alt="">
-                                        <span class="nuestro-legislador voto-afirmativo"></span>
-                  </div>
-                  <div class="law">
-                   <p></p>
-                    <p>Ley de Emergencia Ocupacional (vetada)</p>
-                    <p class="voto-afirmativo">Afirmativo</p>
-                  <div style="clear:both"></div>
-                  </div>
-                </div>
-                        <div style="clear:both"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-3 bloque_derecha relations relations-projects">
-    <div class="title">¿Cómo comunicarse?</div>
-    <div class="border"></div>
-    <ul class="data place">
-      <li class="name-place">En el Congreso de la Nación</li>
-      <li class="address">
-        Av. Rivadavia 1841      </li>
-      <li class="zone">
-        7º        piso, of.
-        (Anexo C),
-        Ciudad Autónoma de Buenos Aires        (C1033AAV)
-      </li>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-phone"></i> Teléfono
-      </li>
-      <li class="tel-number">
-                  No tiene
-              </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-link"></i>&nbsp; Sitio Web
-      </li>
-      <li class="tel-number">
-                  <a href="http://www.danicastro.com.ar" target="_blank">www.danicastro.com.ar</a>
-              </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data email" style="padding: 0px 0px 0px 0px;" >
-      <li class="title" >
-        <i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
-      </li>
-      <li class="mail">
-                  <a class="mail_especial" href="mailto:scastro@diputados.gob.ar">scastro@diputados.gob.ar</a>
-              </li>
-       <div style="clear:both"></div>
-    </ul>
-    <ul class="data secretary" style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-user"></i> Secretario/a
-      </li>
-      <li class="name-secretary">Mauricio León Mancuso</li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data advisory"  style="padding: 0px 0px 0px 0px;">
-      <li class="title">
-        <i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
-      </li>
-      <li class="advisory-number">
-                  <span class="asesordeprensa">Gastón Aballay </span>
-          <br>
-          (0264) 155-749-304        
-      </li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data secretary"  style="padding: 0px 0px 0px 0px;">
-
-      <li class="title">En su distrito</li>
-      <li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
-      <li class="advisory-number">Ignacio de la Roza 697 (Oeste) Piso 2</li>
-      <li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
-      <li class="advisory-number">(0264) 422-3237</li>
-      <div style="clear:both"></div>
-    </ul>
-    <ul class="data telephone" style="padding: 0px 0px 0px 0px;">
-
-      <li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
-      <li class="tel-number" style="text-transform:lowercase !important;">
-                  <a href="https://twitter.com/@d_castrooficial" target="_blank">
-          @d_castrooficial<a class="twitter-timeline"
-            href="https://twitter.com/d_castrooficial"
-            data-widget-id="735728825129046016"
-            data-screen-name="d_castrooficial">
-            Tweets by @d_castrooficial</a>
-            <script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>      </a>
-    </li>
-    <div style="clear:both"></div>
-  </ul>
+San Juan 
+</div>
+</div>
+<div class="col-lg-6">
+<div class="info text-project">
+<div class="text">Partido</div>
+<a href="" class="pull-left">Al. Frente Para La Victoria</a>
+<div style="clear:both"></div>
+</div>
+<div class="info type">
+<div class="text">Mandato</div>
+2017-2021 </div>
+</div>
+<div style="clear:both"></div>
+<div class="activity text">
+<ul class="nav nav-tabs">
+<li class="tab active"><a data-toggle="tab" href="#home">Actividad legislativa</a></li>
+<li class="tab"><a data-toggle="tab" href="#menu1">Otras actividades</a></li>
+</ul>
+<div style="clear:both"></div>
+<div class="tab-content">
+<div id="home" class="tab-pane fade in active">
+<h3 class="title">Especialización:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity specialization">
+Cultura; Deportes; Relaciones Exteriores; Ciencia y Tecnología </li>
+</ul>
+<h3 class="title" style="margin-top: 14px;">Comisiones a las que pertenece</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<div class="info-activity comission">
+<span class="titlenombrecomision comisiones nombrecomision">
+Ciencia, Tecnología e Innovación productiva </span>
+(Presidenta), <span class="titlenombrecomision comisiones nombrecomision">
+Deportes </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Economías y Desarrollo Regional </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Libertad de Expresión </span>
+(Vocal), <span class="titlenombrecomision comisiones nombrecomision">
+Minería </span>
+(Vocal). </div>
+</ul>
+<h3 class="title" style="margin-top: 14px;">Proyectos Presentados</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity projects">
+<span class="grisimp">3387-D-2018.</span> Ley Ética pública -Ley 25.188-. Incorporación del Cap. VIII, sobre Oficina de Anticorrupción. <br><span class="grisimp">3240-D-2018.</span> Ley para declarar de interés social la regularización dominial de los inmuebles registrados en el "Registro nacional de barrios populares -RENABAP-". Modificación de las Leyes 20.396, 21.477, 21.890, 23.967 y 24.374. Derogación del decreto - Ley 22.423.<br> </li>
+</ul>
+<h3 class="title alone">
+Empleados a cargo:
+<span class="empleados-a-cargo-item">
+No responde </span>
+</h3>
+<h3 class="title">Equipo de trabajo:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity employees">
+Eduardo Leonardelli <span class='grisimp'>(Educación)</span>; Lucila Puyol <span class='grisimp'>(Género y DDHH)</span>; Javier Navarro <span class='grisimp'>(Presupuesto)</span>; Gerardo Girón <span class='grisimp'>(Relaciones Internacionales)</span>.
+</li>
+</ul>
+<h3 class="title">Resultados electorales:</h3>
+<ul class="tab-content legislative-activity" data-id="1">
+<li class="info-activity ubication">
+<div>
+<strong class="title">Ubicación en la lista:</strong>
+<span class="resultados-electorales-item">
+2 </span>
+</div>
+</li>
+<li class="info-activity seat">
+<div>
+<strong class="title">Cantidad de bancas obtenidas por esta lista:</strong>
+<span class="resultados-electorales-item">
+2 </span >
+</div>
+</li>
+<li class="info-activity votes">
+<div>
+<strong class="title">Votos obtenidos:</strong>
+<span class="resultados-electorales-item">
+0,517347 </span >
+</div>
+ </li>
+</ul>
+</div>
+<div id="menu1" class="tab-pane fade">
+<ul class="tab-content other-activity" data-id="2">
+<div class="other public-activity">
+<div class="title">
+Actividad pública previa
+</div>
+<li class="info-activity">
+Diputada Nacional por San Juan <span class="extra-info">
+(2013-2017)
+- Argentina </span>
+<br>
+Directora de Promoción Científica y Cooperación Internacional <span class="extra-info">
+(2012-2013)
+- Secretaría de Ciencia, Tecnología e Innovación - San Juan </span>
+<br>
+Empleada administrativa <span class="extra-info">
+(2010-2012)
+- Hospital M .V. Quiroga - San Juan </span>
+<br>
+Empleada administrativa <span class="extra-info">
+(2004-2009)
+- Ministerio de Desarrollo Humano - San Juan </span>
+<br>
+</li>
+</div>
+<div class="other private-activity">
+
+<div class="title">Privada </div>
+<li class="info-activity">
+Consejera Provincial <span class="grisimp">
+(2014 - 2018)
+</span>
+<br>
+</li>
+
+ <div class="title">Partidaria </div>
+<li class="info-activity">
+Triunvira de la Juventud Peronista <span class="grisimp">
+- Partido Justicialista
+(2011 - 2014)
+</span>
+<br>
+Secretaria de Juventud <span class="grisimp">
+- Partido Justicialista
+2014 -
+</span>
+<br>
+</li>
+
+<div class="title">Donaciones </div>
+<li class="info-activity">
+No responde <br>
+</li>
+<div class="other ingr-activity">
+<div class="title">Ingresos brutos</div>
+<li class="info-activity">
+Sueldo bruto: $162.600,86 (dieta: $142.600,86 + gastos de representación: $20.000) + Desarraigo: $23.105,58 + la opción elegida para el régimen de pasajes según resolución 487/2018 </li>
+</div>
+</div>
+</ul>
+</div>
+</div>
+<div class="nominal">
+<div style="clear:both"></div>
 </div>
 </div>
 </div>
-
+</div>
+</div>
+<div class="col-md-3 bloque_derecha relations relations-projects">
+<div class="title">¿Cómo comunicarse?</div>
+<div class="border"></div>
+<ul class="data place">
+<li class="name-place">En el Congreso de la Nación</li>
+<li class="address">
+Av. Rivadavia 1841 </li>
+<li class="zone">
+7º piso, of.
+,
+Ciudad Autónoma de Buenos Aires (C1033AAV)
+</li>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-phone"></i> Teléfono
+</li>
+<li class="tel-number">
+(011) 4127- </li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-link"></i>&nbsp; Sitio Web
+</li>
+<li class="tel-number">
+<a href="http://www.danicastro.com.ar" target="_blank">www.danicastro.com.ar</a>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data email" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-envelope"></i>&nbsp; Correo Electrónico
+</li>
+<li class="mail">
+<a class="mail_especial" href="/cdn-cgi/l/email-protection#addececcded9dfc2edc5cec9c383cac2cf83ccdf"><span class="__cf_email__" data-cfemail="156676746661677a557d76717b3b727a773b7467">[email&#160;protected]</span></a>
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-user"></i> Secretario/a
+</li>
+<li class="name-secretary">María Fernanda Manzano</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data advisory" style="padding: 0px 0px 0px 0px;">
+<li class="title">
+<i class="fa fa-user"></i>&nbsp; Asesor/a de Prensa
+</li>
+<li class="advisory-number">
+<span class="asesordeprensa">Hugo Vinzio Maggio </span>
+<br>
+(0264) 155-312-297
+</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data secretary" style="padding: 0px 0px 0px 0px;">
+<li class="title">En su distrito</li>
+<li class="title"><i class="fa fa-home"></i>&nbsp; Dirección: </li>
+<li class="advisory-number">Ignacio de la Roza 697 (Oeste) Piso 2</li>
+<li class="title"><i class="fa fa-phone"></i>&nbsp; Teléfono: </li>
+<li class="advisory-number">(0264) 421-3349</li>
+<div style="clear:both"></div>
+</ul>
+<ul class="data telephone" style="padding: 0px 0px 0px 0px;">
+<li class="title"><i class="fa fa-twitter"></i>&nbsp; Twitter</li>
+<li class="tel-number" style="text-transform:lowercase !important;">
+<a href="https://twitter.com/@d_castrooficial" target="_blank">
+@d_castrooficial<a class="twitter-timeline" href="https://twitter.com/d_castrooficial" data-widget-id="735728825129046016" data-screen-name="d_castrooficial">
+Tweets by @d_castrooficial</a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </a>
+</li>
+<div style="clear:both"></div>
+</ul>
+</div>
+</div>
+</div>
 </section>
-  </div>
-    </section>
-
-    
-  </div>
 </div>
-
-  <footer class="footer container">
-          <div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
-            <div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
-                2011 Fundación Directorio Legislativo
-            </div>
-            <div class="text-copy">
-              Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A. 
-            </div>
-            <div class="text-copy">
-              Tel: 5411-52184647/5411-52364293.
-            </div>
-            <div class="text-copy">
-              TODOS LOS DERECHOS RESERVADOS.
-            </div>
-          </div>
-
-
-
-          <div class="col-lg-3 copyright pull-right">
-
-  <span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
-  <span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
-  <span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
-  <span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
-  <span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
-
-          </div>
-          <div style="clear:both"></div>
-  </footer>
-
-
-
-
-
-
-</div>    <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?padims"></script>
+</section>
+</div>
+</div>
+<footer class="footer container">
+<div class="col-lg-4 copyright pull-left" style="text-align: left !important;">
+<div class="text-copy" style="font-size: 13px !important; font-weight: bold !important; color: #ffffff !important;">
+2011 Fundación Directorio Legislativo
+</div>
+<div class="text-copy">
+Av. Entre Ríos 258, &nbsp; 3º piso "E" (C1079ABP) - C.A.B.A.
+</div>
+<div class="text-copy">
+Tel: 5411-52184647/5411-52364293.
+</div>
+<div class="text-copy">
+TODOS LOS DERECHOS RESERVADOS.
+</div>
+</div>
+<div class="col-lg-3 copyright pull-right">
+<span class="st_facebook_large" displaytext="Facebook" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/facebook_32.png');"></span></span></span>
+<span class="st_twitter_large" displaytext="Tweet" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/twitter_32.png');"></span></span></span>
+<span class="st_linkedin_large" displaytext="LinkedIn" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/linkedin_32.png');"></span></span></span>
+<span class="st_email_large" displaytext="Email" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/email_32.png');"></span></span></span>
+<span class="st_blogger_large" displaytext="Blogger" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span class="stLarge" style="background-image: url('http://w.sharethis.com/images/blogger_32.png');"></span></span></span>
+</div>
+<div style="clear:both"></div>
+</footer>
+</div> <script src="http://directorio.directoriolegislativo.org/sites/all/themes/bootstrap/js/bootstrap.js?pgango"></script>
 </body>
 </html>
