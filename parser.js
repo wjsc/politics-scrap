@@ -7,6 +7,7 @@ const removeDoubleSpace = str => str.replace(/\s+/g," ");
 const emptyFilter = vector => !!vector || vector != ''
 const replaceEmpty = str => str === '' ? '-' : str
 const empty = '-'
+const separator = '~';
 module.exports = (html, url) => {
   const main = '#block-system-main';
   const $ = cheerio.load(html, { decodeEntities: false });
@@ -47,10 +48,10 @@ module.exports = (html, url) => {
   data.empleados = Empleados(get('.bloque_central .activity .tab-content #home .employees'));
   data.comisiones = Comisiones(get('.bloque_central .activity .tab-content #home .comission'));
   data.proyectos = Proyectos(get('.bloque_central .activity .tab-content #home .projects'));
-  data.publico = Publico(get('.bloque_central .activity .tab-content #menu1 .public-activity .info-activity'));
   data.privado = Privado($('.bloque_central .activity .tab-content #menu1 .private-activity .info-activity', main).eq(0).html() || empty);
   data.privadoextra = Privado($('.bloque_central .activity .tab-content #menu1 .private-activity .info-activity', main).eq(1).html() || empty);
   data.mail ='Email Protected by CDN'; 
+  data.publico = Publico(get('.bloque_central .activity .tab-content #menu1 .public-activity .info-activity'));
   Object.keys(data).filter(k => !Array.isArray(data[k])).forEach(k => data[k] = trim(replaceEmpty(removeTags(removeDoubleSpace(data[k])))));
   return data;
 }
@@ -84,7 +85,15 @@ const Empleados = html => {
 } 
 
 const Publico = html => {
-  return html.split('</span>').map(element => element.split('<span class="extra-info">').map(removeTags).map(removeDoubleSpace).map(trim).join(' ')).filter(emptyFilter).slice(0, -1);
+  return html.split('</span>').map(element => element.split('<span class="extra-info">').map(removeTags).map(removeDoubleSpace).map(trim).join(' ')).filter(emptyFilter)
+    .map(str => {
+      const regex = /\(([\d]+)\-([\d]+)\)/;
+      const job = str.replace(regex,'');
+      const match = str.match(regex) || [];
+      const from = match[1] || empty;
+      const to = match[2] || empty;
+      return job + separator + from + separator + to;
+    });
 } 
 
 const Privado = html => {
